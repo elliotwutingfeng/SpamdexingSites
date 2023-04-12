@@ -1,0 +1,24 @@
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '**.txt'
+name: Update lists with ABP syntax
+jobs:
+  abp-syntax:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout repo content
+      uses: actions/checkout@v3
+
+    - name: create ABP lists
+      run: |
+          sed 's/^/\|\|/;s/$/\^/' blocklist.txt > blocklist_ABP.txt
+          sed 's/^/\|\|/;s/$/\^$all/' blocklist.txt > blocklist_UBO.txt
+
+    - name: commit files
+      run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --name-only --cached --exit-code || ( git commit -am "Update ABP blocklists" && git push )
