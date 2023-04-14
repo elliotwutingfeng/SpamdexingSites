@@ -1,4 +1,5 @@
 ||0049-ibs.de^$all
+||123rotterdam.eu^$all
 ||123schlosserei.de^$all
 ||123shop.it^$all
 ||1a-media-zubehoer.de^$all
@@ -12,6 +13,7 @@
 ||3love.it^$all
 ||3x3elitesardinia.it^$all
 ||404foundit.it^$all
+||4funmotorowki.pl^$all
 ||4lf.pl^$all
 ||5shgniazdo.pl^$all
 ||600-jahre-altenbach.de^$all
@@ -33,13 +35,17 @@
 ||admaioraobiettivoavvocato.it^$all
 ||adriamoda.de^$all
 ||adrian-falk.de^$all
+||adrianmaciejewski.pl^$all
 ||adriano-restaurant.de^$all
 ||adriaticgames.it^$all
+||adsfactory.es^$all
 ||adventsbasar-schrattenhofen.de^$all
 ||advokom.de^$all
+||adwokat-tabor.pl^$all
 ||adwokat-windykacja.pl^$all
 ||aformer.de^$all
 ||afterworkwellness-diana.de^$all
+||agencementetmenuiserie.fr^$all
 ||agentgrouprecord.de^$all
 ||agenziaindustriale.it^$all
 ||agenziefunebrionline.it^$all
@@ -47,10 +53,13 @@
 ||aggiustasiti.it^$all
 ||aglaiaservice.it^$all
 ||agua-loca.de^$all
+||ahtownetrze.pl^$all
 ||ai-technology.it^$all
 ||aiastaormina.it^$all
 ||airwick-lasciatisorprendere.it^$all
 ||aitnapartments.it^$all
+||akcesoriaobronne.pl^$all
+||akustik-box.de^$all
 ||akvsdesign.de^$all
 ||alarmstufe-moin.de^$all
 ||alchimiadeisogni.it^$all
@@ -89,15 +98,18 @@
 ||angels-events.de^$all
 ||angolodelintrovabile.it^$all
 ||anhaenger-franken.de^$all
+||anillo-reloj.es^$all
 ||animaband.pl^$all
 ||ankepaap.de^$all
 ||ankeskreativevielfalt.de^$all
 ||anmare.pl^$all
+||annalisadesiata.it^$all
 ||antanasbaltphotography.de^$all
 ||antepercucina.it^$all
 ||anthy-passioncommune.fr^$all
 ||antje-christina-schweizer.de^$all
 ||antje-ottmers.de^$all
+||antonevich-sports.de^$all
 ||anwaltskanzlei-nieberding.de^$all
 ||aod3.it^$all
 ||ap-vermoegenskonzepte.de^$all
@@ -115,6 +127,7 @@
 ||appart-vermietung.de^$all
 ||appartamentierna.it^$all
 ||appartamentiluisa.it^$all
+||appartement-pueo-luchon.fr^$all
 ||apriltext.de^$all
 ||aptproject.eu^$all
 ||araldicapagnini.it^$all
@@ -134,6 +147,8 @@
 ||arresto-momentum.de^$all
 ||arrivareasanvitolocapo.it^$all
 ||ars-passau.de^$all
+||artdutoit35.fr^$all
+||arteparrucchieriestetica.it^$all
 ||artglas24.de^$all
 ||artigianodelborgo.it^$all
 ||artnwork.de^$all
@@ -145,7 +160,9 @@
 ||asfbt.de^$all
 ||asia-restaurant-landstuhl.de^$all
 ||asisters.it^$all
+||asociacion365.es^$all
 ||aspiranteimprenditrice.it^$all
+||asptttriathlonangers.fr^$all
 ||asscuochimaterani.it^$all
 ||assicuraprofessionista.it^$all
 ||assicurazionitaddia.it^$all
@@ -153,6 +170,7 @@
 ||associazionecavalierideltau.it^$all
 ||associazionemaffeochiecca.it^$all
 ||assoinformazioni.it^$all
+||asteure.fr^$all
 ||astro-engraving.de^$all
 ||asyanoleggi.it^$all
 ||atasit.de^$all
@@ -164,13 +182,16 @@
 ||attacchidipanico-italia.it^$all
 ||atuttoauto.it^$all
 ||atypowyjanek.pl^$all
+||audimag.es^$all
 ||aufinshierundjetzt.de^$all
 ||august-laemmle.de^$all
+||auroraimpiantisrl.it^$all
 ||auserpuglia.it^$all
 ||auto-graf.fr^$all
 ||autocomponentssrl.it^$all
 ||autofficinafucci.it^$all
 ||autoimmun-wende.de^$all
+||autonomosinformacion.es^$all
 ||autospa-uniquecars.de^$all
 ||avedon.pl^$all
 ||averie-gmbh.de^$all
@@ -193,6 +214,7 @@
 ||balance-aktivreisen.de^$all
 ||bambudelizia.it^$all
 ||bancadeltempoavt.it^$all
+||bandaancha.eu^$all
 ||baoburger.it^$all
 ||baral-racing.de^$all
 ||baralecostruzioni.it^$all
@@ -204,6 +226,8 @@
 ||barnasbarnehage.info^$all
 ||barworkacademy.pl^$all
 ||basestatenearly.de^$all
+||basiagorska.pl^$all
+||bauelemente-direkt-ab-werk.de^$all
 ||baustoffeniederrheinshop.de^$all
 ||bavariandreamboys.de^$all
 ||baz24ug.de^$all
@@ -213,6 +237,7 @@
 ||beirut-escorts.info^$all
 ||belladieta.pl^$all
 ||bellaklein.de^$all
+||benafigosetfils.fr^$all
 ||bengaldeimunda.it^$all
 ||bergaminopellet.eu^$all
 ||bergbar-winterberg.de^$all
@@ -225,6 +250,7 @@
 ||bewerbung-kestler.de^$all
 ||bezpieczniejwsieci.pl^$all
 ||biempuglia.it^$all
+||bieredelongchamp.fr^$all
 ||bionexenergy.pl^$all
 ||bioverdeitalia.it^$all
 ||bipzsobystrzyca.pl^$all
@@ -235,6 +261,7 @@
 ||bitcultura.it^$all
 ||biuroanma.pl^$all
 ||biuroobslugitransportu.pl^$all
+||bizplatform.pl^$all
 ||black-forest-bbq.de^$all
 ||blackeagle-radio.de^$all
 ||blackmambajiujitsu.it^$all
@@ -250,6 +277,7 @@
 ||bochenekmateusz.pl^$all
 ||bodenbelag-neuss.de^$all
 ||boelling-fanclub.de^$all
+||bogoss.es^$all
 ||boguszewska-dietetyk.pl^$all
 ||boiliebunker.de^$all
 ||bollto.de^$all
@@ -287,6 +315,7 @@
 ||byanya.pl^$all
 ||byblondmerkstein.de^$all
 ||bynikkii.nl^$all
+||bzdetowo.pl^$all
 ||c-c-b.it^$all
 ||c-n-w.de^$all
 ||cadeglielfi.it^$all
@@ -295,6 +324,7 @@
 ||calamaifritti.it^$all
 ||calcestruzzivalleverde.it^$all
 ||caldewey-moden.de^$all
+||call-center-w-chmurze.pl^$all
 ||calzaturemonti.it^$all
 ||camp-koszykarski.pl^$all
 ||campeonatotrading.es^$all
@@ -330,6 +360,7 @@
 ||castellanzaonline.it^$all
 ||catalog-sg.it^$all
 ||cateringnapoziomie.pl^$all
+||cbdmonblog.fr^$all
 ||cdh-saarland.de^$all
 ||cdu-lueneburg-stadt.de^$all
 ||ce-reinigung.de^$all
@@ -343,8 +374,10 @@
 ||ceramercato.pl^$all
 ||ceramichedartefirenze.it^$all
 ||cesillavoro.it^$all
+||cespednewgarden.es^$all
 ||cestedisicilia.it^$all
 ||cestronic.de^$all
+||cftcgroupeorange.fr^$all
 ||cg-to.it^$all
 ||cgcontec.it^$all
 ||challenger128.me^$all
@@ -356,6 +389,7 @@
 ||charlottenburgerfc.de^$all
 ||charlystochter.de^$all
 ||chatanakoncuswiata.pl^$all
+||chautauqua.it^$all
 ||cheflist-avocado.de^$all
 ||chiavishop.it^$all
 ||chiediamoa.it^$all
@@ -402,6 +436,7 @@
 ||comunedicagliari4.it^$all
 ||comunitamindful.it^$all
 ||confezioniangelica.it^$all
+||connektyou.fr^$all
 ||conradlentz.de^$all
 ||consorzioastro.it^$all
 ||contecabo.it^$all
@@ -415,7 +450,10 @@
 ||coropolifonicosilanus.it^$all
 ||corsotruccosposa.it^$all
 ||cortedellenobili.it^$all
+||corvoaction.it^$all
 ||cosmeticiamoci.it^$all
+||cotelco.es^$all
+||covatoviaggi.it^$all
 ||cpissm.it^$all
 ||crablovers.it^$all
 ||cracowgamespot.pl^$all
@@ -425,6 +463,7 @@
 ||creocrea.it^$all
 ||croceverdefaggiano.it^$all
 ||crossfer-schnellspanner.de^$all
+||crumh.fr^$all
 ||cryotshock.it^$all
 ||cryptocoin-bot.it^$all
 ||cult-stylz.de^$all
@@ -456,6 +495,7 @@
 ||danellas-shop.de^$all
 ||danieladrinkmann.de^$all
 ||danke-fuer-nichts.de^$all
+||dansmabulle811482752.fr^$all
 ||das-ebike-center.de^$all
 ||das-landhaus28.de^$all
 ||das-studio104.de^$all
@@ -475,12 +515,14 @@
 ||delitis.de^$all
 ||delius-digital.de^$all
 ||demassari.it^$all
+||demosarnepi.it^$all
 ||dentimplants.it^$all
 ||dentisverbania.it^$all
 ||dentrounafotografia.it^$all
 ||der-mensch-ist-keine-ware-wanderausstellung.de^$all
 ||derchronograph.de^$all
 ||derhochzeitssprecher.de^$all
+||derkreativwerker.de^$all
 ||destockaisne.fr^$all
 ||detailers-home.de^$all
 ||detailrealsmonth.de^$all
@@ -497,6 +539,7 @@
 ||dietistapennisi.it^$all
 ||digital-head.de^$all
 ||digital-paten.de^$all
+||digitalauszeit.de^$all
 ||digitalgest.it^$all
 ||digitalgrowthexperience.it^$all
 ||digitalplm.de^$all
@@ -532,9 +575,13 @@
 ||drfalk-pensionsmanagement.de^$all
 ||driversforyou.it^$all
 ||druck-megastore.de^$all
+||dsc-germania2016.de^$all
 ||dsccustomlab.it^$all
 ||dsf-algenprofi.de^$all
+||dsjema.fr^$all
+||dsyc.es^$all
 ||dubro.it^$all
+||duet-z-goretta.pl^$all
 ||duo-bluestars.de^$all
 ||duzone-birkenhaus.de^$all
 ||dzedai.pl^$all
@@ -547,11 +594,14 @@
 ||eaae2019matera.it^$all
 ||easy-curls.de^$all
 ||easycashadvance.us^$all
+||easysurvival.eu^$all
 ||ebrennergmbh.de^$all
 ||echteneufuhrerscheinkaufen.de^$all
 ||echtgeldspielen.de^$all
 ||eclubpolito.it^$all
 ||ecm-uniecampus.it^$all
+||eco-ricicli-filiere.it^$all
+||ecodriving.fr^$all
 ||ecoedilap.it^$all
 ||ecomyhome.me^$all
 ||economia101.it^$all
@@ -586,6 +636,7 @@
 ||elmers-slime.de^$all
 ||elmode.de^$all
 ||elpsystem.pl^$all
+||elterndating.de^$all
 ||eltruciolo.it^$all
 ||emaauto.it^$all
 ||emadeshop.pl^$all
@@ -612,6 +663,7 @@
 ||erdosell.pl^$all
 ||erunning.it^$all
 ||escort-clara-leipzig.de^$all
+||escuelabarberiaprietos.es^$all
 ||esibiskobarbershop.it^$all
 ||esoterik4u.de^$all
 ||espresso360.it^$all
@@ -622,6 +674,7 @@
 ||estedemocratica.it^$all
 ||esternistore.it^$all
 ||esteticahinoki.it^$all
+||esteticapescara.it^$all
 ||esthervis.de^$all
 ||estylshop.pl^$all
 ||ethnasia.it^$all
@@ -638,6 +691,7 @@
 ||evchiemgau-bgl.de^$all
 ||everbloomy.de^$all
 ||evopaed-kirchheim.de^$all
+||ewalipiec.pl^$all
 ||ewesan.pl^$all
 ||exesports.de^$all
 ||exlibrisauser.it^$all
@@ -661,15 +715,18 @@
 ||farystudios.de^$all
 ||fashion-shop-2.fr^$all
 ||fashionnew.it^$all
+||fassadenkonzept-nrw.de^$all
 ||fastbass.de^$all
 ||fastclothing.de^$all
 ||fasttecnology.it^$all
 ||fcblaurot.de^$all
 ||fearthingsuggest.de^$all
 ||federbride.de^$all
+||federicoellade.eu^$all
 ||federicogismonditinasan.it^$all
 ||federsalcampania.it^$all
 ||feelpuglia.it^$all
+||feelthebeat.pl^$all
 ||feil-dienstleistungen.de^$all
 ||femtastix.de^$all
 ||fenixoneart.pl^$all
@@ -696,6 +753,7 @@
 ||filtryult.pl^$all
 ||fine-art-banking.de^$all
 ||fineclick.de^$all
+||fink-bau-paderborn.de^$all
 ||fioriediritti.it^$all
 ||fire-nation.de^$all
 ||firmafucha.pl^$all
@@ -707,6 +765,7 @@
 ||fiveleaves-shop.de^$all
 ||flanagans.it^$all
 ||flashback-heilung.de^$all
+||flashdruck.de^$all
 ||flaviafaranda.it^$all
 ||flaviatripodi.it^$all
 ||flechtplatz.de^$all
@@ -780,6 +839,7 @@
 ||gardenbetter.it^$all
 ||gardenmal.pl^$all
 ||gardestern.de^$all
+||garmazodukrainek.pl^$all
 ||garnekdoryzu.pl^$all
 ||garten-maxim.de^$all
 ||gartenbauverein-bedburg.de^$all
@@ -789,6 +849,7 @@
 ||gedankenspieltrieb.de^$all
 ||gejo-haustiernahrung.de^$all
 ||gemmaclerici.it^$all
+||genadvice.es^$all
 ||genitoriproscuola.it^$all
 ||gentiliautomazioni.it^$all
 ||gertenbach4.de^$all
@@ -813,6 +874,8 @@
 ||giuliani-online.de^$all
 ||giveaway-partyband.de^$all
 ||givepricesonsoffice.de^$all
+||gkvhoch2.de^$all
+||glaubensfakten.de^$all
 ||global-cache-hunter.de^$all
 ||globusprotect.de^$all
 ||gloser-mietpark.de^$all
@@ -839,6 +902,7 @@
 ||gti-windykacja.pl^$all
 ||guenther-scholz.de^$all
 ||gutelaunehund.de^$all
+||gutfuerunsalle.de^$all
 ||gwarectwomysliwych.pl^$all
 ||haak-digital.de^$all
 ||haerten22.de^$all
@@ -846,6 +910,7 @@
 ||haijaantasoite.fi^$all
 ||haimhauser-art.de^$all
 ||halffiveroomcountry.de^$all
+||halomoto.pl^$all
 ||hamburgnetwork.de^$all
 ||hand-hund-herz.de^$all
 ||handydo.it^$all
@@ -861,6 +926,7 @@
 ||hautbild-ravensburg.de^$all
 ||hawktorebki.pl^$all
 ||hc-verwaltung.de^$all
+||healinglightviseum.eu^$all
 ||heatpipepisa.it^$all
 ||hebamme-sabine-windmueller.de^$all
 ||heike-abel.de^$all
@@ -880,6 +946,7 @@
 ||highwheels.it^$all
 ||hilfe-vor-ort-koblenz.de^$all
 ||himpol.pl^$all
+||hipin.eu^$all
 ||hirschwirt.de^$all
 ||hkv-lombach.de^$all
 ||hobi55.me^$all
@@ -905,6 +972,7 @@
 ||hummel-dp.de^$all
 ||hundebedarf-boettcher.de^$all
 ||hundesalon-el-roi.de^$all
+||hundundpfote.de^$all
 ||hungarianstil.de^$all
 ||hunsruecker-damwild.de^$all
 ||huracanpadel.it^$all
@@ -922,6 +990,7 @@
 ||igz-marketing.de^$all
 ||ihr-lebensraum.de^$all
 ||ihrhausmeistervorort.de^$all
+||ikancelariaprawna.pl^$all
 ||ilariapozzi.it^$all
 ||ilariazappetti.it^$all
 ||ilbellavoro.it^$all
@@ -941,8 +1010,10 @@
 ||ilrobotaspirapolvere.it^$all
 ||ilvallodilauro.it^$all
 ||ilvernacolo.it^$all
+||ilvialedellebambole.it^$all
 ||imageartstudio.de^$all
 ||imageteam.it^$all
+||imcae.es^$all
 ||imcv.it^$all
 ||imhereservizi.it^$all
 ||imitatio-heroica.de^$all
@@ -950,6 +1021,7 @@
 ||immanuelm.de^$all
 ||immobilbox.it^$all
 ||immobilien-riesengebirge.de^$all
+||immobilienprofi-leipzig.de^$all
 ||imperuscraft.it^$all
 ||impfpflichtohnemich.de^$all
 ||impossiblelibrary.de^$all
@@ -987,11 +1059,14 @@
 ||ite-galicia.es^$all
 ||ite.edu.pl^$all
 ||itsthingsfinancial.de^$all
+||ituoiocchiali.it^$all
+||iugis.eu^$all
 ||iviaggidilucianoemichela.it^$all
 ||jamandgrooveexpress.de^$all
 ||jammeh.it^$all
 ||jamniki-szczytno.pl^$all
 ||jazzandkids.it^$all
+||jbbb.fr^$all
 ||jbfilm.pl^$all
 ||jdelivery.it^$all
 ||jensalas.me^$all
@@ -1016,8 +1091,10 @@
 ||karmakoitattoostudio.it^$all
 ||karolptaszkiewicz.pl^$all
 ||karriere-jk-fliesendesign.de^$all
+||kartoffelnest-see.de^$all
 ||karwat-psychoterapia.pl^$all
 ||kasanoa.it^$all
+||katalog-portali.eu^$all
 ||katarzynagarbas.pl^$all
 ||katazaron.it^$all
 ||katrin-pechtl.de^$all
@@ -1058,6 +1135,7 @@
 ||kota-radja.es^$all
 ||kpmg-gamechanger.it^$all
 ||kraftort-zur-quelle.de^$all
+||krakoinapartments.pl^$all
 ||kraussdesign.de^$all
 ||krauthaeuser-essen.de^$all
 ||krav-maga-salzgitter.de^$all
@@ -1066,6 +1144,7 @@
 ||krisbie.de^$all
 ||kristin-lang.de^$all
 ||krolestwocynamonu.pl^$all
+||kruzin.eu^$all
 ||krzysztofbaranski.pl^$all
 ||kuchniapelnasmaku.pl^$all
 ||kuechenstudio-mohrholz.de^$all
@@ -1092,6 +1171,7 @@
 ||laculturaelacura.it^$all
 ||ladeadelprofumo.it^$all
 ||ladizione.it^$all
+||lafabriquedecellestine.fr^$all
 ||lafilutensile.it^$all
 ||lagattashoes.it^$all
 ||laguitaromanie.it^$all
@@ -1142,11 +1222,15 @@
 ||librinpellicola.it^$all
 ||libro-biuro.pl^$all
 ||licht-engineering.de^$all
+||licuado.de^$all
+||lieblingstropfen.de^$all
 ||lifeactuallyshappens.de^$all
 ||lifecountryareas.de^$all
 ||lightmyfire-band.de^$all
 ||lightweightfit.de^$all
+||limburger-trockenbau-team.de^$all
 ||lionsclubsanminiato.it^$all
+||lippoldt-metz-kunz.de^$all
 ||liscamanent.it^$all
 ||liskow-ledlight-online.de^$all
 ||lista-band.de^$all
@@ -1185,6 +1269,7 @@
 ||macadamya.it^$all
 ||macchineolearieumbria.it^$all
 ||machmascho.de^$all
+||maddschi-pattschi.de^$all
 ||maennerinitiative.it^$all
 ||magdalenadadan.pl^$all
 ||magdawyczk.pl^$all
@@ -1209,6 +1294,7 @@
 ||marcschraa.de^$all
 ||marcvs.it^$all
 ||marcyo.it^$all
+||marekwalczak.pl^$all
 ||margheritaporreca.it^$all
 ||mariakoltschin.de^$all
 ||maritime-tickets.de^$all
@@ -1230,6 +1316,7 @@
 ||masystech.de^$all
 ||materassificiodibusseto.it^$all
 ||maternalugagnano.it^$all
+||mathieumuollo.fr^$all
 ||matrioscafarmacia.it^$all
 ||matthaeusgemeindewanne.de^$all
 ||maximiliansantulya.de^$all
@@ -1248,6 +1335,7 @@
 ||medilea-pflege.de^$all
 ||medlabix.de^$all
 ||megatrading.pl^$all
+||mehosweb.fr^$all
 ||mehrwert-steinmetz.de^$all
 ||mein-gluecksjahr.de^$all
 ||mein-id4.de^$all
@@ -1272,6 +1360,7 @@
 ||metodortsplusonline.it^$all
 ||meyer-bausanierung.de^$all
 ||meyer-demontage.de^$all
+||mhs-buchen.de^$all
 ||miabouquets.de^$all
 ||micaelacataldo.it^$all
 ||michaeldruener.de^$all
@@ -1286,6 +1375,7 @@
 ||miculus.de^$all
 ||mietwerkstatt-bad-aibling.de^$all
 ||miguelmothes.de^$all
+||mijnvoetafdruk.eu^$all
 ||mik2017.de^$all
 ||mikeldiezalaba.es^$all
 ||mikroimmuntherapie-hamburg.de^$all
@@ -1296,6 +1386,7 @@
 ||mindsforfuture.it^$all
 ||mindspace-academy.de^$all
 ||ministerosecondigliano.it^$all
+||minkybaby.pl^$all
 ||miprimeramenstruacion.es^$all
 ||miramarecarini.it^$all
 ||mircozickler.de^$all
@@ -1311,6 +1402,7 @@
 ||mizot.de^$all
 ||mkskorki.pl^$all
 ||mmlove.es^$all
+||moabit-corona-test.de^$all
 ||mobiler-gaertner.de^$all
 ||mobilesoundz.de^$all
 ||mobiletest24.de^$all
@@ -1373,6 +1465,7 @@
 ||naimaservices.it^$all
 ||nakamura-u-cvd19.info^$all
 ||natee-thaimassage.de^$all
+||naturaeshop.fr^$all
 ||naturalflavour.it^$all
 ||naturalmondo.it^$all
 ||nature-experience.de^$all
@@ -1397,6 +1490,7 @@
 ||niezwyklyzakatek.pl^$all
 ||niklasbreu-photo.de^$all
 ||niklasgraenz.de^$all
+||nikolanickl.de^$all
 ||nikonfilmfestival.pl^$all
 ||ninagiardiniereurbano.it^$all
 ||ninalawson.de^$all
@@ -1445,6 +1539,7 @@
 ||onlinebusinessbibel.de^$all
 ||onsight-frog.de^$all
 ||operaomniaparma.it^$all
+||oprogramowanie-call-center.pl^$all
 ||optik-kastelberger.de^$all
 ||optitarif.de^$all
 ||oralsurgerysupplies.it^$all
@@ -1494,6 +1589,8 @@
 ||pellet-cena.pl^$all
 ||pemf.it^$all
 ||peoplestorychanges.de^$all
+||pepsimo.eu^$all
+||perbuconet-works.de^$all
 ||percorsoprotetto.it^$all
 ||persstateworldmarriages.de^$all
 ||pertinikr.it^$all
@@ -1504,6 +1601,7 @@
 ||petremoloorsola.it^$all
 ||pgsiedliska.pl^$all
 ||philcoinscollector.it^$all
+||physio-elippmann.de^$all
 ||pianafocus.it^$all
 ||piano-barbary.fr^$all
 ||piccolaorchestraswing.it^$all
@@ -1531,6 +1629,7 @@
 ||pokebuddys.de^$all
 ||pokeparadise.de^$all
 ||polastripavimentilegno.it^$all
+||polcoin.eu^$all
 ||poly3der.de^$all
 ||pomich.pl^$all
 ||pomyslomania.pl^$all
@@ -1547,6 +1646,7 @@
 ||pracowniakrawieckalena.pl^$all
 ||praesidiumvitae.it^$all
 ||praxis-katscher-knauer.de^$all
+||praxis-trautmann-schareck.de^$all
 ||praxis-weiss-stuttgart.de^$all
 ||pre-hab.de^$all
 ||premioarticolo11.it^$all
@@ -1566,10 +1666,12 @@
 ||promotion-free.de^$all
 ||promotion4you-marketing.de^$all
 ||provence-diabete.fr^$all
+||provini.fr^$all
 ||prozdjecia.pl^$all
 ||przygodaphoto.pl^$all
 ||przyparku14.pl^$all
 ||psi-roma.it^$all
+||psicologapilartejedor.es^$all
 ||psicologo-romaprati.it^$all
 ||psicoterapeutispcp.it^$all
 ||pspkruszew.pl^$all
@@ -1600,6 +1702,7 @@
 ||radioclubsalina.it^$all
 ||radiomanzoni.it^$all
 ||railmad.de^$all
+||ranking-test.de^$all
 ||raportostaniegminy.pl^$all
 ||ratioaziendanews.it^$all
 ||rauscher-elektro.de^$all
@@ -1610,6 +1713,7 @@
 ||rebeccahirsch.de^$all
 ||rebisgame.it^$all
 ||recetasbatinas.es^$all
+||rechnen-visuell-lernen.de^$all
 ||rechtsanwalt-kemmerling.de^$all
 ||recre73.fr^$all
 ||red-imagefilm.de^$all
@@ -1623,6 +1727,7 @@
 ||reisen-rast.de^$all
 ||reittherapie-paedagogik.de^$all
 ||reklamaleszno.pl^$all
+||relax-rs.de^$all
 ||relomi.de^$all
 ||remikorepetycje.pl^$all
 ||renate-schmeing.de^$all
@@ -1674,8 +1779,11 @@
 ||rsvgiornalistafotoreporter.it^$all
 ||rsw-personal.de^$all
 ||s-miezen.de^$all
+||saartweet.de^$all
+||saftige-pflanzen.de^$all
 ||sagmeister-ontour.de^$all
 ||sakuraoasis.it^$all
+||salonclaudiasylwiakowalczyk.pl^$all
 ||salonurodapoznan.pl^$all
 ||sam-minddreams.de^$all
 ||samaframi.es^$all
@@ -1691,6 +1799,7 @@
 ||sars-cov-care.de^$all
 ||sartorialorenzi.it^$all
 ||sask-germany.de^$all
+||sat-serviciotecnicofujitsu.es^$all
 ||sauna-am-see-wandlitz.de^$all
 ||savannaburger.de^$all
 ||sazodia.it^$all
@@ -1717,6 +1826,7 @@
 ||schweinegrippe-online.de^$all
 ||scoppitoservizi.it^$all
 ||scrivitu.it^$all
+||scuolainfanziaselva.it^$all
 ||seaflo.it^$all
 ||searoomsalghero.it^$all
 ||securitycampus.it^$all
@@ -1761,6 +1871,7 @@
 ||sinirmaslejosviajes.es^$all
 ||sintace.de^$all
 ||sistemarischipmi.it^$all
+||sitecore-italyevents.it^$all
 ||sitehitnightnumber.de^$all
 ||skutrownia.pl^$all
 ||smart-attack.de^$all
@@ -1815,6 +1926,7 @@
 ||stellicefashion.de^$all
 ||stewartoverland.de^$all
 ||stilemaison.it^$all
+||stockinator.de^$all
 ||storywordinstitution.de^$all
 ||straz.it^$all
 ||stress-zuhause.de^$all
@@ -1845,6 +1957,7 @@
 ||suitevita.de^$all
 ||summerbeach.it^$all
 ||sunandhome.es^$all
+||super-gesund-leben.de^$all
 ||supremacy-network.de^$all
 ||suproject.de^$all
 ||surrenderdorothy.it^$all
@@ -1862,6 +1975,7 @@
 ||tageseltern-vp.de^$all
 ||tagesmutti-ines-thimm.de^$all
 ||takeaim360.it^$all
+||tallermidasgines.es^$all
 ||tanieszparowanie.pl^$all
 ||tappezzeriadatres.it^$all
 ||targibabyday.pl^$all
@@ -1890,6 +2004,7 @@
 ||terrier-vom-fohlenkamp.de^$all
 ||terwolbeck-bau.de^$all
 ||terz-schlag.de^$all
+||tessacosmetici.it^$all
 ||tessileduepuntozero.it^$all
 ||testpunktcasavita.de^$all
 ||teststation-b311.de^$all
@@ -1941,6 +2056,7 @@
 ||transfercampiglio.it^$all
 ||transporte-maier.de^$all
 ||traumapaedagogische-praxisberatung.de^$all
+||travel-links.eu^$all
 ||travel-myanmar.de^$all
 ||travellare.it^$all
 ||traveltures.de^$all
@@ -1952,6 +2068,8 @@
 ||tresandco.es^$all
 ||tresjoliedenise.it^$all
 ||trianahilandotocados.es^$all
+||tributabu.fr^$all
+||trimsalondaapata.eu^$all
 ||trio-four.de^$all
 ||tripp-objektservice.de^$all
 ||trl-hb.de^$all
@@ -1975,8 +2093,10 @@
 ||uexpand.me^$all
 ||ufh-zollernalb.de^$all
 ||uicmantova.it^$all
+||ukdgb1.de^$all
 ||ultra-express.de^$all
 ||umihana.de^$all
+||unairdepilates.fr^$all
 ||unaltronoi.it^$all
 ||ungeimpfter-alltag.de^$all
 ||unhair.it^$all
@@ -2002,6 +2122,7 @@
 ||valentin-liebrecht.de^$all
 ||valeriostradella.it^$all
 ||valtellinatrailbike.it^$all
+||vanessa-thill.de^$all
 ||vapit.it^$all
 ||varadarajanps.me^$all
 ||varioschimmer.de^$all
@@ -2028,12 +2149,15 @@
 ||vincenzofortino.it^$all
 ||vintage-trend.de^$all
 ||visungmbh.de^$all
+||vital-center-geilenkirchen.de^$all
 ||vivaiodellanticopodere.it^$all
 ||vivereameglia.it^$all
 ||vivilalecciascopaia.it^$all
 ||vixiva.it^$all
+||vmcassistenza.it^$all
 ||vocal-explosion.de^$all
 ||vodafonestereoin.it^$all
+||vogelsangmeetshoyer.de^$all
 ||vogtei-paradies.de^$all
 ||voigts-ferienhaus.de^$all
 ||vom-hils.de^$all
@@ -2052,6 +2176,7 @@
 ||wandersehnsucht.de^$all
 ||wandtastik.de^$all
 ||warpuny.pl^$all
+||warszawa345lat.pl^$all
 ||wasserkochers-testsieger.de^$all
 ||waterquestionlots.de^$all
 ||wattsnordic.se^$all
@@ -2070,6 +2195,7 @@
 ||welurowylew.pl^$all
 ||welzmedia.pl^$all
 ||wenhua.pl^$all
+||werbeagentur-suchmaschinen-optimierung.de^$all
 ||werbetrommel-nordholz.de^$all
 ||wesoleszkraby.pl^$all
 ||westfalen-re.de^$all
@@ -2128,6 +2254,7 @@
 ||zahnarzt-debald.de^$all
 ||zahntechnik-adam.de^$all
 ||zalewadev.pl^$all
+||zapiecek-kajakikrutyn.pl^$all
 ||zdizappa.it^$all
 ||zeitlosschoen-kosmetik.de^$all
 ||zeitschrift-pflege.de^$all
