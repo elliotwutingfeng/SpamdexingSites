@@ -111,6 +111,7 @@
 ||ankeskreativevielfalt.de^$all
 ||anmare.pl^$all
 ||annalisadesiata.it^$all
+||annikakuntz.de^$all
 ||antanasbaltphotography.de^$all
 ||antepercucina.it^$all
 ||anthy-passioncommune.fr^$all
@@ -173,6 +174,7 @@
 ||aspiranteimprenditrice.it^$all
 ||asptttriathlonangers.fr^$all
 ||asscuochimaterani.it^$all
+||assembleedunord.fr^$all
 ||assicuraprofessionista.it^$all
 ||assicurazionitaddia.it^$all
 ||associazioneangeliconlacoda.it^$all
@@ -232,6 +234,7 @@
 ||baralecostruzioni.it^$all
 ||barbara-ochs.de^$all
 ||barbarabijoux.it^$all
+||barberialaestacion.es^$all
 ||bargelateriaarcobaleno.it^$all
 ||barkeeper-ausbildung-berlin.de^$all
 ||barkeeper-leasing.de^$all
@@ -923,8 +926,10 @@
 ||gnicons.de^$all
 ||godecki-art.de^$all
 ||gopro9.com^$all
+||gotti-ventures.de^$all
 ||graficheonline.it^$all
 ||grafologic.it^$all
+||graphicnow.es^$all
 ||graphicsediting.it^$all
 ||gravitrax.pl^$all
 ||gravur-ks.de^$all
@@ -932,6 +937,7 @@
 ||greenfridaygolf.it^$all
 ||greenheavensrl.it^$all
 ||greiner-prasch.de^$all
+||griedelbach-neuigkeiten.de^$all
 ||grill-am-markt-lev.de^$all
 ||groove-klang.de^$all
 ||groupmonthevery.de^$all
@@ -975,6 +981,7 @@
 ||heike-abel.de^$all
 ||heikeamthor.de^$all
 ||heikesfotografie.de^$all
+||heilpraktiker-mosbach.de^$all
 ||heimat-der-tiere.de^$all
 ||heimatverein-scheiden.de^$all
 ||heinz-discher.de^$all
@@ -1069,6 +1076,7 @@
 ||impfpflichtohnemich.de^$all
 ||impossiblelibrary.de^$all
 ||impresapuliziedafra.it^$all
+||incucinaconcarmelina.it^$all
 ||indianadriana.pl^$all
 ||indiandanceacademy.de^$all
 ||infoguarderias.es^$all
@@ -1135,6 +1143,7 @@
 ||kairos-psy.it^$all
 ||kalyanchart.me^$all
 ||karatecassanomagnago.it^$all
+||karinhz.de^$all
 ||karl-schoenberger.de^$all
 ||karlottesdesigns.de^$all
 ||karmakoitattoostudio.it^$all
@@ -1171,9 +1180,11 @@
 ||kitmeout.eu^$all
 ||kitspiaperesami.it^$all
 ||kiwu-witwe.de^$all
+||kizomba-berlinal.de^$all
 ||kja-regio-och.de^$all
 ||kkrescue.pl^$all
 ||klamottenscheune.de^$all
+||kleinegrundschulemewegen.de^$all
 ||klinnerds.de^$all
 ||klubseniorapodgorskiwalczyk.pl^$all
 ||klusbedrijfblijd.nl^$all
@@ -1277,6 +1288,7 @@
 ||lettrescapitales.fr^$all
 ||lexusservice-ramstein.de^$all
 ||lhm-as.de^$all
+||libby2.de^$all
 ||libreriailgaleone.it^$all
 ||libriditestoardea2021.it^$all
 ||librinpellicola.it^$all
@@ -1298,6 +1310,7 @@
 ||little-saigon-emden.de^$all
 ||live-school.de^$all
 ||livereport.nl^$all
+||livestream-rockt.de^$all
 ||liviewonder.de^$all
 ||livingforchrist.me^$all
 ||livsta.de^$all
@@ -1840,6 +1853,7 @@
 ||rentinghouses.it^$all
 ||reportinfo24.it^$all
 ||reptilery.it^$all
+||reptilienzimmer-hannover.de^$all
 ||residence-laghetto.it^$all
 ||residencemariele.it^$all
 ||resilire.it^$all
@@ -1934,6 +1948,7 @@
 ||schwambachgrund.de^$all
 ||schweinegrippe-online.de^$all
 ||scoppitoservizi.it^$all
+||scoutbq.nl^$all
 ||scrivitu.it^$all
 ||scuolainfanziaselva.it^$all
 ||seaflo.it^$all
@@ -1945,6 +1960,7 @@
 ||selbstmarketing-coach.de^$all
 ||selfdefense-sport.de^$all
 ||semplicementebuongiorno.it^$all
+||seniorenscheiding.nl^$all
 ||seniorstrzegom.pl^$all
 ||senorsushi.it^$all
 ||seo-agentur-koenigsbrunn.de^$all
@@ -2077,6 +2093,7 @@
 ||supremacy-network.de^$all
 ||suproject.de^$all
 ||surrenderdorothy.it^$all
+||susansgastouderopvang.nl^$all
 ||sushi-mizumi.de^$all
 ||sustainablechange.it^$all
 ||sutherlandfelt.nl^$all
@@ -2091,9 +2108,11 @@
 ||tab-games.de^$all
 ||tageseltern-vp.de^$all
 ||tagesmutti-ines-thimm.de^$all
+||taimup.it^$all
 ||takeaim360.it^$all
 ||tallermidasgines.es^$all
 ||tanieszparowanie.pl^$all
+||tantracordvba.es^$all
 ||tappezzeriadatres.it^$all
 ||targibabyday.pl^$all
 ||tarocchidimartino.it^$all
@@ -2166,6 +2185,7 @@
 ||tolgaolgun.de^$all
 ||tominie.pl^$all
 ||topcellular.it^$all
+||topdystance.pl^$all
 ||torre-lapillo.it^$all
 ||tosicily.it^$all
 ||totalclubs.de^$all
@@ -2206,6 +2226,7 @@
 ||tvjahn-tischtennis.de^$all
 ||tvquestiondecide.de^$all
 ||tynkimaszynowekrakow.pl^$all
+||typ-coach.de^$all
 ||typolight-anleitungen.de^$all
 ||ubezpieczenia-malinowski.pl^$all
 ||ubshow.it^$all
@@ -2236,6 +2257,7 @@
 ||uroda-lomianki.pl^$all
 ||usb-stick-reparieren.de^$all
 ||usb-sticks.me^$all
+||usedom-erkunden.de^$all
 ||usshop-posthausen.de^$all
 ||ustegg.it^$all
 ||v-mig.de^$all
@@ -2255,6 +2277,7 @@
 ||vegaasociados.es^$all
 ||vegedroga.pl^$all
 ||veinclinic-milano.it^$all
+||vendasuauto.es^$all
 ||verdedelajara.es^$all
 ||verfassungsbeschwerde-anwalt.de^$all
 ||versandhandel-gesundheit.de^$all
@@ -2301,6 +2324,7 @@
 ||warpuny.pl^$all
 ||warszawa345lat.pl^$all
 ||wasserkochers-testsieger.de^$all
+||wasserlehrpfad-pegnitz.de^$all
 ||waterquestionlots.de^$all
 ||wattsnordic.se^$all
 ||web-darling.de^$all
@@ -2380,6 +2404,7 @@
 ||zahntechnik-adam.de^$all
 ||zalewadev.pl^$all
 ||zapiecek-kajakikrutyn.pl^$all
+||zbanowane.pl^$all
 ||zdizappa.it^$all
 ||zeitlosschoen-kosmetik.de^$all
 ||zeitschrift-pflege.de^$all
