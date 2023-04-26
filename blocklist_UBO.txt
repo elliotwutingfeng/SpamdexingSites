@@ -1,4 +1,5 @@
 ||0049-ibs.de^$all
+||1-2-3-webportal.de^$all
 ||101dot.pl^$all
 ||123rotterdam.eu^$all
 ||123schlosserei.de^$all
@@ -112,6 +113,7 @@
 ||anmare.pl^$all
 ||annalisadesiata.it^$all
 ||annikakuntz.de^$all
+||anremopatowek.pl^$all
 ||antanasbaltphotography.de^$all
 ||antepercucina.it^$all
 ||anthy-passioncommune.fr^$all
@@ -138,6 +140,7 @@
 ||appartement-pueo-luchon.fr^$all
 ||apriltext.de^$all
 ||aptproject.eu^$all
+||aqua-kasper.de^$all
 ||araldicapagnini.it^$all
 ||arangofarmacia.es^$all
 ||archaeologiehautnah.de^$all
@@ -454,6 +457,7 @@
 ||co.ua^$all
 ||coachingpraxis-westend.de^$all
 ||coccoledibellezza.it^$all
+||cocowebsy.pl^$all
 ||code4you.it^$all
 ||colognetaxi.de^$all
 ||com-en-mer.fr^$all
@@ -535,6 +539,7 @@
 ||dastrostwort.de^$all
 ||datenzwergin.de^$all
 ||davesign.it^$all
+||davina-dark.de^$all
 ||dctfoto.de^$all
 ||ddr-rueckblick.de^$all
 ||ddtspareparts.it^$all
@@ -589,6 +594,7 @@
 ||dlugtoniekoniecswiata.pl^$all
 ||dmgnews.it^$all
 ||dmservizisas.it^$all
+||dnacarservice.it^$all
 ||dnasportmethod.it^$all
 ||dnell-paris.fr^$all
 ||doena-dormagen.de^$all
@@ -692,6 +698,7 @@
 ||enricabottiniparrucchieri.it^$all
 ||ensema.it^$all
 ||ensemblevocalediroma.it^$all
+||enssop.fr^$all
 ||epha-arts.de^$all
 ||epozyczalnia.pl^$all
 ||epplehonig.de^$all
@@ -855,6 +862,7 @@
 ||frehmannfotografie.de^$all
 ||fresam.de^$all
 ||friedhelm-amsel.de^$all
+||frischergegenwind.de^$all
 ||from-the-wild-bandit.de^$all
 ||frooc.de^$all
 ||fsclaim.de^$all
@@ -1070,6 +1078,7 @@
 ||imkerei-schwindegg.de^$all
 ||immanuelm.de^$all
 ||immobilbox.it^$all
+||immobilien-gutachter-online.de^$all
 ||immobilien-riesengebirge.de^$all
 ||immobilienprofi-leipzig.de^$all
 ||imperuscraft.it^$all
@@ -1184,6 +1193,7 @@
 ||kja-regio-och.de^$all
 ||kkrescue.pl^$all
 ||klamottenscheune.de^$all
+||klaus-herre.de^$all
 ||kleinegrundschulemewegen.de^$all
 ||klinnerds.de^$all
 ||klubseniorapodgorskiwalczyk.pl^$all
@@ -1351,6 +1361,7 @@
 ||maennerinitiative.it^$all
 ||magdalenadadan.pl^$all
 ||magdawyczk.pl^$all
+||magicbackery.de^$all
 ||magisbyte.it^$all
 ||magnachetepassa.it^$all
 ||mainradweg-service.de^$all
@@ -1594,11 +1605,13 @@
 ||noleggioplus.it^$all
 ||nonsolorologi.eu^$all
 ||norbert-mages.de^$all
+||nordloh-huftechnik.de^$all
 ||nostrocondominio.it^$all
 ||notaiovirgilio.it^$all
 ||nova-tc.de^$all
 ||nowtizie.it^$all
 ||nowybuklak.pl^$all
+||nox-arbeitsmobil.de^$all
 ||nuadalv.best^$all
 ||nualjewels.it^$all
 ||numberrightjobs.de^$all
@@ -1683,6 +1696,7 @@
 ||paulundruscher.de^$all
 ||pauwer.pl^$all
 ||pawsitive-grooming.de^$all
+||pbxservice.de^$all
 ||pc-oh.de^$all
 ||pcap.it^$all
 ||pda-hessen.de^$all
@@ -1761,6 +1775,7 @@
 ||praxis-trautmann-schareck.de^$all
 ||praxis-weiss-stuttgart.de^$all
 ||pre-hab.de^$all
+||preciturismo.it^$all
 ||premioarticolo11.it^$all
 ||prenatalia.pl^$all
 ||prestige-estate.pl^$all
@@ -1861,7 +1876,9 @@
 ||restaurant-birkenhof-ruegen.de^$all
 ||restaurant-montenegro-schuetzenhaus.de^$all
 ||restofinder.de^$all
+||retriever-hof-jakob.de^$all
 ||retrogustobraceria.it^$all
+||rettenberger.es^$all
 ||rev-abbigliamentomoto.it^$all
 ||rhino-academy.it^$all
 ||rhotel.it^$all
@@ -1955,11 +1972,13 @@
 ||searoomsalghero.it^$all
 ||securitycampus.it^$all
 ||segheriasalentina.it^$all
+||segurosnacionales.es^$all
 ||sekretyf1.pl^$all
 ||selbstjemachtet.de^$all
 ||selbstmarketing-coach.de^$all
 ||selfdefense-sport.de^$all
 ||semplicementebuongiorno.it^$all
+||seniorenbetreuung-magdalena.de^$all
 ||seniorenscheiding.nl^$all
 ||seniorstrzegom.pl^$all
 ||senorsushi.it^$all
@@ -2002,6 +2021,7 @@
 ||sitehitnightnumber.de^$all
 ||skutrownia.pl^$all
 ||smart-attack.de^$all
+||smcommerce.de^$all
 ||smileb.de^$all
 ||smscastelfidardo.it^$all
 ||smtvloerverwarming.nl^$all
@@ -2037,6 +2057,7 @@
 ||speedgorzow.pl^$all
 ||speedycloud.it^$all
 ||spielen-und-toben.de^$all
+||spielplatzinspektionen.de^$all
 ||spiritoemateria.it^$all
 ||sportingaltovicentino.it^$all
 ||sportsponsorhub.it^$all
@@ -2058,6 +2079,7 @@
 ||stewartoverland.de^$all
 ||stilemaison.it^$all
 ||stockinator.de^$all
+||storiedivalchiavenna.it^$all
 ||storywordinstitution.de^$all
 ||straz.it^$all
 ||stress-zuhause.de^$all
@@ -2093,6 +2115,7 @@
 ||supremacy-network.de^$all
 ||suproject.de^$all
 ||surrenderdorothy.it^$all
+||susanne-gessl.de^$all
 ||susansgastouderopvang.nl^$all
 ||sushi-mizumi.de^$all
 ||sustainablechange.it^$all
@@ -2118,6 +2141,7 @@
 ||tarocchidimartino.it^$all
 ||tassiufficioshop.it^$all
 ||tatanabiegunach.pl^$all
+||tatyencasa.es^$all
 ||tauchen-siemon.de^$all
 ||taxiairport24.de^$all
 ||taxislaurent13.fr^$all
@@ -2169,6 +2193,7 @@
 ||tikicomber.it^$all
 ||timotromp.de^$all
 ||tintatienda.it^$all
+||tinyescapes.de^$all
 ||tipaffiliation.it^$all
 ||tipgames.it^$all
 ||tipps-staedtereisen.de^$all
@@ -2232,6 +2257,7 @@
 ||ubshow.it^$all
 ||ucaitaranto.it^$all
 ||uczelniatodobremiejsce.pl^$all
+||uebersetzung-fuehrungszeugnis.de^$all
 ||uexpand.me^$all
 ||ufh-zollernalb.de^$all
 ||uicmantova.it^$all
@@ -2260,6 +2286,7 @@
 ||usedom-erkunden.de^$all
 ||usshop-posthausen.de^$all
 ||ustegg.it^$all
+||uwe-leonardy.de^$all
 ||v-mig.de^$all
 ||vainasdeirgoli.it^$all
 ||valderaeventi.it^$all
