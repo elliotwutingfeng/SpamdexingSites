@@ -25,6 +25,8 @@
 ||abasolar.de^$all
 ||abbacus.it^$all
 ||abc-d-kist.de^$all
+||abra-ka-dabra-decoration.fr^$all
+||abteilung7bigband.de^$all
 ||acalonline.it^$all
 ||accessoriinacciaio.it^$all
 ||ach-nix.de^$all
@@ -42,6 +44,7 @@
 ||adriano-restaurant.de^$all
 ||adriaticgames.it^$all
 ||adsfactory.es^$all
+||adtour.eu^$all
 ||adventsbasar-schrattenhofen.de^$all
 ||advokom.de^$all
 ||adwokat-tabor.pl^$all
@@ -99,6 +102,7 @@
 ||anders-anders.de^$all
 ||andrea-ballhause.de^$all
 ||andreajaeckle.de^$all
+||andreas-abenteuerland.de^$all
 ||andreaswisst.de^$all
 ||aneck.de^$all
 ||angelodanesi.it^$all
@@ -199,6 +203,7 @@
 ||audimag.es^$all
 ||audreymoneyron.fr^$all
 ||aufinshierundjetzt.de^$all
+||aufstehen-machmit.de^$all
 ||august-laemmle.de^$all
 ||auroraimpiantisrl.it^$all
 ||auserpuglia.it^$all
@@ -269,6 +274,7 @@
 ||beschallungs-technik.de^$all
 ||beschwaebisch.de^$all
 ||bewerbung-kestler.de^$all
+||bezirkslandfrauen-fmtk.de^$all
 ||bezpieczniejwsieci.pl^$all
 ||biempuglia.it^$all
 ||bieredelongchamp.fr^$all
@@ -310,6 +316,7 @@
 ||boogiewoogieclub.it^$all
 ||booking-fotografia.de^$all
 ||boombottega.it^$all
+||botanikaonline.pl^$all
 ||bottledress.de^$all
 ||boutiquerose.it^$all
 ||boxkoenig.de^$all
@@ -343,6 +350,7 @@
 ||bzdetowo.pl^$all
 ||c-b-d.es^$all
 ||c-c-b.it^$all
+||c-collection-group.de^$all
 ||c-n-w.de^$all
 ||cadeglielfi.it^$all
 ||cadillacroma.it^$all
@@ -545,6 +553,7 @@
 ||ddtspareparts.it^$all
 ||decorazioniquaglia.it^$all
 ||dein-schnitt.de^$all
+||deine-ordnungswelt.de^$all
 ||deinimmobilientraum.de^$all
 ||deko22.de^$all
 ||delarosagestaltung.de^$all
@@ -786,6 +795,7 @@
 ||fesalferramenta.it^$all
 ||feuerwehr-gemeinde-elleben.de^$all
 ||feuerwerk-westend.de^$all
+||fewo-kuss.de^$all
 ||fewo-treffkorn.de^$all
 ||fezorashopping.it^$all
 ||ffhf-strongman.fr^$all
@@ -861,6 +871,7 @@
 ||freeauto.pl^$all
 ||frehmannfotografie.de^$all
 ||fresam.de^$all
+||friedemann-espe.de^$all
 ||friedhelm-amsel.de^$all
 ||frischergegenwind.de^$all
 ||from-the-wild-bandit.de^$all
@@ -916,6 +927,7 @@
 ||gildapz.it^$all
 ||giodagioielli.it^$all
 ||gioelucysposi.it^$all
+||gipem.fr^$all
 ||gitarre-noten-tabs.de^$all
 ||gitraproject.it^$all
 ||giubileosangabriele.it^$all
@@ -1013,6 +1025,7 @@
 ||hofiwood.de^$all
 ||homegardinen.de^$all
 ||homoeopathie-uhingen.de^$all
+||hondanews.eu^$all
 ||honigdealer-scheuermann.de^$all
 ||honighelmut.de^$all
 ||hookahbattle.de^$all
@@ -1042,6 +1055,7 @@
 ||ibda-online.de^$all
 ||icedealz.de^$all
 ||ideafiorecesena.it^$all
+||ideocasa.it^$all
 ||ifioridellorto.it^$all
 ||igattidelmulino.it^$all
 ||igienecasaepersona.it^$all
@@ -1392,6 +1406,7 @@
 ||mariuskamil.de^$all
 ||markisen-bgl.de^$all
 ||markisenfuxx.de^$all
+||markodrew.pl^$all
 ||maroshop.it^$all
 ||marquardt-rz.de^$all
 ||martaossowska.pl^$all
@@ -1576,6 +1591,7 @@
 ||nd-neurochirurgentag.de^$all
 ||nellodicaprio.it^$all
 ||nellywart.it^$all
+||nemanature.fr^$all
 ||neosbagni.it^$all
 ||nepiaberlin.de^$all
 ||netcom-online.nl^$all
@@ -1598,6 +1614,7 @@
 ||nikonfilmfestival.pl^$all
 ||ninagiardiniereurbano.it^$all
 ||ninalawson.de^$all
+||nionme.de^$all
 ||nisv-schule.de^$all
 ||niuberlin.de^$all
 ||noahboats.de^$all
@@ -1686,6 +1703,7 @@
 ||passioneguida.it^$all
 ||passivhausmeister.de^$all
 ||pasticceriamourad.it^$all
+||pasticceriasurgelataetortebari.it^$all
 ||pasticcinodoro.it^$all
 ||pastoraalcafezeist.nl^$all
 ||pastoraconde.es^$all
@@ -1795,6 +1813,7 @@
 ||promedilscuola.it^$all
 ||promotion-free.de^$all
 ||promotion4you-marketing.de^$all
+||protekum.de^$all
 ||provence-diabete.fr^$all
 ||provini.fr^$all
 ||prozdjecia.pl^$all
@@ -1934,6 +1953,7 @@
 ||saracorsiecongressi.it^$all
 ||sarahburroni.it^$all
 ||sarasazo.it^$all
+||saratonarelli.it^$all
 ||sars-cov-care.de^$all
 ||sartorialorenzi.it^$all
 ||sask-germany.de^$all
@@ -1991,6 +2011,7 @@
 ||servizigalassia.it^$all
 ||sg-perbing.de^$all
 ||sgmeissnerscheurer.de^$all
+||sgranati.it^$all
 ||shanti-eichstaett.de^$all
 ||share-peso.de^$all
 ||sheetkladde.de^$all
@@ -2350,6 +2371,7 @@
 ||wandtastik.de^$all
 ||warpuny.pl^$all
 ||warszawa345lat.pl^$all
+||wartenbergerhof.de^$all
 ||wasserkochers-testsieger.de^$all
 ||wasserlehrpfad-pegnitz.de^$all
 ||waterquestionlots.de^$all
@@ -2376,6 +2398,7 @@
 ||wetest.fr^$all
 ||wg-prstroehen.de^$all
 ||whiteaversa.it^$all
+||whitewire.de^$all
 ||wiaradzwigniegory.pl^$all
 ||wicher-pomocdrogowa.pl^$all
 ||wielkopolska-nieruchomosci.pl^$all
@@ -2427,6 +2450,7 @@
 ||youreca.it^$all
 ||yourfootball.it^$all
 ||yourwing.es^$all
+||zabieganinoca.pl^$all
 ||zahnarzt-debald.de^$all
 ||zahntechnik-adam.de^$all
 ||zalewadev.pl^$all
