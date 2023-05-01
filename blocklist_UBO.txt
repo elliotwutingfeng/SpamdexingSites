@@ -74,6 +74,7 @@
 ||aldemetrio.it^$all
 ||aleksa-pflege.de^$all
 ||alessandrogallodermatologo.it^$all
+||alessandroperacchi.it^$all
 ||alessiaitsos.it^$all
 ||aletheia-collection.it^$all
 ||alexandra-meier.de^$all
@@ -144,6 +145,7 @@
 ||appartement-pueo-luchon.fr^$all
 ||apriltext.de^$all
 ||aptproject.eu^$all
+||aqs-consulting.fr^$all
 ||aqua-kasper.de^$all
 ||araldicapagnini.it^$all
 ||arangofarmacia.es^$all
@@ -205,11 +207,13 @@
 ||aufinshierundjetzt.de^$all
 ||aufstehen-machmit.de^$all
 ||august-laemmle.de^$all
+||auloupmontpellier.fr^$all
 ||auroraimpiantisrl.it^$all
 ||auserpuglia.it^$all
 ||auto-graf.fr^$all
 ||autocomponentssrl.it^$all
 ||autofficinafucci.it^$all
+||autohaus-talk.de^$all
 ||autoimmun-wende.de^$all
 ||autonomosinformacion.es^$all
 ||autospa-uniquecars.de^$all
@@ -250,10 +254,12 @@
 ||barworkacademy.pl^$all
 ||basestatenearly.de^$all
 ||basiagorska.pl^$all
+||basilika-minor.de^$all
 ||bauelemente-direkt-ab-werk.de^$all
 ||baustoffeniederrheinshop.de^$all
 ||bavariandreamboys.de^$all
 ||baz24ug.de^$all
+||bbgranparadiso.it^$all
 ||bc-energ-ethique.fr^$all
 ||bebsantandrea.it^$all
 ||bedeep.it^$all
@@ -326,6 +332,7 @@
 ||brd-2006.de^$all
 ||breuer-zelte.de^$all
 ||brixiahorsepower.it^$all
+||brother.eu^$all
 ||brucehaashockey.com^$all
 ||brunogiordano.it^$all
 ||bub-muc.de^$all
@@ -395,6 +402,7 @@
 ||castellanzaonline.it^$all
 ||catalog-sg.it^$all
 ||cateringnapoziomie.pl^$all
+||cavour48.it^$all
 ||cbdmonblog.fr^$all
 ||cdh-saarland.de^$all
 ||cdu-lueneburg-stadt.de^$all
@@ -495,6 +503,7 @@
 ||corvoaction.it^$all
 ||cosmeticiamoci.it^$all
 ||cotelco.es^$all
+||couchcommunity.de^$all
 ||covatoviaggi.it^$all
 ||cpissm.it^$all
 ||crablovers.it^$all
@@ -574,6 +583,7 @@
 ||destockaisne.fr^$all
 ||detailers-home.de^$all
 ||detailrealsmonth.de^$all
+||dezorgspecialisten.nl^$all
 ||df-sportbedarf.de^$all
 ||dhafi.link^$all
 ||diaconaalhavenproject.nl^$all
@@ -675,6 +685,7 @@
 ||einkaufsbahnhof-bewegt.de^$all
 ||eintracht-hannover-triathlon.de^$all
 ||eis-for-kids.de^$all
+||elavie.pl^$all
 ||elbaspaziocomune.it^$all
 ||elcai.it^$all
 ||electrikinnovation.it^$all
@@ -799,6 +810,7 @@
 ||fewo-treffkorn.de^$all
 ||fezorashopping.it^$all
 ||ffhf-strongman.fr^$all
+||fi-ma.de^$all
 ||fib-grand.de^$all
 ||figaro-diana-manz.de^$all
 ||fiktacampania.it^$all
@@ -1163,6 +1175,7 @@
 ||jugendkicker-scharbeutz.de^$all
 ||jushiert.shop^$all
 ||juwelier-gap.de^$all
+||kabelkult.de^$all
 ||kairos-psy.it^$all
 ||kalyanchart.me^$all
 ||karatecassanomagnago.it^$all
@@ -1234,6 +1247,7 @@
 ||krolestwocynamonu.pl^$all
 ||kruzin.eu^$all
 ||krzysztofbaranski.pl^$all
+||ktforce.eu^$all
 ||kuchniapelnasmaku.pl^$all
 ||kuechenstudio-mohrholz.de^$all
 ||kunst-im-schrank.de^$all
@@ -1284,6 +1298,7 @@
 ||laurajungnickel.de^$all
 ||lavocedelbaldo.it^$all
 ||lavoriamoxmilanoconsala.it^$all
+||lawineenergy.de^$all
 ||layguest.it^$all
 ||le-marmotte.it^$all
 ||leather-shop.it^$all
@@ -1349,6 +1364,7 @@
 ||loreto20.it^$all
 ||losbrujos.de^$all
 ||lotterieinternazionali.it^$all
+||louis-gruen.de^$all
 ||louiseinstitut.pl^$all
 ||louvedetoi.fr^$all
 ||lovely-gift.de^$all
@@ -1362,8 +1378,10 @@
 ||luigicucuzzaph.it^$all
 ||luigiph.it^$all
 ||luisafassino.it^$all
+||luka-unlimited.de^$all
 ||lukasbauer.it^$all
 ||luxeproperty.pl^$all
+||luxevillacorse.eu^$all
 ||luxhomex.de^$all
 ||m-t-travellers.de^$all
 ||mac-info.pl^$all
@@ -1500,6 +1518,7 @@
 ||mindspace-academy.de^$all
 ||ministerosecondigliano.it^$all
 ||minkybaby.pl^$all
+||minnies-windeltortenshop.de^$all
 ||miprimeramenstruacion.es^$all
 ||miramarecarini.it^$all
 ||mircozickler.de^$all
@@ -1543,6 +1562,7 @@
 ||movie-food.de^$all
 ||mp3playershopping.de^$all
 ||mpacarpenteria.it^$all
+||mpkpoznan.pl^$all
 ||mr-borna-mde.de^$all
 ||mss-antikspielzeug-onlineshop.de^$all
 ||mtbsavigno.it^$all
@@ -1878,6 +1898,7 @@
 ||reiki-delker-marienmuenster.de^$all
 ||reisen-rast.de^$all
 ||reittherapie-paedagogik.de^$all
+||reitverein-twistetal.de^$all
 ||reklamaleszno.pl^$all
 ||relax-rs.de^$all
 ||relomi.de^$all
@@ -1906,6 +1927,7 @@
 ||rieser-donau.de^$all
 ||riflessi-darte.it^$all
 ||rike-giebenhain.de^$all
+||rinasceremo.it^$all
 ||ringfoto-lehnert.de^$all
 ||rioclinic.de^$all
 ||risch-tool-design.de^$all
@@ -2025,6 +2047,7 @@
 ||sicher-am-berg.de^$all
 ||siedler-loderhof.de^$all
 ||sienti.pl^$all
+||silke-wolff.de^$all
 ||silkemattzick.de^$all
 ||silvialovetere.it^$all
 ||silviolicata.it^$all
@@ -2047,10 +2070,12 @@
 ||smscastelfidardo.it^$all
 ||smtvloerverwarming.nl^$all
 ||snehpandya.me^$all
+||snorprevent.de^$all
 ||soccerfame.it^$all
 ||social-writers.de^$all
 ||socke519.de^$all
 ||sofadex.de^$all
+||sofiawebdesign.eu^$all
 ||sofortmedizin.de^$all
 ||sokoll-computers.de^$all
 ||solar-observatory.de^$all
@@ -2060,6 +2085,7 @@
 ||solouomini.it^$all
 ||somea.it^$all
 ||somebodysplanet.de^$all
+||sonnenblick-wildenfels.de^$all
 ||sonnenschirm-info.de^$all
 ||sos-mein-rechner.de^$all
 ||sosfabbro.es^$all
@@ -2083,6 +2109,7 @@
 ||sportingaltovicentino.it^$all
 ||sportsponsorhub.it^$all
 ||sprachstudio-kiel.de^$all
+||spreetalontour.de^$all
 ||sprinterskiemp2022.pl^$all
 ||ssbtalk.de^$all
 ||st-severin-apo-sylt.de^$all
@@ -2125,6 +2152,7 @@
 ||studiopsiassociati.it^$all
 ||studiosoldiniciapparelli.it^$all
 ||studiourodybella.pl^$all
+||stuttgart-web-agentur.de^$all
 ||styling-selection.de^$all
 ||successioneserena.it^$all
 ||suemer-et.de^$all
@@ -2230,6 +2258,7 @@
 ||tofutotu.pl^$all
 ||tolgaolgun.de^$all
 ||tominie.pl^$all
+||toms-feuerzauber.de^$all
 ||topcellular.it^$all
 ||topdystance.pl^$all
 ||torre-lapillo.it^$all
@@ -2274,6 +2303,7 @@
 ||tynkimaszynowekrakow.pl^$all
 ||typ-coach.de^$all
 ||typolight-anleitungen.de^$all
+||ubaut.de^$all
 ||ubezpieczenia-malinowski.pl^$all
 ||ubshow.it^$all
 ||ucaitaranto.it^$all
@@ -2333,6 +2363,7 @@
 ||vertanzworten.de^$all
 ||verusdigital.it^$all
 ||vetrinaaisli.it^$all
+||viacolvento.eu^$all
 ||viaggiatorisolidali.it^$all
 ||viajesromanticosinolvidables.es^$all
 ||vibesloungebar.it^$all
@@ -2365,6 +2396,7 @@
 ||walahome.es^$all
 ||waldluchs.de^$all
 ||waldseeclub.de^$all
+||walkabout-jazz.de^$all
 ||walkindogs.it^$all
 ||wanderjahre-mit-peregrin.de^$all
 ||wandersehnsucht.de^$all
