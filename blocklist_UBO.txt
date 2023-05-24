@@ -19,6 +19,7 @@
 ||3dns.it^$all
 ||3ducation.de^$all
 ||3love.it^$all
+||3piece.pl^$all
 ||3x3elitesardinia.it^$all
 ||404foundit.it^$all
 ||4funmotorowki.pl^$all
@@ -407,6 +408,7 @@
 ||botanikaonline.pl^$all
 ||bottledress.de^$all
 ||boucheriehomont.fr^$all
+||boutique-analytics-consulting.fr^$all
 ||boutiquerose.it^$all
 ||boxkoenig.de^$all
 ||boyjobmoneystime.best^$all
@@ -920,6 +922,7 @@
 ||esibiskobarbershop.it^$all
 ||esoterik4u.de^$all
 ||espresso360.it^$all
+||espritssinguliers.fr^$all
 ||essecesse.it^$all
 ||essen-inline-skating.de^$all
 ||esst-mehr-gemuese.de^$all
@@ -974,6 +977,7 @@
 ||fashion-shop-2.fr^$all
 ||fashionjewelry.fr^$all
 ||fashionnew.it^$all
+||fashionstylez.nl^$all
 ||fassadenkonzept-nrw.de^$all
 ||fastbass.de^$all
 ||fastclothing.de^$all
@@ -1085,6 +1089,7 @@
 ||francescolangella.it^$all
 ||francescotecchio.it^$all
 ||francofasulo.it^$all
+||frankdeblok.fr^$all
 ||frankfurtclassic.de^$all
 ||frankfurter-geschenkbote.de^$all
 ||franzitrautmann.de^$all
@@ -1161,6 +1166,7 @@
 ||gianlucacavallini.it^$all
 ||gianlucadelporto.it^$all
 ||giardino360.it^$all
+||gideonhoja.de^$all
 ||giganplastmedyczne.pl^$all
 ||gildacs.it^$all
 ||gildapz.it^$all
@@ -1329,6 +1335,7 @@
 ||i-nbruchschutz.de^$all
 ||ibda-online.de^$all
 ||icedealz.de^$all
+||icitrans.eu^$all
 ||ideafiorecesena.it^$all
 ||ideocasa.it^$all
 ||ifioridellorto.it^$all
@@ -1425,6 +1432,7 @@
 ||ite-galicia.es^$all
 ||ite.edu.pl^$all
 ||itmdom.pl^$all
+||itmsports.pl^$all
 ||itsselvam.eu^$all
 ||itsthingsfinancial.de^$all
 ||ituoiocchiali.it^$all
@@ -1465,6 +1473,7 @@
 ||junkfoto.de^$all
 ||jushiert.shop^$all
 ||justmyporn.fr^$all
+||justwednesday.nl^$all
 ||juwelier-gap.de^$all
 ||kabelkult.de^$all
 ||kairos-psy.it^$all
@@ -1476,6 +1485,7 @@
 ||karmakoitattoostudio.it^$all
 ||karolptaszkiewicz.pl^$all
 ||karriere-jk-fliesendesign.de^$all
+||karriere-lifestyle.de^$all
 ||kartoffelnest-see.de^$all
 ||karwat-psychoterapia.pl^$all
 ||kasanoa.it^$all
@@ -1547,6 +1557,7 @@
 ||kruzin.eu^$all
 ||krzysztofbaranski.pl^$all
 ||krzysztofkwasizur.pl^$all
+||ksiegowosc-olsztyn.pl^$all
 ||ktforce.eu^$all
 ||kuchniapelnasmaku.pl^$all
 ||kuechenstudio-mohrholz.de^$all
@@ -1572,6 +1583,7 @@
 ||lacascinabb.it^$all
 ||lachender-zwerg.de^$all
 ||lachouettegalerieart.fr^$all
+||lacivicadarfoboarioterme.it^$all
 ||lackas-race-events.de^$all
 ||lacooltura.it^$all
 ||lacorrederadeampudia.es^$all
@@ -1642,6 +1654,7 @@
 ||lepetitbohemien.it^$all
 ||lepiceriegourmande30560.fr^$all
 ||lerotteghiotte.it^$all
+||lesbonneschosesdaurelie.fr^$all
 ||lesrapporteurs.fr^$all
 ||lesthetiquecusago.it^$all
 ||letempsdescoquelicots.fr^$all
@@ -1661,6 +1674,7 @@
 ||lieblingstropfen.de^$all
 ||lifeactuallyshappens.de^$all
 ||lifecountryareas.de^$all
+||lifetricks.de^$all
 ||lightmyfire-band.de^$all
 ||lightweightfit.de^$all
 ||ligthartnet.nl^$all
@@ -1717,6 +1731,7 @@
 ||lumballa.de^$all
 ||lumiere-lab.pl^$all
 ||lunastix.fr^$all
+||lunchbox4all.nl^$all
 ||lupka24.pl^$all
 ||luxeproperty.pl^$all
 ||luxevillacorse.eu^$all
@@ -1737,6 +1752,7 @@
 ||magicbackery.de^$all
 ||magisbyte.it^$all
 ||magnachetepassa.it^$all
+||mahnu.fr^$all
 ||maieutical-space.it^$all
 ||mainradweg-service.de^$all
 ||majuda.it^$all
@@ -1766,6 +1782,7 @@
 ||marialamet.es^$all
 ||marianogioielli.it^$all
 ||marinabalz.de^$all
+||marionsfotoboutique.nl^$all
 ||maritime-tickets.de^$all
 ||mariuskamil.de^$all
 ||marketingtexterin.de^$all
@@ -1797,6 +1814,7 @@
 ||maxsimsrl.it^$all
 ||maxxey75.de^$all
 ||mayanapdt.fr^$all
+||mbcotton.pl^$all
 ||mc-schronzer.de^$all
 ||mcfitness.it^$all
 ||mcformations.fr^$all
@@ -1893,6 +1911,7 @@
 ||miriamafai.it^$all
 ||miseriaenobiltacb.it^$all
 ||misericordiapompei.it^$all
+||misport.eu^$all
 ||missdealba.es^$all
 ||missmi.pl^$all
 ||mister-pizza.it^$all
@@ -1913,6 +1932,7 @@
 ||mobiletime.it^$all
 ||moda-icone-woods.fr^$all
 ||modernfutbol.pl^$all
+||modular360.es^$all
 ||moebelbiss.de^$all
 ||moebelschreiner-wetzel.de^$all
 ||moeller-zorneding.de^$all
@@ -1945,6 +1965,7 @@
 ||mpu-freising.de^$all
 ||mr-borna-mde.de^$all
 ||mrx-emploi-ouest.fr^$all
+||msimed.pl^$all
 ||mss-antikspielzeug-onlineshop.de^$all
 ||mtbsavigno.it^$all
 ||mtc-consult.de^$all
@@ -2055,6 +2076,7 @@
 ||nox-arbeitsmobil.de^$all
 ||nuadalv.best^$all
 ||nualjewels.it^$all
+||nuber.pl^$all
 ||number1store.pl^$all
 ||numberrightjobs.de^$all
 ||nuovefollie.it^$all
@@ -2093,6 +2115,7 @@
 ||online-termin-buchen.de^$all
 ||onlinebusinessbibel.de^$all
 ||onsight-frog.de^$all
+||openfieldgroup.fr^$all
 ||operaomniaparma.it^$all
 ||opportunity-marketing.nl^$all
 ||oprogramowanie-call-center.pl^$all
@@ -2120,6 +2143,7 @@
 ||outletpietramosaiciepiastrelle.it^$all
 ||outlets-in-italia.it^$all
 ||outsidestopsgoods.de^$all
+||ouverture-de-portes.fr^$all
 ||ovation-fulda.de^$all
 ||over50footballcuneo.it^$all
 ||p-electric.it^$all
@@ -2161,6 +2185,7 @@
 ||pbxservice.de^$all
 ||pc-oh.de^$all
 ||pcap.it^$all
+||pckz-zawiercie.pl^$all
 ||pclandes.fr^$all
 ||pda-hessen.de^$all
 ||peb-cabana.de^$all
@@ -2183,6 +2208,7 @@
 ||pg3bp.pl^$all
 ||pgbcare.nl^$all
 ||pgsiedliska.pl^$all
+||pharmaciewaisman.fr^$all
 ||philcoinscollector.it^$all
 ||phonesanatomy.it^$all
 ||physio-elippmann.de^$all
@@ -2215,6 +2241,7 @@
 ||planungundhandel.de^$all
 ||plastihabitat.fr^$all
 ||plibb.pl^$all
+||plombier-alsace.fr^$all
 ||plseditor.it^$all
 ||podryban.pl^$all
 ||poggeseautotrasporti.it^$all
@@ -2398,6 +2425,7 @@
 ||retrogustobraceria.it^$all
 ||rettenberger.es^$all
 ||rev-abbigliamentomoto.it^$all
+||revistastart.es^$all
 ||rheingau-marktplatz.de^$all
 ||rhino-academy.it^$all
 ||rhotel.it^$all
@@ -2435,6 +2463,7 @@
 ||routalia.it^$all
 ||rovinjadvisor.it^$all
 ||royalcrownderby.it^$all
+||royer-chausseur-le-mans.fr^$all
 ||rsaserena.it^$all
 ||rster.pl^$all
 ||rsv-brottewitz.de^$all
@@ -2762,6 +2791,7 @@
 ||testpunktcasavita.de^$all
 ||teststation-b311.de^$all
 ||testzentrum-ft-nord.de^$all
+||testzentrum-marktplatzcenter-nb.de^$all
 ||tetrisgratis.it^$all
 ||thanittahua.pl^$all
 ||theblackblog.de^$all
@@ -2785,6 +2815,7 @@
 ||thk-bau-gmbh.de^$all
 ||thogf.de^$all
 ||tidis.pl^$all
+||tierarztpraxis-rummer.de^$all
 ||tierfriedhof-kassel.de^$all
 ||tigear.de^$all
 ||tikala.co^$all
@@ -3020,6 +3051,7 @@
 ||wenhua.pl^$all
 ||werbeagentur-suchmaschinen-optimierung.de^$all
 ||werbetrommel-nordholz.de^$all
+||wesolapani.pl^$all
 ||wesoleszkraby.pl^$all
 ||westfalen-re.de^$all
 ||wetest.fr^$all
