@@ -15,6 +15,7 @@ jobs:
       run: |
           sed 's/^/\|\|/;s/$/\^/' blocklist.txt > blocklist_ABP.txt
           sed 's/^/\|\|/;s/$/\^$all/' blocklist.txt > blocklist_UBO.txt
+          sed 's/^/*:\/\/*./;s/$/\/*/' blocklist.txt > blocklist_UBL.txt
 
     - name: commit files
       run: |

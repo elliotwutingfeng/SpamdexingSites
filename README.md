@@ -33,6 +33,7 @@
 | blocklist.txt | [:floppy_disk:](blocklist.txt?raw=true) |
 | blocklist_ABP.txt | [:floppy_disk:](blocklist_ABP.txt?raw=true) |
 | blocklist_UBO.txt | [:floppy_disk:](blocklist_UBO.txt?raw=true) |
+| blocklist_UBL.txt | [:floppy_disk:](blocklist_UBL.txt?raw=true) |
 
 ## Feedback
 
