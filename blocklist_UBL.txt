@@ -225,11 +225,13 @@
 *://*.artysciprzeciwnienawisci.pl/*
 *://*.aryabarberfranchising.it/*
 *://*.asdbresciasportpiu.it/*
+*://*.aselie.de/*
 *://*.aserti.pl/*
 *://*.asfbt.de/*
 *://*.asia-restaurant-landstuhl.de/*
 *://*.asisters.it/*
 *://*.asociacion365.es/*
+*://*.asociaciondongiovanni.es/*
 *://*.aspiranteimprenditrice.it/*
 *://*.asptttriathlonangers.fr/*
 *://*.asscuochimaterani.it/*
@@ -360,6 +362,7 @@
 *://*.biempuglia.it/*
 *://*.bieredelongchamp.fr/*
 *://*.biertraegershop.de/*
+*://*.bijdevoordeur.nl/*
 *://*.bijougastronomica.es/*
 *://*.bilder-welt-natur.de/*
 *://*.billigaskor.eu/*
@@ -386,7 +389,9 @@
 *://*.blitz-montageprofis.de/*
 *://*.blizzfit.de/*
 *://*.blocaloost.nl/*
+*://*.blog-terreimaginaire.fr/*
 *://*.blogesblog.es/*
+*://*.blogmercaderribo.es/*
 *://*.blogusz.pl/*
 *://*.blue-feeder.de/*
 *://*.bluesundfolk.de/*
@@ -419,7 +424,9 @@
 *://*.boutique-analytics-consulting.fr/*
 *://*.boutiquerose.it/*
 *://*.boxkoenig.de/*
+*://*.boydhuigsloot.nl/*
 *://*.boyjobmoneystime.best/*
+*://*.bpvdekanaalstreek.nl/*
 *://*.bra-the-secret-lodge.de/*
 *://*.brasilienservice.de/*
 *://*.brd-2006.de/*
@@ -489,6 +496,7 @@
 *://*.carlobugada.it/*
 *://*.carlosalimentari.it/*
 *://*.carniceriacharcuterialucas.es/*
+*://*.carnisseriacanmia.es/*
 *://*.caromea.it/*
 *://*.carpe-diem-emmendingen.de/*
 *://*.carpenteriekluc.it/*
@@ -566,6 +574,7 @@
 *://*.chloro.eu/*
 *://*.choere-kontern-corona.de/*
 *://*.choicesperformbusiness.de/*
+*://*.chrifon.nl/*
 *://*.christel-stoever.de/*
 *://*.christina-heilkreise.de/*
 *://*.christine-hartmann-heilpraktikerin.de/*
@@ -615,6 +624,7 @@
 *://*.comael.it/*
 *://*.comiciadhoc.it/*
 *://*.comitatoliberazionenazionale.it/*
+*://*.communicatiestuderen.nl/*
 *://*.communityhurts.de/*
 *://*.compagniedeshotels.it/*
 *://*.companysplanfamilys.de/*
@@ -628,6 +638,7 @@
 *://*.conradlentz.de/*
 *://*.consorzioastro.it/*
 *://*.contecabo.it/*
+*://*.controle-technique-la-ferte-mace.fr/*
 *://*.cooperativacaos.it/*
 *://*.copicopyab.es/*
 *://*.coposzkole.pl/*
@@ -652,6 +663,7 @@
 *://*.cotelco.es/*
 *://*.couchcommunity.de/*
 *://*.covatoviaggi.it/*
+*://*.covid19goods.nl/*
 *://*.cpissm.it/*
 *://*.cplasvegascorvera.es/*
 *://*.crablovers.it/*
@@ -733,6 +745,7 @@
 *://*.delius-digital.de/*
 *://*.demassari.it/*
 *://*.demcare.nl/*
+*://*.demikops.nl/*
 *://*.demosarnepi.it/*
 *://*.dentimplants.it/*
 *://*.dentisverbania.it/*
@@ -813,6 +826,7 @@
 *://*.dressinlaw.pl/*
 *://*.drfalk-pensionsmanagement.de/*
 *://*.driversforyou.it/*
+*://*.drk-dikultiv.de/*
 *://*.druck-megastore.de/*
 *://*.dry-formation.fr/*
 *://*.dsc-germania2016.de/*
@@ -855,6 +869,7 @@
 *://*.ecomyhome.me/*
 *://*.economia101.it/*
 *://*.economiegeopolitique.eu/*
+*://*.economischdoorleren.nl/*
 *://*.edel-lang.de/*
 *://*.edgeactivitychair.de/*
 *://*.ediliziagfcostruzioni.it/*
@@ -961,6 +976,7 @@
 *://*.ewalipiec.pl/*
 *://*.ewesan.pl/*
 *://*.exaltak.fr/*
+*://*.executivelearning.fr/*
 *://*.exesports.de/*
 *://*.exlibrisauser.it/*
 *://*.exportmoebel.de/*
@@ -1137,6 +1153,7 @@
 *://*.gabbianello.it/*
 *://*.gabriela-jahn.de/*
 *://*.gabrieleimpott.de/*
+*://*.gaertnerei-rech.de/*
 *://*.galabau-fransoo.de/*
 *://*.galanteriafutrzana.pl/*
 *://*.galeno2000.it/*
@@ -1267,6 +1284,7 @@
 *://*.hausnummer-13.de/*
 *://*.hautbild-ravensburg.de/*
 *://*.hawktorebki.pl/*
+*://*.hazels-blog.de/*
 *://*.hc-verwaltung.de/*
 *://*.hclmedia.nl/*
 *://*.healinglightviseum.eu/*
@@ -1645,6 +1663,7 @@
 *://*.lavoriamoxmilanoconsala.it/*
 *://*.lawineenergy.de/*
 *://*.layguest.it/*
+*://*.le-champdespossibles.fr/*
 *://*.le-marmotte.it/*
 *://*.le-smoke.fr/*
 *://*.leafhemp.it/*
@@ -1685,6 +1704,7 @@
 *://*.lhm-as.de/*
 *://*.libby2.de/*
 *://*.libreriailgaleone.it/*
+*://*.librerialagaleria.es/*
 *://*.libriditestoardea2021.it/*
 *://*.librinpellicola.it/*
 *://*.libro-biuro.pl/*
@@ -1792,6 +1812,7 @@
 *://*.manziorafi.it/*
 *://*.maquinariainnovahosteleria.es/*
 *://*.marc-pastoors.de/*
+*://*.marcelaine.fr/*
 *://*.marcschraa.de/*
 *://*.marcvs.it/*
 *://*.marcyo.it/*
@@ -1808,12 +1829,14 @@
 *://*.markisen-bgl.de/*
 *://*.markisenfuxx.de/*
 *://*.markodrew.pl/*
+*://*.markpranger.nl/*
 *://*.markt-apo-uelsen.de/*
 *://*.markus-chili-seite.de/*
 *://*.maroshop.it/*
 *://*.marquardt-rz.de/*
 *://*.marqusklussen.nl/*
 *://*.martaossowska.pl/*
+*://*.martelletto.it/*
 *://*.martinmuenchow.de/*
 *://*.marysiasowinska.pl/*
 *://*.marzianiconilpad.it/*
@@ -2138,6 +2161,7 @@
 *://*.online-termin-buchen.de/*
 *://*.onlinebusinessbibel.de/*
 *://*.onsight-frog.de/*
+*://*.ontwerpmijnkeuken.nl/*
 *://*.openfieldgroup.fr/*
 *://*.operaomniaparma.it/*
 *://*.opportunity-marketing.nl/*
@@ -2263,6 +2287,7 @@
 *://*.planner-passionista.de/*
 *://*.planungundhandel.de/*
 *://*.plastihabitat.fr/*
+*://*.platovebg.eu/*
 *://*.plibb.pl/*
 *://*.plombier-alsace.fr/*
 *://*.plseditor.it/*
@@ -2284,6 +2309,7 @@
 *://*.poolin84010.it/*
 *://*.popadesign.it/*
 *://*.populationdiscover.de/*
+*://*.poradadietetyczna.pl/*
 *://*.porana.es/*
 *://*.portapalloni.it/*
 *://*.portofentry.co.uk/*
@@ -2294,6 +2320,7 @@
 *://*.potagezvous.fr/*
 *://*.powerswimming.it/*
 *://*.pozyczkiduze.pl/*
+*://*.pphucis.eu/*
 *://*.ppkarton.pl/*
 *://*.pr-gesund-ein-leben-lang.de/*
 *://*.pracowniakrawieckalena.pl/*
@@ -2481,6 +2508,7 @@
 *://*.roesrather-kolumbienen.de/*
 *://*.rohrbogenschneider.de/*
 *://*.ron-telesky.de/*
+*://*.rootsfisch.de/*
 *://*.rosalina-beauty.de/*
 *://*.rosamatteosposi.it/*
 *://*.rotaryviterbo.it/*
@@ -2488,6 +2516,7 @@
 *://*.rovinjadvisor.it/*
 *://*.royalcrownderby.it/*
 *://*.royer-chausseur-le-mans.fr/*
+*://*.rpmdoccontrol.nl/*
 *://*.rsaserena.it/*
 *://*.rster.pl/*
 *://*.rsv-brottewitz.de/*
@@ -2724,6 +2753,7 @@
 *://*.studio-abalon-borchen.de/*
 *://*.studio-liso.it/*
 *://*.studioalessandretti.it/*
+*://*.studiobianc.nl/*
 *://*.studiodermamicro.it/*
 *://*.studiodimedicinanaturale.it/*
 *://*.studiodms.me/*
@@ -2749,6 +2779,7 @@
 *://*.suitevita.de/*
 *://*.summerbeach.it/*
 *://*.sunandhome.es/*
+*://*.sundayismondayhome.pl/*
 *://*.super-gesund-leben.de/*
 *://*.supremacy-network.de/*
 *://*.suproject.de/*
@@ -2982,6 +3013,7 @@
 *://*.valentin-liebrecht.de/*
 *://*.valeriostradella.it/*
 *://*.valmypermis.fr/*
+*://*.valorandco.nl/*
 *://*.valtellinatrailbike.it/*
 *://*.vanessa-thill.de/*
 *://*.vanitybaby.es/*
@@ -3020,6 +3052,7 @@
 *://*.vigonialminerva.it/*
 *://*.villager-shop.de/*
 *://*.villamalva.it/*
+*://*.villaverdi-8.de/*
 *://*.vilpia3d.es/*
 *://*.vincenzofortino.it/*
 *://*.vintage-trend.de/*
@@ -3040,6 +3073,7 @@
 *://*.voigts-ferienhaus.de/*
 *://*.vom-hils.de/*
 *://*.voting-blitzmarathon.de/*
+*://*.vrijeacademienijmegen.nl/*
 *://*.vst-plugin-test.de/*
 *://*.vuis-kreativlaedele.de/*
 *://*.vulcain-ecomobilite.fr/*
@@ -3144,6 +3178,7 @@
 *://*.yea-sport.de/*
 *://*.yearpeopleweekright.de/*
 *://*.yellowstonepilates.nl/*
+*://*.yiqi.fr/*
 *://*.yoga3wege.de/*
 *://*.yogapraktijk033.nl/*
 *://*.yogewo.de/*
@@ -3176,6 +3211,7 @@
 *://*.zimmer-delitzsch.de/*
 *://*.zixuwang.me/*
 *://*.zmagazzini.it/*
+*://*.zomerschoolutrecht.nl/*
 *://*.zonapastoralecento.it/*
 *://*.zopf-anne.de/*
 *://*.zpit-kurpiezielone.pl/*
