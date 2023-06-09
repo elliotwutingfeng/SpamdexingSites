@@ -1590,6 +1590,7 @@
 *://*.stahl-rohr-moebel.de/*
 *://*.starke-region-zm.de/*
 *://*.staroceska.eu/*
+*://*.startupjunkies.eu/*
 *://*.stcfilm.com/*
 *://*.stefaniastefanelli.it/*
 *://*.stewartoverland.de/*
