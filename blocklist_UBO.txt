@@ -63,6 +63,7 @@
 ||allparam.es^$all
 ||almanaccoreggiano.it^$all
 ||alpha-computers.eu^$all
+||alphainversores.es^$all
 ||alpilife.eu^$all
 ||alpinres.pl^$all
 ||alumetalicaporcuna.es^$all
@@ -71,6 +72,7 @@
 ||ambershopkids.pl^$all
 ||amicidicortina.it^$all
 ||amondo.it^$all
+||amsherzo.eu^$all
 ||amuzlodz-eog.pl^$all
 ||analizainternetowa.pl^$all
 ||andep.es^$all
@@ -92,6 +94,7 @@
 ||anthy-passioncommune.fr^$all
 ||antonellagiallonardo.it^$all
 ||antonevich-sports.de^$all
+||antonio-rivas.es^$all
 ||anunturipeweb.eu^$all
 ||anunturirapide.eu^$all
 ||apartamentolympicpark.pl^$all
@@ -112,12 +115,14 @@
 ||arcoorion.es^$all
 ||aristokrass.de^$all
 ||aritex.pl^$all
+||armand-rochas.eu^$all
 ||armandofonzone.it^$all
 ||arquitectotecnicomadridsur.es^$all
 ||arresto-momentum.de^$all
 ||ars-passau.de^$all
 ||artdutoit35.fr^$all
 ||arteparrucchieriestetica.it^$all
+||arteryproject.eu^$all
 ||artfishmed.eu^$all
 ||article-box.eu^$all
 ||artilex.eu^$all
@@ -141,6 +146,7 @@
 ||asytenisa.pl^$all
 ||ateliermakingmemories.nl^$all
 ||ateodoro.it^$all
+||atlas2mers.eu^$all
 ||atltoys.com^$all
 ||atodacostagalicia.es^$all
 ||attacchidipanico-italia.it^$all
@@ -242,6 +248,7 @@
 ||boydhuigsloot.nl^$all
 ||bpvdekanaalstreek.nl^$all
 ||breuer-zelte.de^$all
+||brookstreetfutures.eu^$all
 ||brother.eu^$all
 ||brucehaashockey.com^$all
 ||bughy.it^$all
@@ -255,6 +262,7 @@
 ||byanya.pl^$all
 ||byblondmerkstein.de^$all
 ||bzdetowo.pl^$all
+||cabanatogo.eu^$all
 ||cacioepepe-muenchen.de^$all
 ||cafe-casablanca.de^$all
 ||calcestruzzivalleverde.it^$all
@@ -299,6 +307,7 @@
 ||centreo-84.fr^$all
 ||centroneopsiche.it^$all
 ||ceramercato.pl^$all
+||ceramiccoloursindia.eu^$all
 ||cerramientopistasdeportivas.es^$all
 ||cesapsrls.it^$all
 ||cespednewgarden.es^$all
@@ -324,6 +333,7 @@
 ||cinderella-lounge.de^$all
 ||circolovelicoospedaletti.it^$all
 ||cireco.pl^$all
+||cis-heidelberg.eu^$all
 ||citizenfood.eu^$all
 ||citricoart.es^$all
 ||cittamediterranee.it^$all
@@ -351,6 +361,7 @@
 ||connektyou.fr^$all
 ||consorzioastro.it^$all
 ||controle-technique-la-ferte-mace.fr^$all
+||coolangatta.eu^$all
 ||copicopyab.es^$all
 ||coposzkole.pl^$all
 ||corona-jobfee.de^$all
@@ -367,6 +378,7 @@
 ||crablovers.it^$all
 ||cracowgamespot.pl^$all
 ||creaprinting.es^$all
+||creative-rp.fr^$all
 ||credit-on-line.fr^$all
 ||creer-forum.eu^$all
 ||crisiena.it^$all
@@ -401,6 +413,7 @@
 ||dabrowkagrzybowska.pl^$all
 ||dach-woj.pl^$all
 ||dachreinigung-deniz.de^$all
+||daedalusproject.eu^$all
 ||daily.social^$all
 ||damas-style.de^$all
 ||daniquevantilburg.nl^$all
@@ -440,6 +453,7 @@
 ||dis-c.de^$all
 ||diskurspresse.de^$all
 ||disturbialimentariviterbo.it^$all
+||dittfach-online.eu^$all
 ||divaswigs.com^$all
 ||diwes.de^$all
 ||dlugtoniekoniecswiata.pl^$all
@@ -451,7 +465,9 @@
 ||domingagulli.it^$all
 ||dommorena.pl^$all
 ||dompodwroclawiem.pl^$all
+||donutspaws.pl^$all
 ||dor-reception.fr^$all
+||dorf-benz.de^$all
 ||dosstrento.it^$all
 ||dottormicelipsi.it^$all
 ||dplr.it^$all
@@ -538,6 +554,7 @@
 ||espritssinguliers.fr^$all
 ||estalena.pl^$all
 ||estedemocratica.it^$all
+||esteticacocomisbellezas.es^$all
 ||estylshop.pl^$all
 ||eukorea-fire.eu^$all
 ||euro928-2017.eu^$all
@@ -599,6 +616,7 @@
 ||flechtplatz.de^$all
 ||flexmaxthea.eu^$all
 ||flip-ports.eu^$all
+||florissant-wonen.nl^$all
 ||flortel.pl^$all
 ||flouxsarl.fr^$all
 ||fmcomputerdivision.it^$all
@@ -759,6 +777,7 @@
 ||ideocasa.it^$all
 ||ifioridellorto.it^$all
 ||igienecasaepersona.it^$all
+||igmetall-meinung.de^$all
 ||ihrhausmeistervorort.de^$all
 ||iideall.com^$all
 ||ikancelariaprawna.pl^$all
@@ -784,9 +803,11 @@
 ||inpraiseofchina.com^$all
 ||instaltech-ad.pl^$all
 ||institutlucile.fr^$all
+||internationalkungfu.eu^$all
 ||interregrat.eu^$all
 ||investadia.es^$all
 ||invoper.es^$all
+||iot-visitthefuture.eu^$all
 ||ipodcases.biz^$all
 ||iq-hausgeraetekundendienst-rostock.de^$all
 ||irefisioterapia.es^$all
@@ -795,6 +816,7 @@
 ||items.my^$all
 ||itmdom.pl^$all
 ||itmsports.pl^$all
+||itpatrol.eu^$all
 ||itsselvam.eu^$all
 ||ituoiocchiali.it^$all
 ||iugis.eu^$all
@@ -836,6 +858,7 @@
 ||keshop.pl^$all
 ||kinesis-tomaszow.pl^$all
 ||kingstonnews.nl^$all
+||kishakatolike.eu^$all
 ||kitchen93.de^$all
 ||kiwu-witwe.de^$all
 ||kizomba-berlinal.de^$all
@@ -869,6 +892,7 @@
 ||lacivicadarfoboarioterme.it^$all
 ||laetifi.pl^$all
 ||lafabriquedecellestine.fr^$all
+||lafilledelalune.fr^$all
 ||lakathini.pl^$all
 ||lalocandadelteatro.it^$all
 ||lamourshop.fr^$all
@@ -924,6 +948,7 @@
 ||lolight.eu^$all
 ||londonshotels.eu^$all
 ||lonee.fr^$all
+||loodgieter-ambacht.nl^$all
 ||lophelisa.fr^$all
 ||loredanabeacholiday.it^$all
 ||lotherol-schwarzenbek.de^$all
@@ -1009,6 +1034,7 @@
 ||memeclothing.it^$all
 ||memorietraumatiche.it^$all
 ||menoda.nl^$all
+||mentesdespiertas.es^$all
 ||meracleshop.pl^$all
 ||merval-nettoyage.fr^$all
 ||meslegumesbio.fr^$all
@@ -1051,6 +1077,7 @@
 ||monika-maratova.eu^$all
 ||montevidoncombatte.eu^$all
 ||moresearch.pl^$all
+||morindainfantil.es^$all
 ||mosa22.pl^$all
 ||mosoc.org^$all
 ||mostrajapan.it^$all
@@ -1108,6 +1135,7 @@
 ||ninalawson.de^$all
 ||nionme.de^$all
 ||noahboats.de^$all
+||nochefcookin.nl^$all
 ||nokostudio.pl^$all
 ||nonsolorologi.eu^$all
 ||northsailshoes.pl^$all
@@ -1167,6 +1195,7 @@
 ||panabas.es^$all
 ||papybio.fr^$all
 ||parafiamsciszewice.pl^$all
+||partnersin.eu^$all
 ||pascalservera.eu^$all
 ||passalacqualuzon.it^$all
 ||passionfiveservices.de^$all
@@ -1183,6 +1212,7 @@
 ||pelkaes.eu^$all
 ||pellet-cena.pl^$all
 ||percorsoprotetto.it^$all
+||peter-bergmann.de^$all
 ||peter-schmode.de^$all
 ||petra-siemens.de^$all
 ||pferdemuskeln-fit-gemacht.de^$all
@@ -1373,6 +1403,7 @@
 ||schnelltest-am-motorpark.de^$all
 ||schnelltest-hallecenter.de^$all
 ||scholarshipmax.biz^$all
+||schulbuch-bayern.eu^$all
 ||schwestern-kaufhaus.de^$all
 ||scoppitoservizi.it^$all
 ||scuolainfanziaselva.it^$all
@@ -1474,6 +1505,7 @@
 ||successioneserena.it^$all
 ||suche-geschaeftsidee.de^$all
 ||suitevita.de^$all
+||summer-of-magic-radio.de^$all
 ||summerbeach.it^$all
 ||sundayismondayhome.pl^$all
 ||sunjoli.com^$all
@@ -1541,9 +1573,11 @@
 ||topfitcollege.nl^$all
 ||tophookers.eu^$all
 ||torre-lapillo.it^$all
+||torrepratesi.eu^$all
 ||tousavecalex.fr^$all
 ||traildellerocche.it^$all
 ||trailerownia.pl^$all
+||trailhunters.es^$all
 ||transfertoibiza.es^$all
 ||transportpgg.pl^$all
 ||transzlom.pl^$all
@@ -1684,6 +1718,7 @@
 ||ziel4u.de^$all
 ||zjghysjx.com^$all
 ||zomerschoolutrecht.nl^$all
+||zoomenglish.es^$all
 ||zpit-kurpiezielone.pl^$all
 ||zuzanajancuskova.eu^$all
 ||zwitserlandroute.eu^$all
