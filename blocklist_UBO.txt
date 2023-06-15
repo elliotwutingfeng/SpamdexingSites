@@ -66,12 +66,14 @@
 ||alphainversores.es^$all
 ||alpilife.eu^$all
 ||alpinres.pl^$all
+||altitude1647.eu^$all
 ||alumetalicaporcuna.es^$all
 ||alvitobello.it^$all
 ||amados-tanzclub.de^$all
 ||ambershopkids.pl^$all
 ||amicidicortina.it^$all
 ||amondo.it^$all
+||amqcharity.nl^$all
 ||amsherzo.eu^$all
 ||amuzlodz-eog.pl^$all
 ||analizainternetowa.pl^$all
@@ -126,6 +128,7 @@
 ||artfishmed.eu^$all
 ||article-box.eu^$all
 ||artilex.eu^$all
+||artprojekt-show.eu^$all
 ||artrunner.pl^$all
 ||artysciprzeciwnienawisci.pl^$all
 ||aryabarberfranchising.it^$all
@@ -177,6 +180,7 @@
 ||balustradex.pl^$all
 ||bambulka.eu^$all
 ||bancadeltempoavt.it^$all
+||bardepintxosdonostia.es^$all
 ||bargelateriaarcobaleno.it^$all
 ||barrows-insurance.eu^$all
 ||barworkacademy.pl^$all
@@ -233,6 +237,7 @@
 ||blogmercaderribo.es^$all
 ||blumenkisterl.de^$all
 ||blumescosmetics.it^$all
+||bluming-lab.fr^$all
 ||blutelecomunicazioni.it^$all
 ||bo-sushi.fr^$all
 ||bochenekmateusz.pl^$all
@@ -248,6 +253,7 @@
 ||boydhuigsloot.nl^$all
 ||bpvdekanaalstreek.nl^$all
 ||breuer-zelte.de^$all
+||brexitamsterdam.nl^$all
 ||brookstreetfutures.eu^$all
 ||brother.eu^$all
 ||brucehaashockey.com^$all
@@ -554,6 +560,7 @@
 ||espritssinguliers.fr^$all
 ||estalena.pl^$all
 ||estedemocratica.it^$all
+||estetachivasso.it^$all
 ||esteticacocomisbellezas.es^$all
 ||estylshop.pl^$all
 ||eukorea-fire.eu^$all
@@ -573,6 +580,7 @@
 ||exaltak.fr^$all
 ||executivelearning.fr^$all
 ||exlibrisauser.it^$all
+||experienceandlearn.es^$all
 ||fabiofucci.it^$all
 ||fabrianoedintorni.it^$all
 ||fadotrans.de^$all
@@ -656,12 +664,14 @@
 ||g-wood.pl^$all
 ||gabbianello.it^$all
 ||gaertnerei-rech.de^$all
+||galabau-trautmann.de^$all
 ||galanteriafutrzana.pl^$all
 ||garaizabal.es^$all
 ||gardenbetter.it^$all
 ||gardenmal.pl^$all
 ||garmazodukrainek.pl^$all
 ||garnekdoryzu.pl^$all
+||gartentherapeuten-nord.de^$all
 ||gbsurface.eu^$all
 ||gdr-wuppertal.de^$all
 ||gdyyqcyp.com^$all
@@ -684,6 +694,7 @@
 ||giveaway-partyband.de^$all
 ||gkvhoch2.de^$all
 ||glamclinic.pl^$all
+||glupglup.es^$all
 ||glutinamente.es^$all
 ||gmedic.pl^$all
 ||gmpkamieniarstwo.pl^$all
@@ -867,6 +878,7 @@
 ||klebaum.de^$all
 ||kleinegrundschulemewegen.de^$all
 ||klubseniorapodgorskiwalczyk.pl^$all
+||koalapaku.fr^$all
 ||koenenandco.nl^$all
 ||kojachi.fr^$all
 ||konkretpizza.pl^$all
@@ -960,6 +972,7 @@
 ||lowacademy.nl^$all
 ||lt-global.eu^$all
 ||luccabikeevolution.it^$all
+||luigiscoglio.it^$all
 ||luisafassino.it^$all
 ||lumiere-lab.pl^$all
 ||lupka24.pl^$all
@@ -1045,6 +1058,7 @@
 ||michael-lai.com^$all
 ||micheleconcas.it^$all
 ||midasowe.pl^$all
+||miechunka-pomidorowa-24.eu^$all
 ||miekip.eu^$all
 ||mietwerkstatt-bad-aibling.de^$all
 ||miguelmothes.de^$all
@@ -1117,6 +1131,7 @@
 ||nature-experience.de^$all
 ||natureetsens73.fr^$all
 ||naturkratzwelten.de^$all
+||nearhome.es^$all
 ||neeoproject.eu^$all
 ||nellodicaprio.it^$all
 ||nemanature.fr^$all
@@ -1295,6 +1310,7 @@
 ||pzngrodbielsko.pl^$all
 ||pzw-wojnicz.pl^$all
 ||qantascomplaints.com^$all
+||qatechnic-academy.de^$all
 ||qbecka.pl^$all
 ||quarzwerke-kw.de^$all
 ||queserepita.com^$all
@@ -1313,6 +1329,7 @@
 ||rauscher-elektro.de^$all
 ||rbtechnology.it^$all
 ||rc-store.biz^$all
+||realityslovacko.eu^$all
 ||reasonsforeurope.eu^$all
 ||rechnen-visuell-lernen.de^$all
 ||rechtsanwaltanhalt.de^$all
@@ -1439,6 +1456,7 @@
 ||simgata.pl^$all
 ||simpletalent.pl^$all
 ||sino-ways.com^$all
+||sirpac.es^$all
 ||sistemarischipmi.it^$all
 ||site-aanmelden.eu^$all
 ||sitecore-italyevents.it^$all
@@ -1452,6 +1470,7 @@
 ||skullsladytattooandgallery.es^$all
 ||skutrownia.pl^$all
 ||slaapmiddelen.eu^$all
+||slacklinefest-kl.de^$all
 ||slest2-0.eu^$all
 ||smashdots.nl^$all
 ||smslove.biz^$all
@@ -1467,6 +1486,7 @@
 ||sonnenblick-wildenfels.de^$all
 ||sophyangelflorist.com^$all
 ||soul-spa-berlin.de^$all
+||soulfoodvalentinakusche.de^$all
 ||sp15jz.pl^$all
 ||spankwirecams.es^$all
 ||spartanblasting.com^$all
@@ -1538,6 +1558,7 @@
 ||telon.pl^$all
 ||tenutegucciardi.it^$all
 ||terz-schlag.de^$all
+||tes-tin.eu^$all
 ||tessacosmetici.it^$all
 ||testzentrum-marktplatzcenter-nb.de^$all
 ||textagentur-satzmelodie.de^$all
@@ -1573,6 +1594,7 @@
 ||topfitcollege.nl^$all
 ||tophookers.eu^$all
 ||torre-lapillo.it^$all
+||torremolinosshopping.es^$all
 ||torrepratesi.eu^$all
 ||tousavecalex.fr^$all
 ||traildellerocche.it^$all
@@ -1599,6 +1621,7 @@
 ||tupublicidadonline.es^$all
 ||turczynowicz-kieryllo.pl^$all
 ||turkgucu-deggendorf.de^$all
+||tutinutricion.es^$all
 ||tweedehandsfietsenmarkt.nl^$all
 ||twoj-maluch.pl^$all
 ||tynkimaszynowekrakow.pl^$all
@@ -1641,6 +1664,7 @@
 ||villa-almira.eu^$all
 ||villaverdi-8.de^$all
 ||vilpia3d.es^$all
+||virego.eu^$all
 ||vivereameglia.it^$all
 ||viverosvedo.es^$all
 ||vmcassistenza.it^$all
