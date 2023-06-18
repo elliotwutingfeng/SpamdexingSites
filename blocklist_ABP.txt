@@ -19,6 +19,7 @@
 ||abteilung7bigband.de^
 ||accademiadelcinemaares.it^
 ||aceconseileval.fr^
+||acgmodels.pl^
 ||achordgroup.com^
 ||acquagold.it^
 ||acscu.net^
@@ -91,12 +92,14 @@
 ||annabonfriscopress.it^
 ||annalisadesiata.it^
 ||annawasij.pl^
+||annkristin-blome.de^
 ||anremopatowek.pl^
 ||antalya-mg.de^
 ||anthy-passioncommune.fr^
 ||antonellagiallonardo.it^
 ||antonevich-sports.de^
 ||antonio-rivas.es^
+||antoniofuentespsico.es^
 ||anunturipeweb.eu^
 ||anunturirapide.eu^
 ||apartamentolympicpark.pl^
@@ -108,6 +111,7 @@
 ||apolloniosoluzioni.it^
 ||appart-vermietung.de^
 ||appartement-pueo-luchon.fr^
+||apticket.pl^
 ||aptproject.eu^
 ||aqs-consulting.fr^
 ||aqua-kasper.de^
@@ -119,6 +123,7 @@
 ||aritex.pl^
 ||armand-rochas.eu^
 ||armandofonzone.it^
+||arnhem-open.nl^
 ||arquitectotecnicomadridsur.es^
 ||arresto-momentum.de^
 ||ars-passau.de^
@@ -158,6 +163,7 @@
 ||audimag.es^
 ||audreymoneyron.fr^
 ||auloupmontpellier.fr^
+||aupaysdusoleilcouchant.fr^
 ||auroraimpiantisrl.it^
 ||autodoprava-mart.eu^
 ||automotoserwismikolajuk.pl^
@@ -185,6 +191,7 @@
 ||barrows-insurance.eu^
 ||barworkacademy.pl^
 ||basiagorska.pl^
+||bativamos.fr^
 ||bauchzwergs-onlineshop.de^
 ||bblimpianti.it^
 ||bc-energ-ethique.fr^
@@ -211,6 +218,7 @@
 ||bessosalou.es^
 ||bestfit-dan.de^
 ||bezirkslandfrauen-fmtk.de^
+||bezpiecznainwestycja.pl^
 ||bhabhapersianbistro.com^
 ||biella-case.it^
 ||bielsko-przeprowadzki.pl^
@@ -270,6 +278,7 @@
 ||bzdetowo.pl^
 ||cabanatogo.eu^
 ||cacioepepe-muenchen.de^
+||cadeauteam.nl^
 ||cafe-casablanca.de^
 ||calcestruzzivalleverde.it^
 ||call-center-w-chmurze.pl^
@@ -440,6 +449,7 @@
 ||demassari.it^
 ||demikops.nl^
 ||demosarnepi.it^
+||dentalbeltran.es^
 ||dentisverbania.it^
 ||dentrounafotografia.it^
 ||der-heizshop.de^
@@ -474,6 +484,7 @@
 ||donutspaws.pl^
 ||dor-reception.fr^
 ||dorf-benz.de^
+||dorpshuisdepaol.nl^
 ||dosstrento.it^
 ||dottormicelipsi.it^
 ||dplr.it^
@@ -518,6 +529,7 @@
 ||ecoupled.eu^
 ||ecteni.eu^
 ||edisama.it^
+||educacionsuperiorfisioterapia.es^
 ||educationdoctoral.eu^
 ||edukacjadwujezyczna.edu.pl^
 ||eep-arturosoria.es^
@@ -547,6 +559,7 @@
 ||enricabottiniparrucchieri.it^
 ||enviedequilibre.fr^
 ||envivotv.es^
+||eo2019.eu^
 ||epicesnight68.fr^
 ||epozyczalnia.pl^
 ||eprojektory.pl^
@@ -563,6 +576,7 @@
 ||estetachivasso.it^
 ||esteticacocomisbellezas.es^
 ||estylshop.pl^
+||eufloodcommand.eu^
 ||eukorea-fire.eu^
 ||euro928-2017.eu^
 ||eurocopaespanashop.es^
@@ -591,6 +605,7 @@
 ||familydream.nl^
 ||fancygift.de^
 ||fapservice.fr^
+||farmaciaortopediabueno.es^
 ||fashion-shop-2.fr^
 ||fashionjewelry.fr^
 ||fashionnew.it^
@@ -636,6 +651,7 @@
 ||formacion-maritima-profesional.es^
 ||formationafest.fr^
 ||formazionemodatoscana.it^
+||formulamentoring.eu^
 ||forstbetrieb-baumann.de^
 ||fortepianino.pl^
 ||foto-agent.pl^
@@ -848,7 +864,9 @@
 ||joecapista.eu^
 ||jozwiakrafal.pl^
 ||jubilee-ace-info.de^
+||jubilu.pl^
 ||jugendfeuerwehr-riepsdorf.de^
+||jugendherberge-haderslev.de^
 ||jushiert.shop^
 ||justmyporn.fr^
 ||juwelier-gap.de^
@@ -870,6 +888,7 @@
 ||kinesis-tomaszow.pl^
 ||kingstonnews.nl^
 ||kishakatolike.eu^
+||kisumukroniek.nl^
 ||kitchen93.de^
 ||kiwu-witwe.de^
 ||kizomba-berlinal.de^
@@ -1080,6 +1099,7 @@
 ||mm-onlineakademie.de^
 ||mmbpatrimoine.fr^
 ||mobiles-impfen-niedersachsen.de^
+||mobiliarioofficedeco.es^
 ||moda-icone-woods.fr^
 ||modelcrop.org^
 ||modular360.es^
@@ -1163,7 +1183,9 @@
 ||nualjewels.it^
 ||nueva-energia.eu^
 ||number1store.pl^
+||nutres.es^
 ||obiadwsloiku.pl^
+||objectifdesign.eu^
 ||obserwatoriumrw.pl^
 ||occhioallospot.it^
 ||odchudzanie-marinero.pl^
@@ -1195,6 +1217,7 @@
 ||orionkamieniarstwo.pl^
 ||orkiestron.pl^
 ||ospsporysz.pl^
+||osrodekdompodlasem.pl^
 ||osteopathie-poing.de^
 ||ostojacamp.pl^
 ||otorinosonzogni.it^
@@ -1227,6 +1250,7 @@
 ||pelkaes.eu^
 ||pellet-cena.pl^
 ||percorsoprotetto.it^
+||perrosdelaisla.es^
 ||peter-bergmann.de^
 ||peter-schmode.de^
 ||petra-siemens.de^
@@ -1259,6 +1283,7 @@
 ||podryban.pl^
 ||pokoje24sarbinowo.pl^
 ||polastripavimentilegno.it^
+||poleair-sport.fr^
 ||poledanceacademydg.pl^
 ||poloniazamosc.pl^
 ||poly3der.de^
@@ -1514,6 +1539,7 @@
 ||stopvid.es^
 ||strefauvc.pl^
 ||stronylaskowski.pl^
+||stubenoffice.de^
 ||stuckateur-eisenhauer.de^
 ||studiobianc.nl^
 ||studiolegalebar.it^
@@ -1560,6 +1586,7 @@
 ||terz-schlag.de^
 ||tes-tin.eu^
 ||tessacosmetici.it^
+||test-supper.nl^
 ||testzentrum-marktplatzcenter-nb.de^
 ||textagentur-satzmelodie.de^
 ||thanittahua.pl^
@@ -1685,6 +1712,7 @@
 ||webxturkiye.com^
 ||wego-bau.de^
 ||weight-loss-rank.eu^
+||welt-der-drohnen-und-hubschrauber.de^
 ||welurowylew.pl^
 ||welzmedia.pl^
 ||wenhua.pl^

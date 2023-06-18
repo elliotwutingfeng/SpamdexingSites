@@ -19,6 +19,7 @@
 ||abteilung7bigband.de^$all
 ||accademiadelcinemaares.it^$all
 ||aceconseileval.fr^$all
+||acgmodels.pl^$all
 ||achordgroup.com^$all
 ||acquagold.it^$all
 ||acscu.net^$all
@@ -91,12 +92,14 @@
 ||annabonfriscopress.it^$all
 ||annalisadesiata.it^$all
 ||annawasij.pl^$all
+||annkristin-blome.de^$all
 ||anremopatowek.pl^$all
 ||antalya-mg.de^$all
 ||anthy-passioncommune.fr^$all
 ||antonellagiallonardo.it^$all
 ||antonevich-sports.de^$all
 ||antonio-rivas.es^$all
+||antoniofuentespsico.es^$all
 ||anunturipeweb.eu^$all
 ||anunturirapide.eu^$all
 ||apartamentolympicpark.pl^$all
@@ -108,6 +111,7 @@
 ||apolloniosoluzioni.it^$all
 ||appart-vermietung.de^$all
 ||appartement-pueo-luchon.fr^$all
+||apticket.pl^$all
 ||aptproject.eu^$all
 ||aqs-consulting.fr^$all
 ||aqua-kasper.de^$all
@@ -119,6 +123,7 @@
 ||aritex.pl^$all
 ||armand-rochas.eu^$all
 ||armandofonzone.it^$all
+||arnhem-open.nl^$all
 ||arquitectotecnicomadridsur.es^$all
 ||arresto-momentum.de^$all
 ||ars-passau.de^$all
@@ -158,6 +163,7 @@
 ||audimag.es^$all
 ||audreymoneyron.fr^$all
 ||auloupmontpellier.fr^$all
+||aupaysdusoleilcouchant.fr^$all
 ||auroraimpiantisrl.it^$all
 ||autodoprava-mart.eu^$all
 ||automotoserwismikolajuk.pl^$all
@@ -185,6 +191,7 @@
 ||barrows-insurance.eu^$all
 ||barworkacademy.pl^$all
 ||basiagorska.pl^$all
+||bativamos.fr^$all
 ||bauchzwergs-onlineshop.de^$all
 ||bblimpianti.it^$all
 ||bc-energ-ethique.fr^$all
@@ -211,6 +218,7 @@
 ||bessosalou.es^$all
 ||bestfit-dan.de^$all
 ||bezirkslandfrauen-fmtk.de^$all
+||bezpiecznainwestycja.pl^$all
 ||bhabhapersianbistro.com^$all
 ||biella-case.it^$all
 ||bielsko-przeprowadzki.pl^$all
@@ -270,6 +278,7 @@
 ||bzdetowo.pl^$all
 ||cabanatogo.eu^$all
 ||cacioepepe-muenchen.de^$all
+||cadeauteam.nl^$all
 ||cafe-casablanca.de^$all
 ||calcestruzzivalleverde.it^$all
 ||call-center-w-chmurze.pl^$all
@@ -440,6 +449,7 @@
 ||demassari.it^$all
 ||demikops.nl^$all
 ||demosarnepi.it^$all
+||dentalbeltran.es^$all
 ||dentisverbania.it^$all
 ||dentrounafotografia.it^$all
 ||der-heizshop.de^$all
@@ -474,6 +484,7 @@
 ||donutspaws.pl^$all
 ||dor-reception.fr^$all
 ||dorf-benz.de^$all
+||dorpshuisdepaol.nl^$all
 ||dosstrento.it^$all
 ||dottormicelipsi.it^$all
 ||dplr.it^$all
@@ -518,6 +529,7 @@
 ||ecoupled.eu^$all
 ||ecteni.eu^$all
 ||edisama.it^$all
+||educacionsuperiorfisioterapia.es^$all
 ||educationdoctoral.eu^$all
 ||edukacjadwujezyczna.edu.pl^$all
 ||eep-arturosoria.es^$all
@@ -547,6 +559,7 @@
 ||enricabottiniparrucchieri.it^$all
 ||enviedequilibre.fr^$all
 ||envivotv.es^$all
+||eo2019.eu^$all
 ||epicesnight68.fr^$all
 ||epozyczalnia.pl^$all
 ||eprojektory.pl^$all
@@ -563,6 +576,7 @@
 ||estetachivasso.it^$all
 ||esteticacocomisbellezas.es^$all
 ||estylshop.pl^$all
+||eufloodcommand.eu^$all
 ||eukorea-fire.eu^$all
 ||euro928-2017.eu^$all
 ||eurocopaespanashop.es^$all
@@ -591,6 +605,7 @@
 ||familydream.nl^$all
 ||fancygift.de^$all
 ||fapservice.fr^$all
+||farmaciaortopediabueno.es^$all
 ||fashion-shop-2.fr^$all
 ||fashionjewelry.fr^$all
 ||fashionnew.it^$all
@@ -636,6 +651,7 @@
 ||formacion-maritima-profesional.es^$all
 ||formationafest.fr^$all
 ||formazionemodatoscana.it^$all
+||formulamentoring.eu^$all
 ||forstbetrieb-baumann.de^$all
 ||fortepianino.pl^$all
 ||foto-agent.pl^$all
@@ -848,7 +864,9 @@
 ||joecapista.eu^$all
 ||jozwiakrafal.pl^$all
 ||jubilee-ace-info.de^$all
+||jubilu.pl^$all
 ||jugendfeuerwehr-riepsdorf.de^$all
+||jugendherberge-haderslev.de^$all
 ||jushiert.shop^$all
 ||justmyporn.fr^$all
 ||juwelier-gap.de^$all
@@ -870,6 +888,7 @@
 ||kinesis-tomaszow.pl^$all
 ||kingstonnews.nl^$all
 ||kishakatolike.eu^$all
+||kisumukroniek.nl^$all
 ||kitchen93.de^$all
 ||kiwu-witwe.de^$all
 ||kizomba-berlinal.de^$all
@@ -1080,6 +1099,7 @@
 ||mm-onlineakademie.de^$all
 ||mmbpatrimoine.fr^$all
 ||mobiles-impfen-niedersachsen.de^$all
+||mobiliarioofficedeco.es^$all
 ||moda-icone-woods.fr^$all
 ||modelcrop.org^$all
 ||modular360.es^$all
@@ -1163,7 +1183,9 @@
 ||nualjewels.it^$all
 ||nueva-energia.eu^$all
 ||number1store.pl^$all
+||nutres.es^$all
 ||obiadwsloiku.pl^$all
+||objectifdesign.eu^$all
 ||obserwatoriumrw.pl^$all
 ||occhioallospot.it^$all
 ||odchudzanie-marinero.pl^$all
@@ -1195,6 +1217,7 @@
 ||orionkamieniarstwo.pl^$all
 ||orkiestron.pl^$all
 ||ospsporysz.pl^$all
+||osrodekdompodlasem.pl^$all
 ||osteopathie-poing.de^$all
 ||ostojacamp.pl^$all
 ||otorinosonzogni.it^$all
@@ -1227,6 +1250,7 @@
 ||pelkaes.eu^$all
 ||pellet-cena.pl^$all
 ||percorsoprotetto.it^$all
+||perrosdelaisla.es^$all
 ||peter-bergmann.de^$all
 ||peter-schmode.de^$all
 ||petra-siemens.de^$all
@@ -1259,6 +1283,7 @@
 ||podryban.pl^$all
 ||pokoje24sarbinowo.pl^$all
 ||polastripavimentilegno.it^$all
+||poleair-sport.fr^$all
 ||poledanceacademydg.pl^$all
 ||poloniazamosc.pl^$all
 ||poly3der.de^$all
@@ -1514,6 +1539,7 @@
 ||stopvid.es^$all
 ||strefauvc.pl^$all
 ||stronylaskowski.pl^$all
+||stubenoffice.de^$all
 ||stuckateur-eisenhauer.de^$all
 ||studiobianc.nl^$all
 ||studiolegalebar.it^$all
@@ -1560,6 +1586,7 @@
 ||terz-schlag.de^$all
 ||tes-tin.eu^$all
 ||tessacosmetici.it^$all
+||test-supper.nl^$all
 ||testzentrum-marktplatzcenter-nb.de^$all
 ||textagentur-satzmelodie.de^$all
 ||thanittahua.pl^$all
@@ -1685,6 +1712,7 @@
 ||webxturkiye.com^$all
 ||wego-bau.de^$all
 ||weight-loss-rank.eu^$all
+||welt-der-drohnen-und-hubschrauber.de^$all
 ||welurowylew.pl^$all
 ||welzmedia.pl^$all
 ||wenhua.pl^$all
