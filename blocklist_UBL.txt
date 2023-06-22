@@ -3,6 +3,7 @@
 *://*.123-kinderschoenen.nl/*
 *://*.123schlosserei.de/*
 *://*.1hannover.de/*
+*://*.1majeolomouc.eu/*
 *://*.24-rabat.pl/*
 *://*.27radio.eu/*
 *://*.365booth.de/*
@@ -24,6 +25,7 @@
 *://*.acquagold.it/*
 *://*.acscu.net/*
 *://*.adam-komputery.pl/*
+*://*.adamskupinski.pl/*
 *://*.adhs-doku-zentrum.de/*
 *://*.adriamoda.de/*
 *://*.adrianmaciejewski.pl/*
@@ -41,6 +43,7 @@
 *://*.ai-technology.it/*
 *://*.aitnapartments.it/*
 *://*.aiyara.fr/*
+*://*.ajrimmobilier.fr/*
 *://*.akademie-westend.de/*
 *://*.akcesoriaobronne.pl/*
 *://*.akiplant.es/*
@@ -193,6 +196,7 @@
 *://*.basiagorska.pl/*
 *://*.bativamos.fr/*
 *://*.bauchzwergs-onlineshop.de/*
+*://*.bazakierowcow.pl/*
 *://*.bblimpianti.it/*
 *://*.bc-energ-ethique.fr/*
 *://*.beas-putzservice.de/*
@@ -282,6 +286,7 @@
 *://*.cafe-casablanca.de/*
 *://*.calcestruzzivalleverde.it/*
 *://*.call-center-w-chmurze.pl/*
+*://*.callthefuture.fr/*
 *://*.calpeapartments.es/*
 *://*.caminolusco.es/*
 *://*.camp-koszykarski.pl/*
@@ -363,6 +368,7 @@
 *://*.clinicaveterinariasaludanimal.es/*
 *://*.clkonskie.pl/*
 *://*.cmpulimentacion.es/*
+*://*.coal-uv.es/*
 *://*.cocowebsy.pl/*
 *://*.cofise.es/*
 *://*.colegiojoseescandon.es/*
@@ -370,6 +376,7 @@
 *://*.comiciadhoc.it/*
 *://*.communicatiestuderen.nl/*
 *://*.communityhurts.de/*
+*://*.competence-kaleidoscope.eu/*
 *://*.computerhulpdieren.nl/*
 *://*.comtoneroki.es/*
 *://*.comunitamindful.it/*
@@ -439,6 +446,7 @@
 *://*.dasrestaurant-eiche.de/*
 *://*.davecooke.eu/*
 *://*.davina-dark.de/*
+*://*.dcl-kanzlei.de/*
 *://*.ddtspareparts.it/*
 *://*.deathland.eu/*
 *://*.deguo-shop.de/*
@@ -502,6 +510,7 @@
 *://*.duet-z-goretta.pl/*
 *://*.dufeu2022.fr/*
 *://*.dunboutalautre.eu/*
+*://*.durchblog.de/*
 *://*.duzone-birkenhaus.de/*
 *://*.dvert.org/*
 *://*.dvirtex.eu/*
@@ -529,6 +538,7 @@
 *://*.ecoupled.eu/*
 *://*.ecteni.eu/*
 *://*.edisama.it/*
+*://*.edisex.es/*
 *://*.educacionsuperiorfisioterapia.es/*
 *://*.educationdoctoral.eu/*
 *://*.edukacjadwujezyczna.edu.pl/*
@@ -560,6 +570,7 @@
 *://*.enviedequilibre.fr/*
 *://*.envivotv.es/*
 *://*.eo2019.eu/*
+*://*.epgkielce.pl/*
 *://*.epicesnight68.fr/*
 *://*.epozyczalnia.pl/*
 *://*.eprojektory.pl/*
@@ -569,6 +580,7 @@
 *://*.erdosell.pl/*
 *://*.ergositter.eu/*
 *://*.escuelabarberiaprietos.es/*
+*://*.escuelainfantilcasiopea.es/*
 *://*.eshopelektro.eu/*
 *://*.espritssinguliers.fr/*
 *://*.estalena.pl/*
@@ -588,6 +600,7 @@
 *://*.evchiemgau-bgl.de/*
 *://*.everbloomy.de/*
 *://*.eversschilderwerken.nl/*
+*://*.evolucrossfitmelun.fr/*
 *://*.ewalipiec.pl/*
 *://*.ewesan.pl/*
 *://*.ewoudtraast.nl/*
@@ -596,6 +609,7 @@
 *://*.exlibrisauser.it/*
 *://*.experienceandlearn.es/*
 *://*.fabiofucci.it/*
+*://*.fabioscandola.it/*
 *://*.fabrianoedintorni.it/*
 *://*.fadotrans.de/*
 *://*.failadifferenziata.it/*
@@ -629,6 +643,7 @@
 *://*.filmypozboju.pl/*
 *://*.filtryult.pl/*
 *://*.finalwars.eu/*
+*://*.fincaelpardito.es/*
 *://*.findmdlaw.com/*
 *://*.firmafucha.pl/*
 *://*.firstlighty.com/*
@@ -661,8 +676,10 @@
 *://*.fotograf-slubny-gdansk.pl/*
 *://*.fotografiaireneo.es/*
 *://*.fotoimagegenova.it/*
+*://*.foulo.fr/*
 *://*.fp7tornado.eu/*
 *://*.francescolangella.it/*
+*://*.franciscofiardo.fr/*
 *://*.francofasulo.it/*
 *://*.frankdeblok.fr/*
 *://*.frauen-aus-rio.eu/*
@@ -693,6 +710,7 @@
 *://*.gdyyqcyp.com/*
 *://*.gebufft.de/*
 *://*.genadvice.es/*
+*://*.genussmitherz.eu/*
 *://*.gesternstadt.eu/*
 *://*.getflashnews.nl/*
 *://*.gianlucacavallini.it/*
@@ -756,6 +774,7 @@
 *://*.hazels-blog.de/*
 *://*.hclmedia.nl/*
 *://*.hdjiding.com/*
+*://*.hdms-renov.fr/*
 *://*.healinglightviseum.eu/*
 *://*.heatpipepisa.it/*
 *://*.heilende-energie.eu/*
@@ -785,6 +804,7 @@
 *://*.hugo-live-band.de/*
 *://*.hundebedarf-boettcher.de/*
 *://*.hundekrankenversicherung-direkt.de/*
+*://*.hundepension-fettig.de/*
 *://*.hundesalon-el-roi.de/*
 *://*.hundundpfote.de/*
 *://*.huracanpadel.it/*
@@ -812,6 +832,7 @@
 *://*.ilcolibri.it/*
 *://*.ilcontedimontecristo.it/*
 *://*.ilmattoncino.eu/*
+*://*.ilonkadegraaf.nl/*
 *://*.imcae.es/*
 *://*.imitatio-heroica.de/*
 *://*.immobilbox.it/*
@@ -819,6 +840,7 @@
 *://*.immobilienprofi-leipzig.de/*
 *://*.inametal.es/*
 *://*.inboundtours.eu/*
+*://*.indecomazury.pl/*
 *://*.indianadriana.pl/*
 *://*.infanziaedintorni.it/*
 *://*.inforia.es/*
@@ -829,6 +851,7 @@
 *://*.innovation-entwicklung.de/*
 *://*.inpraiseofchina.com/*
 *://*.instaltech-ad.pl/*
+*://*.institutbeaute-les-orchidees.fr/*
 *://*.institutlucile.fr/*
 *://*.internationalkungfu.eu/*
 *://*.interregrat.eu/*
@@ -849,10 +872,12 @@
 *://*.iugis.eu/*
 *://*.jamniki-szczytno.pl/*
 *://*.jaslo-hs.pl/*
+*://*.javascriptkennisbank.nl/*
 *://*.javiercars.es/*
 *://*.jbbb.fr/*
 *://*.jbfilm.pl/*
 *://*.jdelivery.it/*
+*://*.jennyundbenny.de/*
 *://*.jereconditionne.fr/*
 *://*.jeroenvanherten.nl/*
 *://*.jestnatorada.pl/*
@@ -860,6 +885,7 @@
 *://*.jj-tauben.de/*
 *://*.jksun.de/*
 *://*.jl-assistance-qualite.fr/*
+*://*.jm-assistant-administratif.fr/*
 *://*.jmservera.com/*
 *://*.joecapista.eu/*
 *://*.jozwiakrafal.pl/*
@@ -875,6 +901,7 @@
 *://*.kabelkult.de/*
 *://*.kajakurczuk.pl/*
 *://*.kalteneck-araber.de/*
+*://*.kanzlei-meis.de/*
 *://*.karin-wagner.de/*
 *://*.karlottesdesigns.de/*
 *://*.karolptaszkiewicz.pl/*
@@ -885,6 +912,8 @@
 *://*.keletiszki.eu/*
 *://*.kemenammo.eu/*
 *://*.keshop.pl/*
+*://*.kfz-landtechnik-behr.de/*
+*://*.kikigarage.pl/*
 *://*.kinesis-tomaszow.pl/*
 *://*.kingstonnews.nl/*
 *://*.kishakatolike.eu/*
@@ -896,6 +925,8 @@
 *://*.kkrescue.pl/*
 *://*.klebaum.de/*
 *://*.kleinegrundschulemewegen.de/*
+*://*.kleinstadtonline.de/*
+*://*.klickranker.de/*
 *://*.klubseniorapodgorskiwalczyk.pl/*
 *://*.koalapaku.fr/*
 *://*.koenenandco.nl/*
@@ -946,6 +977,7 @@
 *://*.leben-ohne-essstoerung.de/*
 *://*.leboisdeco.fr/*
 *://*.lecentredoccasion.fr/*
+*://*.leclosdeshuypres.fr/*
 *://*.led4less.de/*
 *://*.legalintech.pl/*
 *://*.lemondeoled.fr/*
@@ -962,6 +994,7 @@
 *://*.librerialagaleria.es/*
 *://*.libriditestoardea2021.it/*
 *://*.libro-biuro.pl/*
+*://*.liesbosweg160.nl/*
 *://*.life20.net/*
 *://*.lifetricks.de/*
 *://*.lightmyfire-band.de/*
@@ -1038,6 +1071,7 @@
 *://*.martinmuenchow.de/*
 *://*.marysiasowinska.pl/*
 *://*.maskid.es/*
+*://*.mastermindcollege.nl/*
 *://*.mathieumuollo.fr/*
 *://*.matrioscafarmacia.it/*
 *://*.max-titan-gel-gold.eu/*
@@ -1098,6 +1132,7 @@
 *://*.mm-invest-2006.de/*
 *://*.mm-onlineakademie.de/*
 *://*.mmbpatrimoine.fr/*
+*://*.mobilarzt.de/*
 *://*.mobiles-impfen-niedersachsen.de/*
 *://*.mobiliarioofficedeco.es/*
 *://*.moda-icone-woods.fr/*
@@ -1184,6 +1219,7 @@
 *://*.nueva-energia.eu/*
 *://*.number1store.pl/*
 *://*.nutres.es/*
+*://*.obesite-chirurgie74.fr/*
 *://*.obiadwsloiku.pl/*
 *://*.objectifdesign.eu/*
 *://*.obserwatoriumrw.pl/*
@@ -1218,6 +1254,7 @@
 *://*.orkiestron.pl/*
 *://*.ospsporysz.pl/*
 *://*.osrodekdompodlasem.pl/*
+*://*.osswald-wandert.de/*
 *://*.osteopathie-poing.de/*
 *://*.ostojacamp.pl/*
 *://*.otorinosonzogni.it/*
@@ -1233,6 +1270,7 @@
 *://*.panabas.es/*
 *://*.papybio.fr/*
 *://*.parafiamsciszewice.pl/*
+*://*.paroleinvaligia.it/*
 *://*.partnersin.eu/*
 *://*.pascalservera.eu/*
 *://*.passalacqualuzon.it/*
@@ -1250,6 +1288,7 @@
 *://*.pelkaes.eu/*
 *://*.pellet-cena.pl/*
 *://*.percorsoprotetto.it/*
+*://*.peri-plock.pl/*
 *://*.perrosdelaisla.es/*
 *://*.peter-bergmann.de/*
 *://*.peter-schmode.de/*
@@ -1321,6 +1360,7 @@
 *://*.prozdjecia.pl/*
 *://*.przygodaphoto.pl/*
 *://*.przylacza-warszawa.pl/*
+*://*.przystanekzaspa.pl/*
 *://*.psicologapilartejedor.es/*
 *://*.psicologo-romaprati.it/*
 *://*.psicotandem.es/*
@@ -1395,6 +1435,7 @@
 *://*.robert-janke-immobilien.de/*
 *://*.rockycreekdesigns.eu/*
 *://*.roesrather-kolumbienen.de/*
+*://*.roland-heintze.eu/*
 *://*.rom-up.eu/*
 *://*.ron-telesky.de/*
 *://*.rootsfisch.de/*
@@ -1445,6 +1486,7 @@
 *://*.schnelltest-am-motorpark.de/*
 *://*.schnelltest-hallecenter.de/*
 *://*.scholarshipmax.biz/*
+*://*.schreier-kramer.de/*
 *://*.schulbuch-bayern.eu/*
 *://*.schwestern-kaufhaus.de/*
 *://*.scoppitoservizi.it/*
@@ -1513,6 +1555,7 @@
 *://*.soul-spa-berlin.de/*
 *://*.soulfoodvalentinakusche.de/*
 *://*.sp15jz.pl/*
+*://*.spaciosaiz.es/*
 *://*.spankwirecams.es/*
 *://*.spartanblasting.com/*
 *://*.spd-erfurt-hochheim-bischleben.de/*
@@ -1561,6 +1604,7 @@
 *://*.sutherlandfelt.nl/*
 *://*.sved-masszazs.eu/*
 *://*.synodwkonarzewie.pl/*
+*://*.szepski.pl/*
 *://*.szermierkabuduje.pl/*
 *://*.szglodland.com/*
 *://*.szy-ha.pl/*
@@ -1575,6 +1619,7 @@
 *://*.taxislaurent13.fr/*
 *://*.taxitransferalmunecar.es/*
 *://*.tc-westeresch.de/*
+*://*.tdateatro.it/*
 *://*.teatrocentena.it/*
 *://*.technic-carrosserie-rivat.fr/*
 *://*.technikigrzewcze-widera.pl/*
@@ -1583,10 +1628,13 @@
 *://*.teichert-kuentzler.de/*
 *://*.telon.pl/*
 *://*.tenutegucciardi.it/*
+*://*.tepe2015.eu/*
 *://*.terz-schlag.de/*
 *://*.tes-tin.eu/*
 *://*.tessacosmetici.it/*
 *://*.test-supper.nl/*
+*://*.testefes.eu/*
+*://*.testen-hellersdorf.de/*
 *://*.testzentrum-marktplatzcenter-nb.de/*
 *://*.textagentur-satzmelodie.de/*
 *://*.thanittahua.pl/*
@@ -1602,6 +1650,7 @@
 *://*.tiagocardoso.eu/*
 *://*.tierarztpraxis-rummer.de/*
 *://*.tikala.co/*
+*://*.tintoreriahigiensecmadrid.es/*
 *://*.tischtennis-korntal.de/*
 *://*.titan-gel-gold-max.eu/*
 *://*.toastenoteca.com/*
@@ -1623,17 +1672,20 @@
 *://*.torre-lapillo.it/*
 *://*.torremolinosshopping.es/*
 *://*.torrepratesi.eu/*
+*://*.tourismtrends.eu/*
 *://*.tousavecalex.fr/*
 *://*.traildellerocche.it/*
 *://*.trailerownia.pl/*
 *://*.trailhunters.es/*
 *://*.transfertoibiza.es/*
+*://*.transnetaero.eu/*
 *://*.transportpgg.pl/*
 *://*.transzlom.pl/*
 *://*.travelinbox.pl/*
 *://*.traveltures.de/*
 *://*.treptow-logopaedie.de/*
 *://*.tresjoliedenise.it/*
+*://*.treudata-service.de/*
 *://*.tributabu.fr/*
 *://*.trimsalondaapata.eu/*
 *://*.trippyshoes.es/*
@@ -1656,6 +1708,7 @@
 *://*.ubezpieczenia-malinowski.pl/*
 *://*.ubshow.it/*
 *://*.uczelniatodobremiejsce.pl/*
+*://*.udclazio.it/*
 *://*.uicmantova.it/*
 *://*.ukdgb1.de/*
 *://*.ukrainawzlotowie.pl/*
@@ -1685,6 +1738,7 @@
 *://*.vase-zahrada.eu/*
 *://*.vdbbb.de/*
 *://*.veelaanbiedingen.nl/*
+*://*.velolobby.eu/*
 *://*.venturearchitects.pl/*
 *://*.viacolvento.eu/*
 *://*.vicoregio.it/*
@@ -1708,6 +1762,7 @@
 *://*.wasserlehrpfad-pegnitz.de/*
 *://*.water-bird.eu/*
 *://*.wdpst.de/*
+*://*.weartfamily.fr/*
 *://*.web-jinn.com/*
 *://*.webxturkiye.com/*
 *://*.wego-bau.de/*
@@ -1733,7 +1788,9 @@
 *://*.woceanieslow.pl/*
 *://*.wojartrans.pl/*
 *://*.wollzauber-dortmund.de/*
+*://*.womenlookingharmonydating.eu/*
 *://*.work-legal.nl/*
+*://*.workfirstnederland.nl/*
 *://*.worldsportweb.it/*
 *://*.wrohelpsukr.pl/*
 *://*.wyczuciesmaku.pl/*
