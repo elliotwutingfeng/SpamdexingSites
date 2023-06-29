@@ -62,6 +62,7 @@
 ||aldemetrio.it^$all
 ||aldeon.nl^$all
 ||alefarba.pl^$all
+||alejandraarroyo.es^$all
 ||aletheia-collection.it^$all
 ||alexander-ahrens.de^$all
 ||alexluxuryhair.nl^$all
@@ -83,6 +84,7 @@
 ||ambershopkids.pl^$all
 ||amcfatmayon.de^$all
 ||amicidicortina.it^$all
+||amiciwarszawa.pl^$all
 ||amondo.it^$all
 ||amqcharity.nl^$all
 ||amsherzo.eu^$all
@@ -142,6 +144,7 @@
 ||arteparrucchieriestetica.it^$all
 ||arteryproject.eu^$all
 ||artfishmed.eu^$all
+||artfull-nails.de^$all
 ||article-box.eu^$all
 ||artiksdesign.fr^$all
 ||artilex.eu^$all
@@ -231,6 +234,7 @@
 ||berlin-arrival.de^$all
 ||beschaeftigtentest.de^$all
 ||bessosalou.es^$all
+||bestekontaktlinsen.de^$all
 ||bestfit-dan.de^$all
 ||bezirkslandfrauen-fmtk.de^$all
 ||bezpiecznainwestycja.pl^$all
@@ -334,6 +338,7 @@
 ||cdleycom.nl^$all
 ||cdu-lueneburg-stadt.de^$all
 ||cecile-delouvrier.fr^$all
+||cedricvillani2022.fr^$all
 ||celebritygolfclub.de^$all
 ||celestemarbella.es^$all
 ||centralrico.es^$all
@@ -376,6 +381,7 @@
 ||clbci.fr^$all
 ||cleancare-reinigung.de^$all
 ||cleantechnano.com^$all
+||clemelectrik.fr^$all
 ||cleocaffe.it^$all
 ||clever-style.de^$all
 ||clicodyssee.fr^$all
@@ -425,12 +431,14 @@
 ||crossfer-schnellspanner.de^$all
 ||crumh.fr^$all
 ||cryotshock.it^$all
+||cti-demontage.de^$all
 ||cukiernialucynka.pl^$all
 ||cult-stylz.de^$all
 ||culture-med.eu^$all
 ||cutundcolor-byinaschmidt.de^$all
 ||cvlostendales.es^$all
 ||cwyk.fr^$all
+||cyclespascalmichael.fr^$all
 ||cynamonowyslon.pl^$all
 ||cyprusbiodiversity.eu^$all
 ||czyzsport.pl^$all
@@ -642,6 +650,7 @@
 ||fabioscandola.it^$all
 ||fabrianoedintorni.it^$all
 ||fadotrans.de^$all
+||fahrrad-worldtravel.de^$all
 ||failadifferenziata.it^$all
 ||faire-une-formation.fr^$all
 ||fallavollita.it^$all
@@ -722,6 +731,7 @@
 ||froschinsel-grossenister.de^$all
 ||ftprivacy.cloud^$all
 ||fuchsimwald.de^$all
+||fuhrmann-hochzeitsfotografie.de^$all
 ||funerariaiparraguirre.es^$all
 ||furch.pl^$all
 ||fusspflege-farkasch.de^$all
@@ -936,6 +946,7 @@
 ||jm-assistant-administratif.fr^$all
 ||jmservera.com^$all
 ||joecapista.eu^$all
+||josevicenteabogado.es^$all
 ||jozwiakrafal.pl^$all
 ||jubilee-ace-info.de^$all
 ||jubilu.pl^$all
@@ -1011,6 +1022,7 @@
 ||lamourshop.fr^$all
 ||landesjazzfestival2017.de^$all
 ||landjugend-oesterweg.de^$all
+||lanuovamargellina.it^$all
 ||larenaissanceverte.fr^$all
 ||lasaludintegral.es^$all
 ||laserprouslugilaserem.pl^$all
@@ -1049,6 +1061,7 @@
 ||libriditestoardea2021.it^$all
 ||libro-biuro.pl^$all
 ||librology.it^$all
+||lichtundenergy.de^$all
 ||liesbosweg160.nl^$all
 ||life20.net^$all
 ||lifetricks.de^$all
@@ -1080,6 +1093,7 @@
 ||louvedetoi.fr^$all
 ||love4home.eu^$all
 ||lowacademy.nl^$all
+||lrg-tp.fr^$all
 ||lt-global.eu^$all
 ||luccabikeevolution.it^$all
 ||luigiscoglio.it^$all
@@ -1089,6 +1103,7 @@
 ||luxeproperty.pl^$all
 ||luxevillacorse.eu^$all
 ||luxusni-kabelky.eu^$all
+||lyndabeauty.fr^$all
 ||lzmddqfw.com^$all
 ||mac-info.pl^$all
 ||macadamya.it^$all
@@ -1140,6 +1155,7 @@
 ||max-titan-gel-gold.eu^$all
 ||max-xtrazex.eu^$all
 ||mayanapdt.fr^$all
+||mayidea.fr^$all
 ||mbcotton.pl^$all
 ||mcarre.eu^$all
 ||mcformations.fr^$all
@@ -1221,6 +1237,7 @@
 ||motoavisbo.it^$all
 ||motorcentrum-suzuki.pl^$all
 ||motorpoetsbedrijf.nl^$all
+||movkitchen.fr^$all
 ||mpu-freising.de^$all
 ||mr-borna-mde.de^$all
 ||mrx-emploi-ouest.fr^$all
@@ -1273,6 +1290,7 @@
 ||niebieskislon.edu.pl^$all
 ||nikonfilmfestival.pl^$all
 ||nikooedu.biz^$all
+||nilnunesbeaute.fr^$all
 ||ninalawson.de^$all
 ||nionme.de^$all
 ||noahboats.de^$all
@@ -1302,6 +1320,7 @@
 ||offroadzimy.pl^$all
 ||ofspv-turnaje.eu^$all
 ||og-huellhorst.de^$all
+||oknarudnicki.pl^$all
 ||olgajedrzejewska.pl^$all
 ||olgakowalska.pl^$all
 ||olimposhop.it^$all
@@ -1412,6 +1431,7 @@
 ||poshlashes-zuidholland.nl^$all
 ||postime.pl^$all
 ||potagezvous.fr^$all
+||pozytywnaportal.pl^$all
 ||pparchem.pl^$all
 ||ppkarton.pl^$all
 ||ppps.tv^$all
@@ -1446,6 +1466,7 @@
 ||psicologoscerdanyola.es^$all
 ||psicotandem.es^$all
 ||psicoterapeutispcp.it^$all
+||pslashes.pl^$all
 ||pspkruszew.pl^$all
 ||psychologie-wieser.de^$all
 ||ptstudiodonna.it^$all
@@ -1454,6 +1475,7 @@
 ||puntoexpress.es^$all
 ||purokawa.pl^$all
 ||pygmalion-effect.fr^$all
+||pzhgp-gostyn.pl^$all
 ||pzngrodbielsko.pl^$all
 ||pzw-wojnicz.pl^$all
 ||qantascomplaints.com^$all
@@ -1673,6 +1695,7 @@
 ||stockinator.de^$all
 ||stopprism.eu^$all
 ||stopvid.es^$all
+||stranoamilano.it^$all
 ||streetarteverywhere.fr^$all
 ||strefauvc.pl^$all
 ||strohschein-it.de^$all
@@ -1706,6 +1729,7 @@
 ||szy-ha.pl^$all
 ||tageseltern-vp.de^$all
 ||taimup.it^$all
+||talentinelbassolazio.it^$all
 ||tallermidasgines.es^$all
 ||tanieszparowanie.pl^$all
 ||tappezzeriadatres.it^$all
@@ -1785,6 +1809,7 @@
 ||transportpgg.pl^$all
 ||transzlom.pl^$all
 ||travelinbox.pl^$all
+||travelkathmandu.es^$all
 ||traveltures.de^$all
 ||treptow-logopaedie.de^$all
 ||tresjoliedenise.it^$all
@@ -1840,12 +1865,14 @@
 ||valmypermis.fr^$all
 ||valorandco.nl^$all
 ||valtellinatrailbike.it^$all
+||vanillakosmetologia.pl^$all
 ||vanitybaby.es^$all
 ||vanityestetic.es^$all
 ||vapeandcig.de^$all
 ||vase-zahrada.eu^$all
 ||vdbbb.de^$all
 ||veelaanbiedingen.nl^$all
+||vefaselection.fr^$all
 ||velolobby.eu^$all
 ||ventadeexpositoresgraficos.es^$all
 ||venturearchitects.pl^$all
