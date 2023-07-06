@@ -524,6 +524,7 @@
 *://*.disvolvi.pl/*
 *://*.dittfach-online.eu/*
 *://*.divaswigs.com/*
+*://*.divershop.fr/*
 *://*.diwes.de/*
 *://*.dlugtoniekoniecswiata.pl/*
 *://*.dmazh.nl/*
@@ -988,6 +989,7 @@
 *://*.kajakurczuk.pl/*
 *://*.kalteneck-araber.de/*
 *://*.kanzlei-meis.de/*
+*://*.karierafreelancera.pl/*
 *://*.karin-wagner.de/*
 *://*.karlottesdesigns.de/*
 *://*.karolptaszkiewicz.pl/*
@@ -1042,6 +1044,7 @@
 *://*.lacadaltrifulin.it/*
 *://*.lachouettegalerieart.fr/*
 *://*.lacivicadarfoboarioterme.it/*
+*://*.lacollineauxcoquelicots.fr/*
 *://*.laetifi.pl/*
 *://*.lafabriquedecellestine.fr/*
 *://*.lafilledelalune.fr/*
@@ -1406,6 +1409,7 @@
 *://*.papybio.fr/*
 *://*.paradoxia.de/*
 *://*.parafiamsciszewice.pl/*
+*://*.parenthesebienetreparis.fr/*
 *://*.paroleinvaligia.it/*
 *://*.partitouren-niedersachsen.de/*
 *://*.partnersin.eu/*
@@ -1658,6 +1662,7 @@
 *://*.segheriasalentina.it/*
 *://*.sejusstyle.fr/*
 *://*.sekretyf1.pl/*
+*://*.selectaparma.it/*
 *://*.selectosnieva.es/*
 *://*.semis-partyservice.de/*
 *://*.senli.pl/*
@@ -1799,6 +1804,7 @@
 *://*.teatrocentena.it/*
 *://*.technic-carrosserie-rivat.fr/*
 *://*.technikigrzewcze-widera.pl/*
+*://*.technotronik-konin.pl/*
 *://*.teddys-reifenmarkt.de/*
 *://*.teentalent.es/*
 *://*.teichert-kuentzler.de/*
@@ -2020,6 +2026,7 @@
 *://*.zapiecek-kajakikrutyn.pl/*
 *://*.zbanowane.pl/*
 *://*.zdizappa.it/*
+*://*.zdrowalodowka.pl/*
 *://*.zecos.eu/*
 *://*.zeitgunst.com/*
 *://*.zemstech.pl/*
