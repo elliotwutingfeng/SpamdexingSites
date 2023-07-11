@@ -497,6 +497,7 @@
 *://*.demikops.nl/*
 *://*.demo-testcenter-software.de/*
 *://*.demosarnepi.it/*
+*://*.dentalbe.it/*
 *://*.dentalbeltran.es/*
 *://*.dentistes-reiff-et-riomet.fr/*
 *://*.dentisverbania.it/*
@@ -510,6 +511,8 @@
 *://*.destockaisne.fr/*
 *://*.deutsche-osteopathen.de/*
 *://*.dicerfer.es/*
+*://*.die-langstedter.de/*
+*://*.die-vogts.de/*
 *://*.dieter-urbanczyk.de/*
 *://*.dietetyk-zimnoch.pl/*
 *://*.digestum.eu/*
@@ -1023,6 +1026,7 @@
 *://*.konkretpizza.pl/*
 *://*.koorlavendel.nl/*
 *://*.kozbi.eu/*
+*://*.kpb-consulting.fr/*
 *://*.kpmg-gamechanger.it/*
 *://*.krakoinapartments.pl/*
 *://*.krolestwocynamonu.pl/*
@@ -1133,6 +1137,7 @@
 *://*.lumiere-lab.pl/*
 *://*.lupka24.pl/*
 *://*.luther-trifft-franziskus.de/*
+*://*.lutz-baumgaertel.de/*
 *://*.luxeproperty.pl/*
 *://*.luxevillacorse.eu/*
 *://*.luxusni-kabelky.eu/*
@@ -1570,6 +1575,7 @@
 *://*.rentacar-beograd.de/*
 *://*.rentenberatung-ohmer.de/*
 *://*.reptilienzimmer-hannover.de/*
+*://*.repuestosnordeste.es/*
 *://*.resapark.fr/*
 *://*.reselerek.pl/*
 *://*.resilire.it/*
@@ -1614,6 +1620,7 @@
 *://*.russianantiques.eu/*
 *://*.rzepa-24.eu/*
 *://*.saddle.pl/*
+*://*.safeworkparadise.es/*
 *://*.saftige-pflanzen.de/*
 *://*.sailionian.it/*
 *://*.saint-nicolas-vannes.fr/*
@@ -1626,6 +1633,7 @@
 *://*.sandbarfrankfurt.de/*
 *://*.sangraphics.eu/*
 *://*.sani-broyeur.eu/*
+*://*.sanicar.es/*
 *://*.sarahburroni.it/*
 *://*.sarahgonidec.fr/*
 *://*.sarasazo.it/*
@@ -1971,6 +1979,7 @@
 *://*.webxturkiye.com/*
 *://*.wego-bau.de/*
 *://*.weight-loss-rank.eu/*
+*://*.weigl-erdbau.de/*
 *://*.welt-der-drohnen-und-hubschrauber.de/*
 *://*.welurowylew.pl/*
 *://*.welzmedia.pl/*

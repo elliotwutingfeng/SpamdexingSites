@@ -497,6 +497,7 @@
 ||demikops.nl^$all
 ||demo-testcenter-software.de^$all
 ||demosarnepi.it^$all
+||dentalbe.it^$all
 ||dentalbeltran.es^$all
 ||dentistes-reiff-et-riomet.fr^$all
 ||dentisverbania.it^$all
@@ -510,6 +511,8 @@
 ||destockaisne.fr^$all
 ||deutsche-osteopathen.de^$all
 ||dicerfer.es^$all
+||die-langstedter.de^$all
+||die-vogts.de^$all
 ||dieter-urbanczyk.de^$all
 ||dietetyk-zimnoch.pl^$all
 ||digestum.eu^$all
@@ -1023,6 +1026,7 @@
 ||konkretpizza.pl^$all
 ||koorlavendel.nl^$all
 ||kozbi.eu^$all
+||kpb-consulting.fr^$all
 ||kpmg-gamechanger.it^$all
 ||krakoinapartments.pl^$all
 ||krolestwocynamonu.pl^$all
@@ -1133,6 +1137,7 @@
 ||lumiere-lab.pl^$all
 ||lupka24.pl^$all
 ||luther-trifft-franziskus.de^$all
+||lutz-baumgaertel.de^$all
 ||luxeproperty.pl^$all
 ||luxevillacorse.eu^$all
 ||luxusni-kabelky.eu^$all
@@ -1570,6 +1575,7 @@
 ||rentacar-beograd.de^$all
 ||rentenberatung-ohmer.de^$all
 ||reptilienzimmer-hannover.de^$all
+||repuestosnordeste.es^$all
 ||resapark.fr^$all
 ||reselerek.pl^$all
 ||resilire.it^$all
@@ -1614,6 +1620,7 @@
 ||russianantiques.eu^$all
 ||rzepa-24.eu^$all
 ||saddle.pl^$all
+||safeworkparadise.es^$all
 ||saftige-pflanzen.de^$all
 ||sailionian.it^$all
 ||saint-nicolas-vannes.fr^$all
@@ -1626,6 +1633,7 @@
 ||sandbarfrankfurt.de^$all
 ||sangraphics.eu^$all
 ||sani-broyeur.eu^$all
+||sanicar.es^$all
 ||sarahburroni.it^$all
 ||sarahgonidec.fr^$all
 ||sarasazo.it^$all
@@ -1971,6 +1979,7 @@
 ||webxturkiye.com^$all
 ||wego-bau.de^$all
 ||weight-loss-rank.eu^$all
+||weigl-erdbau.de^$all
 ||welt-der-drohnen-und-hubschrauber.de^$all
 ||welurowylew.pl^$all
 ||welzmedia.pl^$all
