@@ -198,6 +198,7 @@
 ||babole.es^$all
 ||baby-bear.pl^$all
 ||babykurse-mit-birgit.de^$all
+||babylonia.es^$all
 ||backstage-nice-metropole.fr^$all
 ||baeckerei-kaltenbach.de^$all
 ||bagheriatech.it^$all
@@ -277,6 +278,7 @@
 ||bodenbelag-neuss.de^$all
 ||boguszewska-dietetyk.pl^$all
 ||boiliebunker.de^$all
+||bonstech.eu^$all
 ||booking-fotografia.de^$all
 ||boroszewo.pl^$all
 ||borrelliboutique.it^$all
@@ -297,6 +299,7 @@
 ||burg-cafe-burghausen.de^$all
 ||burgosonline.es^$all
 ||burnoutintervention.eu^$all
+||bus-biglietti.eu^$all
 ||business-meeting-kassel.de^$all
 ||business4coffee.eu^$all
 ||businesscenter-vodafone.de^$all
@@ -318,6 +321,7 @@
 ||camping-tschechien.de^$all
 ||camposcuolaferrara.it^$all
 ||campus-rauner.de^$all
+||canedellaprateria.eu^$all
 ||canidoc.eu^$all
 ||cannabiqueen.pl^$all
 ||canoysanchezabogados.es^$all
@@ -351,6 +355,7 @@
 ||celestemarbella.es^$all
 ||centralrico.es^$all
 ||centreo-84.fr^$all
+||centrolog.es^$all
 ||centroneopsiche.it^$all
 ||ceramercato.pl^$all
 ||ceramiccoloursindia.eu^$all
@@ -437,6 +442,7 @@
 ||creative-rp.fr^$all
 ||credit-on-line.fr^$all
 ||creer-forum.eu^$all
+||creperie-chez-les-ducs-nantes.fr^$all
 ||crisiena.it^$all
 ||croceverdefaggiano.it^$all
 ||crossfer-schnellspanner.de^$all
@@ -515,6 +521,7 @@
 ||die-vogts.de^$all
 ||dieter-urbanczyk.de^$all
 ||dietetyk-zimnoch.pl^$all
+||diezyseis.es^$all
 ||digestum.eu^$all
 ||digital-paten.de^$all
 ||digital-signage-marketing.de^$all
@@ -590,6 +597,7 @@
 ||ecteni.eu^$all
 ||edisama.it^$all
 ||edisex.es^$all
+||edu-magazine.eu^$all
 ||educacionsuperiorfisioterapia.es^$all
 ||educationdoctoral.eu^$all
 ||edukacjadwujezyczna.edu.pl^$all
@@ -815,6 +823,7 @@
 ||greiner-prasch.de^$all
 ||grillantalya-detmold.de^$all
 ||groupescolairehenrisarrado.fr^$all
+||grsmembers.eu^$all
 ||gruniverpal.fr^$all
 ||grupisenda.es^$all
 ||gruppoverderoma.it^$all
@@ -837,9 +846,11 @@
 ||hagepolska.pl^$all
 ||halomoto.pl^$all
 ||hand-hund-herz.de^$all
+||handstaubsauger24.eu^$all
 ||handwerk-franken.de^$all
 ||handwerk-mit-system.de^$all
 ||haniaihelenka.pl^$all
+||hanoitorun.pl^$all
 ||hashimoto-kampfansage.de^$all
 ||hau-werner.de^$all
 ||haus-winkelmann.de^$all
@@ -879,6 +890,7 @@
 ||housegardenvenezia.it^$all
 ||hubertus-ziemianski.pl^$all
 ||hugo-live-band.de^$all
+||humanrights70.eu^$all
 ||hundebedarf-boettcher.de^$all
 ||hundekrankenversicherung-direkt.de^$all
 ||hundepension-fettig.de^$all
@@ -926,6 +938,7 @@
 ||inesterron.es^$all
 ||infanziaedintorni.it^$all
 ||infinityenglishexams.es^$all
+||infopd-berlin.de^$all
 ||inforia.es^$all
 ||ingeschuffelen.nl^$all
 ||iniaviaggi.it^$all
@@ -1008,6 +1021,7 @@
 ||kikigarage.pl^$all
 ||kinesis-tomaszow.pl^$all
 ||kingstonnews.nl^$all
+||kirche-st-maria-st-vicelin.de^$all
 ||kishakatolike.eu^$all
 ||kisumukroniek.nl^$all
 ||kitchen93.de^$all
@@ -1090,6 +1104,7 @@
 ||lesrapporteurs.fr^$all
 ||letempsdescoquelicots.fr^$all
 ||level-shop.eu^$all
+||lgsca.fr^$all
 ||libby2.de^$all
 ||libreriailgaleone.it^$all
 ||librerialagaleria.es^$all
@@ -1110,6 +1125,7 @@
 ||liscamanent.it^$all
 ||lisura.pl^$all
 ||litalien-resto.fr^$all
+||little-italy-pizzeria.de^$all
 ||littleshoes.fr^$all
 ||livestream-rockt.de^$all
 ||locajet.fr^$all
@@ -1158,6 +1174,7 @@
 ||magmel.pl^$all
 ||mahnu.fr^$all
 ||mainradweg-service.de^$all
+||makeitup.es^$all
 ||malenews.nl^$all
 ||malina-24.eu^$all
 ||mamawlodzi.pl^$all
@@ -1211,6 +1228,7 @@
 ||medisirstiklas.eu^$all
 ||medstylovnia.pl^$all
 ||meerzeit-sellin.de^$all
+||meet4cleantech.eu^$all
 ||megatrading.pl^$all
 ||mehosweb.fr^$all
 ||meilleur-ampli.fr^$all
@@ -1295,6 +1313,7 @@
 ||musculosmaiores.eu^$all
 ||musicallexikon.com^$all
 ||musicfactorylive.it^$all
+||musicofjamesbond.de^$all
 ||musikgarten-haug.de^$all
 ||musikusmensch.de^$all
 ||muszeciuszek.pl^$all
@@ -1408,6 +1427,7 @@
 ||padelindooralbalat.es^$all
 ||paestumaltocilentocultura2024.it^$all
 ||pagarteralis.com^$all
+||palomaresbeach.es^$all
 ||pamatech-profi.pl^$all
 ||pan.dev^$all
 ||panabas.es^$all
@@ -1464,6 +1484,7 @@
 ||playtv.es^$all
 ||plibb.pl^$all
 ||plombier-alsace.fr^$all
+||pluri-la.eu^$all
 ||pmk-design.eu^$all
 ||podryban.pl^$all
 ||pokoje24sarbinowo.pl^$all
@@ -1757,6 +1778,8 @@
 ||startupjunkies.eu^$all
 ||stcfilm.com^$all
 ||stefaniastefanelli.it^$all
+||stella-school.eu^$all
+||stellafashion.eu^$all
 ||stewartoverland.de^$all
 ||stichtinggetontrack.nl^$all
 ||stockinator.de^$all
@@ -1797,6 +1820,7 @@
 ||tageseltern-vp.de^$all
 ||taimup.it^$all
 ||talentinelbassolazio.it^$all
+||talleresjesusgil.es^$all
 ||tallermidasgines.es^$all
 ||tanieszparowanie.pl^$all
 ||tappezzeriadatres.it^$all
@@ -1862,6 +1886,7 @@
 ||toocanhelp.eu^$all
 ||toonk.pl^$all
 ||toonkor130.biz^$all
+||top5vergleish.eu^$all
 ||topcellular.it^$all
 ||topdystance.pl^$all
 ||topedo-shop.de^$all
@@ -1927,6 +1952,7 @@
 ||unternehmen-business-fotografie-berlin-brandenburg.de^$all
 ||urbisvigilanza.it^$all
 ||urlaub-reise-flug.eu^$all
+||urlaubs-planer.eu^$all
 ||uroda-lomianki.pl^$all
 ||usa.watch^$all
 ||usedom-erkunden.de^$all
@@ -1951,6 +1977,7 @@
 ||ventadeexpositoresgraficos.es^$all
 ||venturearchitects.pl^$all
 ||viacolvento.eu^$all
+||viaexpo.eu^$all
 ||vicoregio.it^$all
 ||villa-almira.eu^$all
 ||villaverdi-8.de^$all
