@@ -4,9 +4,11 @@
 ||123schlosserei.de^$all
 ||1hannover.de^$all
 ||1majeolomouc.eu^$all
+||20-kg-goldbarren.de^$all
 ||24-rabat.pl^$all
 ||24volt-ecu.nl^$all
 ||27radio.eu^$all
+||30jahreprenzlkomm.de^$all
 ||365booth.de^$all
 ||3g-bikes.eu^$all
 ||3piece.pl^$all
@@ -194,6 +196,7 @@
 ||avisborgosanmartino.it^$all
 ||avnettime.eu^$all
 ||aw-moto.pl^$all
+||ayalgainteriorismo.es^$all
 ||ayur-read-pro.eu^$all
 ||babole.es^$all
 ||baby-bear.pl^$all
@@ -212,8 +215,11 @@
 ||barrows-insurance.eu^$all
 ||barworkacademy.pl^$all
 ||basiagorska.pl^$all
+||basped.es^$all
+||batenburghellbillie.nl^$all
 ||bativamos.fr^$all
 ||bauchzwergs-onlineshop.de^$all
+||baugutachter-sueddeutschland.de^$all
 ||bazakierowcow.pl^$all
 ||bblimpianti.it^$all
 ||bc-energ-ethique.fr^$all
@@ -278,8 +284,10 @@
 ||bodenbelag-neuss.de^$all
 ||boguszewska-dietetyk.pl^$all
 ||boiliebunker.de^$all
+||bolle-willem.nl^$all
 ||bonstech.eu^$all
 ||booking-fotografia.de^$all
+||bootsvermietung-fuerstenberg.de^$all
 ||boroszewo.pl^$all
 ||borrelliboutique.it^$all
 ||botanikaonline.pl^$all
@@ -293,6 +301,7 @@
 ||brookstreetfutures.eu^$all
 ||brother.eu^$all
 ||brucehaashockey.com^$all
+||buchhaltungbayern.de^$all
 ||bughy.it^$all
 ||bukowski-remonty.pl^$all
 ||bullesetvous.fr^$all
@@ -332,6 +341,7 @@
 ||carniceriacharcuterialucas.es^$all
 ||carnisseriacanmia.es^$all
 ||caromea.it^$all
+||caruso-lieferdienst.de^$all
 ||carwash-duisburg.de^$all
 ||casadipalma.it^$all
 ||casainnatura.eu^$all
@@ -384,6 +394,7 @@
 ||chrzescijanka.pl^$all
 ||cies-ucsg-ec.es^$all
 ||cinderella-lounge.de^$all
+||cinselsohbet.de^$all
 ||circolovelicoospedaletti.it^$all
 ||cireco.pl^$all
 ||cis-heidelberg.eu^$all
@@ -443,6 +454,7 @@
 ||credit-on-line.fr^$all
 ||creer-forum.eu^$all
 ||creperie-chez-les-ducs-nantes.fr^$all
+||creperielatouline.fr^$all
 ||crisiena.it^$all
 ||croceverdefaggiano.it^$all
 ||crossfer-schnellspanner.de^$all
@@ -641,10 +653,12 @@
 ||erbit.nl^$all
 ||erdosell.pl^$all
 ||ergositter.eu^$all
+||erka-woningontwerp.nl^$all
 ||escolabressollaxana.es^$all
 ||escuelabarberiaprietos.es^$all
 ||escuelainfantilcasiopea.es^$all
 ||eshopelektro.eu^$all
+||espresso-bar-braunschweig.de^$all
 ||espritssinguliers.fr^$all
 ||estalena.pl^$all
 ||estedemocratica.it^$all
@@ -679,6 +693,7 @@
 ||fabrianoedintorni.it^$all
 ||fadotrans.de^$all
 ||fahrrad-worldtravel.de^$all
+||fahrzeugbau-miro.de^$all
 ||failadifferenziata.it^$all
 ||faire-une-formation.fr^$all
 ||fallavollita.it^$all
@@ -724,6 +739,7 @@
 ||flechtplatz.de^$all
 ||flexmaxthea.eu^$all
 ||flip-ports.eu^$all
+||flo-rider.de^$all
 ||florissant-wonen.nl^$all
 ||flortel.pl^$all
 ||flouxsarl.fr^$all
@@ -733,6 +749,7 @@
 ||fondointegro.it^$all
 ||food-fetish.de^$all
 ||foodservice-seip.de^$all
+||force-erfurt.de^$all
 ||forlovely.pl^$all
 ||formacion-maritima-profesional.es^$all
 ||formationafest.fr^$all
@@ -790,6 +807,7 @@
 ||genussmitherz.eu^$all
 ||gesternstadt.eu^$all
 ||getflashnews.nl^$all
+||gfmsoluciones.es^$all
 ||gianlucacavallini.it^$all
 ||giannicavannelli.fr^$all
 ||giardino360.it^$all
@@ -888,6 +906,7 @@
 ||hotelpodlupa.pl^$all
 ||hotelthekrishnakatra.com^$all
 ||housegardenvenezia.it^$all
+||hsg-elternbeirat.de^$all
 ||hubertus-ziemianski.pl^$all
 ||hugo-live-band.de^$all
 ||humanrights70.eu^$all
@@ -937,6 +956,7 @@
 ||indianadriana.pl^$all
 ||inesterron.es^$all
 ||infanziaedintorni.it^$all
+||infinitum-dance.nl^$all
 ||infinityenglishexams.es^$all
 ||infopd-berlin.de^$all
 ||inforia.es^$all
@@ -1175,6 +1195,7 @@
 ||mahnu.fr^$all
 ||mainradweg-service.de^$all
 ||makeitup.es^$all
+||malagawellness.es^$all
 ||malenews.nl^$all
 ||malina-24.eu^$all
 ||mamawlodzi.pl^$all
@@ -1270,6 +1291,7 @@
 ||mitologiabambini.it^$all
 ||mitsu-project.eu^$all
 ||mitsubishi4x4.fr^$all
+||mittelbayerische-auktion.de^$all
 ||mm-invest-2006.de^$all
 ||mm-onlineakademie.de^$all
 ||mmbpatrimoine.fr^$all
@@ -1329,6 +1351,7 @@
 ||nagareeventos.es^$all
 ||nakshaat.eu^$all
 ||naszalaliga.pl^$all
+||natas-berlin.de^$all
 ||natrzechkolach.pl^$all
 ||naturaeshop.fr^$all
 ||naturalflavour.it^$all
@@ -1386,6 +1409,7 @@
 ||offroadzimy.pl^$all
 ||ofspv-turnaje.eu^$all
 ||og-huellhorst.de^$all
+||ohlala-cocktail.de^$all
 ||oknarudnicki.pl^$all
 ||olgajedrzejewska.pl^$all
 ||olgakowalska.pl^$all
@@ -1419,6 +1443,7 @@
 ||ostseevelosophen.de^$all
 ||otorinosonzogni.it^$all
 ||otticawalter.it^$all
+||ottoottonull.de^$all
 ||ourbigday.nl^$all
 ||ouverture-de-portes.fr^$all
 ||over50footballcuneo.it^$all
@@ -1472,6 +1497,7 @@
 ||pievebornato.it^$all
 ||pigtownchurch.org^$all
 ||pilates-fuehl-dich.de^$all
+||pippilotta-shop.de^$all
 ||pisaditas.es^$all
 ||pixa-weazel.pl^$all
 ||pizza-dop.it^$all
@@ -1688,6 +1714,7 @@
 ||searoomsalghero.it^$all
 ||seasidebook.pl^$all
 ||sebastianusboerholzalst.de^$all
+||secundilla.de^$all
 ||segheriasalentina.it^$all
 ||sejusstyle.fr^$all
 ||sekretyf1.pl^$all
@@ -1987,6 +2014,7 @@
 ||vivereameglia.it^$all
 ||viverosvedo.es^$all
 ||vmcassistenza.it^$all
+||vnembassy.nl^$all
 ||vogelsangmeetshoyer.de^$all
 ||vogt-ferienwohnung-kropp.de^$all
 ||voip-tech.eu^$all
