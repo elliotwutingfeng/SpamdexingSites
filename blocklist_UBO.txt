@@ -19,6 +19,7 @@
 ||600-jahre-altenbach.de^$all
 ||a2minutidallospedale.it^$all
 ||abc-d-kist.de^$all
+||abogadojavierferreira.es^$all
 ||abra-ka-dabra-decoration.fr^$all
 ||abteilung7bigband.de^$all
 ||accademiadelcinemaares.it^$all
@@ -120,6 +121,7 @@
 ||antonioherman.es^$all
 ||anunturipeweb.eu^$all
 ||anunturirapide.eu^$all
+||aodomab-dijon.fr^$all
 ||apartamentolympicpark.pl^$all
 ||apasolutions.it^$all
 ||apecchiocarpegna.it^$all
@@ -210,6 +212,7 @@
 ||balustradex.pl^$all
 ||bambulka.eu^$all
 ||bancadeltempoavt.it^$all
+||barberone.fr^$all
 ||bardepintxosdonostia.es^$all
 ||bargelateriaarcobaleno.it^$all
 ||barrows-insurance.eu^$all
@@ -660,6 +663,7 @@
 ||eshopelektro.eu^$all
 ||espresso-bar-braunschweig.de^$all
 ||espritssinguliers.fr^$all
+||est2.es^$all
 ||estalena.pl^$all
 ||estedemocratica.it^$all
 ||estetachivasso.it^$all
@@ -780,6 +784,7 @@
 ||ftprivacy.cloud^$all
 ||fuchsimwald.de^$all
 ||fuhrmann-hochzeitsfotografie.de^$all
+||fundusz-senior.pl^$all
 ||funerariaiparraguirre.es^$all
 ||furch.pl^$all
 ||fusspflege-farkasch.de^$all
@@ -906,6 +911,7 @@
 ||hotelpodlupa.pl^$all
 ||hotelthekrishnakatra.com^$all
 ||housegardenvenezia.it^$all
+||hsg-dhfk-boxen.de^$all
 ||hsg-elternbeirat.de^$all
 ||hubertus-ziemianski.pl^$all
 ||hugo-live-band.de^$all
@@ -1028,6 +1034,7 @@
 ||karierafreelancera.pl^$all
 ||karin-wagner.de^$all
 ||karlottesdesigns.de^$all
+||karolinadietetyk.pl^$all
 ||karolptaszkiewicz.pl^$all
 ||karwat-psychoterapia.pl^$all
 ||kassandraroberts.com^$all
@@ -1405,6 +1412,7 @@
 ||occhioallospot.it^$all
 ||odchudzanie-marinero.pl^$all
 ||odrazuu.pl^$all
+||ofen-lederer.de^$all
 ||officinadefi.it^$all
 ||offroadzimy.pl^$all
 ||ofspv-turnaje.eu^$all
@@ -1627,6 +1635,7 @@
 ||reselerek.pl^$all
 ||resilire.it^$all
 ||resorgo.it^$all
+||restauracja-maria.pl^$all
 ||restaurantecaspagesibiza.es^$all
 ||restaurantecastellon.es^$all
 ||restaurantlecardinal92.fr^$all
@@ -1893,6 +1902,7 @@
 ||thermoklima.pl^$all
 ||thestain.es^$all
 ||thg-wolfsburg.eu^$all
+||thiosixregister.nl^$all
 ||thorntonanddavies.eu^$all
 ||thuismetspelen.nl^$all
 ||tiagocardoso.eu^$all
@@ -2024,6 +2034,7 @@
 ||vuooz.biz^$all
 ||waldemarrobak.pl^$all
 ||waldseeclub.de^$all
+||walter-fliesen-gmbh.de^$all
 ||wapak.biz^$all
 ||warszawa345lat.pl^$all
 ||wasserlehrpfad-pegnitz.de^$all
