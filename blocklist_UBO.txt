@@ -189,6 +189,7 @@
 ||aupaysdusoleilcouchant.fr^$all
 ||auroraimpiantisrl.it^$all
 ||autodoprava-mart.eu^$all
+||automar-bilgoraj.pl^$all
 ||automotoserwismikolajuk.pl^$all
 ||autopartner-doebert.de^$all
 ||autospa-uniquecars.de^$all
@@ -204,6 +205,7 @@
 ||baby-bear.pl^$all
 ||babykurse-mit-birgit.de^$all
 ||babylonia.es^$all
+||bacibijoux.fr^$all
 ||backstage-nice-metropole.fr^$all
 ||baeckerei-kaltenbach.de^$all
 ||bagheriatech.it^$all
@@ -217,6 +219,7 @@
 ||bargelateriaarcobaleno.it^$all
 ||barrows-insurance.eu^$all
 ||barworkacademy.pl^$all
+||basededonneesentreprises.fr^$all
 ||basiagorska.pl^$all
 ||basped.es^$all
 ||batenburghellbillie.nl^$all
@@ -363,6 +366,7 @@
 ||cdleycom.nl^$all
 ||cdu-lueneburg-stadt.de^$all
 ||cecile-delouvrier.fr^$all
+||ceciledumas.fr^$all
 ||cedricvillani2022.fr^$all
 ||celebritygolfclub.de^$all
 ||celestemarbella.es^$all
@@ -688,6 +692,7 @@
 ||ewoudtraast.nl^$all
 ||exaltak.fr^$all
 ||executivelearning.fr^$all
+||exform.pl^$all
 ||exlibrisauser.it^$all
 ||experienceandlearn.es^$all
 ||explorethechill.pl^$all
@@ -707,6 +712,7 @@
 ||fancygift.de^$all
 ||fapservice.fr^$all
 ||farmaciaortopediabueno.es^$all
+||farmaciariosrosas.es^$all
 ||fashion-shop-2.fr^$all
 ||fashionjewelry.fr^$all
 ||fashionnew.it^$all
@@ -767,6 +773,7 @@
 ||fotobuch-baby.de^$all
 ||fotograf-slubny-gdansk.pl^$all
 ||fotografiaireneo.es^$all
+||fotografie-rahmen.de^$all
 ||fotoimagegenova.it^$all
 ||foulo.fr^$all
 ||fp7tornado.eu^$all
@@ -826,6 +833,7 @@
 ||gitdizajn.pl^$all
 ||giubileosangabriele.it^$all
 ||giveaway-partyband.de^$all
+||givovasport.es^$all
 ||gkvhoch2.de^$all
 ||glamclinic.pl^$all
 ||glamours.fr^$all
@@ -927,6 +935,7 @@
 ||hygienecity.fr^$all
 ||hygihands.de^$all
 ||i-grek.pl^$all
+||i-kidsmaresme.es^$all
 ||i2x.fr^$all
 ||ibda-online.de^$all
 ||ibethelbaptist.com^$all
@@ -987,6 +996,7 @@
 ||ipodcases.biz^$all
 ||iq-hausgeraetekundendienst-rostock.de^$all
 ||irefisioterapia.es^$all
+||iroverkauf.de^$all
 ||isabelmartinezterrassa.es^$all
 ||it-computerrecycling.de^$all
 ||ite.edu.pl^$all
@@ -997,6 +1007,7 @@
 ||itsselvam.eu^$all
 ||ituoiocchiali.it^$all
 ||iugis.eu^$all
+||jakdziecko.pl^$all
 ||jamniki-szczytno.pl^$all
 ||jaslo-hs.pl^$all
 ||javascriptkennisbank.nl^$all
@@ -1017,6 +1028,7 @@
 ||jmservera.com^$all
 ||joecapista.eu^$all
 ||josevicenteabogado.es^$all
+||jouerautennis.fr^$all
 ||jozwiakrafal.pl^$all
 ||jubilee-ace-info.de^$all
 ||jubilu.pl^$all
@@ -1157,6 +1169,7 @@
 ||livestream-rockt.de^$all
 ||locajet.fr^$all
 ||logisol.fr^$all
+||logole.de^$all
 ||lolight.eu^$all
 ||londonshotels.eu^$all
 ||lonee.fr^$all
@@ -1199,6 +1212,7 @@
 ||magdawyczk.pl^$all
 ||magicbackery.de^$all
 ||magmel.pl^$all
+||magngym.de^$all
 ||mahnu.fr^$all
 ||mainradweg-service.de^$all
 ||makeitup.es^$all
@@ -1305,6 +1319,7 @@
 ||mobilarzt.de^$all
 ||mobiles-impfen-niedersachsen.de^$all
 ||mobiliarioofficedeco.es^$all
+||mobilundaktiv.de^$all
 ||moda-icone-woods.fr^$all
 ||modelcrop.org^$all
 ||modular360.es^$all
@@ -1354,6 +1369,7 @@
 ||mystische-wesen.de^$all
 ||mysurepass.biz^$all
 ||mzakatek.pl^$all
+||nadine-sole.de^$all
 ||nadziejazwyciestwo.pl^$all
 ||nagareeventos.es^$all
 ||nakshaat.eu^$all
@@ -1562,6 +1578,7 @@
 ||promedilscuola.it^$all
 ||protectus.es^$all
 ||provence-diabete.fr^$all
+||proyectomediacion.es^$all
 ||prozdjecia.pl^$all
 ||przygodaphoto.pl^$all
 ||przylacza-warszawa.pl^$all
@@ -1747,6 +1764,7 @@
 ||shfollows.pl^$all
 ||shieldsmasskleidung.de^$all
 ||shirtact.de^$all
+||shm-modellbau.de^$all
 ||sholi-brautmoden.de^$all
 ||shovondesign.com^$all
 ||sidly-care.de^$all
