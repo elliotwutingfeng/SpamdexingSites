@@ -178,6 +178,7 @@
 ||ateliermakingmemories.nl^$all
 ||ateodoro.it^$all
 ||atlas2mers.eu^$all
+||atlaswerbetechnik.de^$all
 ||atltoys.com^$all
 ||atodacostagalicia.es^$all
 ||attacchidipanico-italia.it^$all
@@ -268,6 +269,7 @@
 ||bimosyn.eu^$all
 ||bio-cleaner.fr^$all
 ||bionexenergy.pl^$all
+||biorak.pl^$all
 ||biotrace.pl^$all
 ||bioverdeitalia.it^$all
 ||bistamultiservice.it^$all
@@ -342,6 +344,7 @@
 ||canoysanchezabogados.es^$all
 ||cantinecieri.it^$all
 ||cantoliturgico.it^$all
+||capitanhook.es^$all
 ||car-brilliance.eu^$all
 ||carlobugada.it^$all
 ||carniceriacharcuterialucas.es^$all
@@ -629,7 +632,9 @@
 ||einkaufsbahnhof-bewegt.de^$all
 ||eis-for-kids.de^$all
 ||eiscafe-costa.de^$all
+||elartesanodeparla.es^$all
 ||elavie.pl^$all
+||elbadivers.it^$all
 ||elboitaly.pl^$all
 ||elfarodelamujer.es^$all
 ||elisastella.it^$all
@@ -793,6 +798,7 @@
 ||fuhrmann-hochzeitsfotografie.de^$all
 ||fundusz-senior.pl^$all
 ||funerariaiparraguirre.es^$all
+||furahabyhome.fr^$all
 ||furch.pl^$all
 ||fusspflege-farkasch.de^$all
 ||fw-muensing.de^$all
@@ -842,6 +848,7 @@
 ||glutinamente.es^$all
 ||gmedic.pl^$all
 ||gmpkamieniarstwo.pl^$all
+||gokartytorpoznan.pl^$all
 ||golf-de-brigode.fr^$all
 ||golfcapesterel.fr^$all
 ||goodkebab.pl^$all
@@ -928,6 +935,7 @@
 ||hundekrankenversicherung-direkt.de^$all
 ||hundepension-fettig.de^$all
 ||hundesalon-el-roi.de^$all
+||hundesalon-pino.de^$all
 ||hundundpfote.de^$all
 ||huracanpadel.it^$all
 ||huytran-asiabistro.de^$all
@@ -946,6 +954,7 @@
 ||icr365.com^$all
 ||ideafiorecesena.it^$all
 ||ideocasa.it^$all
+||idrotermolombardo.it^$all
 ||ifioridellorto.it^$all
 ||igienecasaepersona.it^$all
 ||igmetall-meinung.de^$all
@@ -1072,6 +1081,7 @@
 ||kleinegrundschulemewegen.de^$all
 ||kleinstadtonline.de^$all
 ||klickranker.de^$all
+||klstaging.de^$all
 ||klubseniorapodgorskiwalczyk.pl^$all
 ||koalapaku.fr^$all
 ||koenenandco.nl^$all
@@ -1132,6 +1142,7 @@
 ||leclosdeshuypres.fr^$all
 ||lecznicagizycko.pl^$all
 ||led4less.de^$all
+||leffeneiricordi.it^$all
 ||legalintech.pl^$all
 ||lemondeoled.fr^$all
 ||lendewig-reinigung.de^$all
@@ -1168,6 +1179,7 @@
 ||littleshoes.fr^$all
 ||livestream-rockt.de^$all
 ||locajet.fr^$all
+||locationaltavista.fr^$all
 ||logisol.fr^$all
 ||logole.de^$all
 ||lolight.eu^$all
@@ -1180,6 +1192,7 @@
 ||lotherol-schwarzenbek.de^$all
 ||lotter-pfreimd-mde.de^$all
 ||loudbook.eu^$all
+||loudeac-commerces.fr^$all
 ||louis-gruen.de^$all
 ||louvedetoi.fr^$all
 ||louvelec-electricite.fr^$all
@@ -1282,6 +1295,7 @@
 ||menoda.nl^$all
 ||mentesdespiertas.es^$all
 ||meracleshop.pl^$all
+||merkadom2.pl^$all
 ||merval-nettoyage.fr^$all
 ||meslegumesbio.fr^$all
 ||message-repondeur.eu^$all
@@ -1358,6 +1372,7 @@
 ||musicallexikon.com^$all
 ||musicfactorylive.it^$all
 ||musicofjamesbond.de^$all
+||musik-op-de-deel.de^$all
 ||musikgarten-haug.de^$all
 ||musikusmensch.de^$all
 ||muszeciuszek.pl^$all
@@ -1434,6 +1449,7 @@
 ||ofspv-turnaje.eu^$all
 ||og-huellhorst.de^$all
 ||ohlala-cocktail.de^$all
+||oitech.fr^$all
 ||oknarudnicki.pl^$all
 ||olgajedrzejewska.pl^$all
 ||olgakowalska.pl^$all
@@ -1451,6 +1467,7 @@
 ||onycosolve.eu^$all
 ||openfieldgroup.fr^$all
 ||openforart.eu^$all
+||operabazar.it^$all
 ||opportunity-marketing.nl^$all
 ||oprogramowanie-call-center.pl^$all
 ||optitarif.de^$all
@@ -1495,6 +1512,7 @@
 ||pauwer.pl^$all
 ||payotik.it^$all
 ||pbbde.eu^$all
+||pbprawa.pl^$all
 ||pckz-zawiercie.pl^$all
 ||pclandes.fr^$all
 ||peb-cabana.de^$all
@@ -1656,6 +1674,7 @@
 ||restaurantecaspagesibiza.es^$all
 ||restaurantecastellon.es^$all
 ||restaurantlecardinal92.fr^$all
+||retro-meca.fr^$all
 ||retrogustobraceria.it^$all
 ||revhaut.com^$all
 ||rheingau-marktplatz.de^$all
@@ -1736,6 +1755,7 @@
 ||schwestern-kaufhaus.de^$all
 ||scoppitoservizi.it^$all
 ||scopusrevista.es^$all
+||scriptologic.pl^$all
 ||scuolainfanziaselva.it^$all
 ||searoomsalghero.it^$all
 ||seasidebook.pl^$all
@@ -1752,10 +1772,12 @@
 ||seo-katalogi.eu^$all
 ||serbupoker.biz^$all
 ||sercekryspinka.eu^$all
+||serremar.it^$all
 ||serrurerie-habitat66.fr^$all
 ||serviceclubs.eu^$all
 ||serviciosvalor.es^$all
 ||servis-concept.de^$all
+||sezu.fr^$all
 ||sg-perbing.de^$all
 ||sgranati.it^$all
 ||sharonbrunelli.it^$all
@@ -1814,6 +1836,7 @@
 ||spankwirecams.es^$all
 ||spartanblasting.com^$all
 ||spd-erfurt-hochheim-bischleben.de^$all
+||spectankcanarias.es^$all
 ||speedcoaching.es^$all
 ||spencerpub.pl^$all
 ||speurwerker.nl^$all
@@ -1873,6 +1896,7 @@
 ||szy-ha.pl^$all
 ||tageseltern-vp.de^$all
 ||taimup.it^$all
+||taiti.es^$all
 ||talentinelbassolazio.it^$all
 ||talleresjesusgil.es^$all
 ||tallermidasgines.es^$all
@@ -1919,6 +1943,7 @@
 ||therm-coats.eu^$all
 ||thermoklima.pl^$all
 ||thestain.es^$all
+||thewoodhouse.es^$all
 ||thg-wolfsburg.eu^$all
 ||thiosixregister.nl^$all
 ||thorntonanddavies.eu^$all
