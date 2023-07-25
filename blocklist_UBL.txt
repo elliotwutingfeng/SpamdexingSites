@@ -361,6 +361,7 @@
 *://*.castles-hotels.com/*
 *://*.cateringmontejo.es/*
 *://*.cateringnapoziomie.pl/*
+*://*.cavi-sus.de/*
 *://*.cavour48.it/*
 *://*.cbdmonblog.fr/*
 *://*.ccll-eu.eu/*
@@ -647,6 +648,7 @@
 *://*.emicproject.eu/*
 *://*.emiliaariemma.it/*
 *://*.emotiondefrance.fr/*
+*://*.emprendekit.es/*
 *://*.emstacconesrl.it/*
 *://*.encork.eu/*
 *://*.energiatworcza.pl/*
@@ -677,6 +679,7 @@
 *://*.estedemocratica.it/*
 *://*.estetachivasso.it/*
 *://*.esteticacocomisbellezas.es/*
+*://*.estetycznymokiem.pl/*
 *://*.estherprotection.es/*
 *://*.estylshop.pl/*
 *://*.eufloodcommand.eu/*
@@ -755,6 +758,7 @@
 *://*.flexmaxthea.eu/*
 *://*.flip-ports.eu/*
 *://*.flo-rider.de/*
+*://*.floradecoration.pl/*
 *://*.florissant-wonen.nl/*
 *://*.flortel.pl/*
 *://*.flouxsarl.fr/*
@@ -1061,6 +1065,7 @@
 *://*.kassandraroberts.com/*
 *://*.katarzynagarbas.pl/*
 *://*.kavoia.de/*
+*://*.kdweiss-immobilien.de/*
 *://*.keepcalmandbebeautiful.pl/*
 *://*.keletiszki.eu/*
 *://*.kemenammo.eu/*
@@ -1115,6 +1120,7 @@
 *://*.laetifi.pl/*
 *://*.lafabriquedecellestine.fr/*
 *://*.lafilledelalune.fr/*
+*://*.lagarnica.es/*
 *://*.lakathini.pl/*
 *://*.lalocandadelteatro.it/*
 *://*.lamourshop.fr/*
@@ -1899,6 +1905,7 @@
 *://*.taiti.es/*
 *://*.talentinelbassolazio.it/*
 *://*.talleresjesusgil.es/*
+*://*.talleresniza.es/*
 *://*.tallermidasgines.es/*
 *://*.tanieszparowanie.pl/*
 *://*.tappezzeriadatres.it/*
@@ -2054,6 +2061,7 @@
 *://*.veelaanbiedingen.nl/*
 *://*.vefaselection.fr/*
 *://*.velolobby.eu/*
+*://*.vendetuempresa.es/*
 *://*.ventadeexpositoresgraficos.es/*
 *://*.venturearchitects.pl/*
 *://*.viacolvento.eu/*
@@ -2075,6 +2083,7 @@
 *://*.vrijeacademienijmegen.nl/*
 *://*.vulcain-ecomobilite.fr/*
 *://*.vuooz.biz/*
+*://*.waade-geraeteverleih.de/*
 *://*.waldemarrobak.pl/*
 *://*.waldseeclub.de/*
 *://*.walter-fliesen-gmbh.de/*
