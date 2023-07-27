@@ -247,6 +247,7 @@
 *://*.benafigosetfils.fr/*
 *://*.benbnummertje15.nl/*
 *://*.benesoft.es/*
+*://*.benjamin-nsingi.fr/*
 *://*.benjisurlesroutes.fr/*
 *://*.bergaminopellet.eu/*
 *://*.berlin-arrival.de/*
@@ -633,6 +634,7 @@
 *://*.einkaufsbahnhof-bewegt.de/*
 *://*.eis-for-kids.de/*
 *://*.eiscafe-costa.de/*
+*://*.ekogaja.pl/*
 *://*.elartesanodeparla.es/*
 *://*.elavie.pl/*
 *://*.elbadivers.it/*
@@ -1522,6 +1524,7 @@
 *://*.pckz-zawiercie.pl/*
 *://*.pclandes.fr/*
 *://*.peb-cabana.de/*
+*://*.peche-au-gros-senegal.fr/*
 *://*.pecnd.pl/*
 *://*.pegasotv.eu/*
 *://*.pelkaes.eu/*
@@ -1876,6 +1879,7 @@
 *://*.stubenoffice.de/*
 *://*.stuckateur-eisenhauer.de/*
 *://*.studiobianc.nl/*
+*://*.studiolaan.nl/*
 *://*.studiolegalebar.it/*
 *://*.studiolegalebrandoni.it/*
 *://*.studiomedicopmc.it/*

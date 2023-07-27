@@ -247,6 +247,7 @@
 ||benafigosetfils.fr^$all
 ||benbnummertje15.nl^$all
 ||benesoft.es^$all
+||benjamin-nsingi.fr^$all
 ||benjisurlesroutes.fr^$all
 ||bergaminopellet.eu^$all
 ||berlin-arrival.de^$all
@@ -633,6 +634,7 @@
 ||einkaufsbahnhof-bewegt.de^$all
 ||eis-for-kids.de^$all
 ||eiscafe-costa.de^$all
+||ekogaja.pl^$all
 ||elartesanodeparla.es^$all
 ||elavie.pl^$all
 ||elbadivers.it^$all
@@ -1522,6 +1524,7 @@
 ||pckz-zawiercie.pl^$all
 ||pclandes.fr^$all
 ||peb-cabana.de^$all
+||peche-au-gros-senegal.fr^$all
 ||pecnd.pl^$all
 ||pegasotv.eu^$all
 ||pelkaes.eu^$all
@@ -1876,6 +1879,7 @@
 ||stubenoffice.de^$all
 ||stuckateur-eisenhauer.de^$all
 ||studiobianc.nl^$all
+||studiolaan.nl^$all
 ||studiolegalebar.it^$all
 ||studiolegalebrandoni.it^$all
 ||studiomedicopmc.it^$all
