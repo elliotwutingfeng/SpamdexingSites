@@ -20,6 +20,7 @@
 ||a2minutidallospedale.it^$all
 ||abc-d-kist.de^$all
 ||abogadojavierferreira.es^$all
+||abolicorporation.fr^$all
 ||abra-ka-dabra-decoration.fr^$all
 ||abteilung7bigband.de^$all
 ||accademiadelcinemaares.it^$all
@@ -156,10 +157,12 @@
 ||article-box.eu^$all
 ||artiksdesign.fr^$all
 ||artilex.eu^$all
+||artiste-graphiste.fr^$all
 ||artprojekt-show.eu^$all
 ||artrunner.pl^$all
 ||artysciprzeciwnienawisci.pl^$all
 ||aryabarberfranchising.it^$all
+||asbp.it^$all
 ||asdbresciasportpiu.it^$all
 ||asfbt.de^$all
 ||asociacion365.es^$all
@@ -225,6 +228,7 @@
 ||basped.es^$all
 ||batenburghellbillie.nl^$all
 ||bativamos.fr^$all
+||bauberatung-weber.de^$all
 ||bauchzwergs-onlineshop.de^$all
 ||baugutachter-sueddeutschland.de^$all
 ||bazakierowcow.pl^$all
@@ -342,6 +346,7 @@
 ||canedellaprateria.eu^$all
 ||canidoc.eu^$all
 ||cannabiqueen.pl^$all
+||cannelledugas.fr^$all
 ||canoysanchezabogados.es^$all
 ||cantinecieri.it^$all
 ||cantoliturgico.it^$all
@@ -373,6 +378,7 @@
 ||cecile-delouvrier.fr^$all
 ||ceciledumas.fr^$all
 ||cedricvillani2022.fr^$all
+||ceetc.es^$all
 ||celebritygolfclub.de^$all
 ||celestemarbella.es^$all
 ||centralrico.es^$all
@@ -399,6 +405,7 @@
 ||chiro-moorweide.de^$all
 ||chlapowo-spa.pl^$all
 ||choere-kontern-corona.de^$all
+||chriativzimmer.de^$all
 ||chrifon.nl^$all
 ||christmaswonderlandroma.it^$all
 ||christopherus-lebensgemeinschaft.de^$all
@@ -506,6 +513,7 @@
 ||daily.social^$all
 ||damaris-robin.de^$all
 ||damas-style.de^$all
+||danas-perfect-nails.de^$all
 ||daniquevantilburg.nl^$all
 ||danke-fuer-nichts.de^$all
 ||darbau-service.de^$all
@@ -519,6 +527,7 @@
 ||deathland.eu^$all
 ||deguo-shop.de^$all
 ||deheren6.nl^$all
+||dehesagrandealcala.es^$all
 ||deittitreffit.eu^$all
 ||delaherayrabadan.es^$all
 ||deli-deko.de^$all
@@ -829,6 +838,7 @@
 ||gebufft.de^$all
 ||genadvice.es^$all
 ||genussmitherz.eu^$all
+||germania-schlutup.de^$all
 ||gesternstadt.eu^$all
 ||getflashnews.nl^$all
 ||gfmsoluciones.es^$all
@@ -1000,6 +1010,7 @@
 ||institutamazone.fr^$all
 ||institutbeaute-les-orchidees.fr^$all
 ||institutlucile.fr^$all
+||institutmanoa.fr^$all
 ||intemporemed.pl^$all
 ||internationalkungfu.eu^$all
 ||interregrat.eu^$all
@@ -1544,6 +1555,7 @@
 ||piantesucculente.it^$all
 ||pieknoperly.pl^$all
 ||piepser-online.de^$all
+||pierogarnia-jastrzebiezdroj.pl^$all
 ||pierrejeandorel.fr^$all
 ||pievebornato.it^$all
 ||pigtownchurch.org^$all
@@ -1707,6 +1719,7 @@
 ||routalia.it^$all
 ||rovinjadvisor.it^$all
 ||royer-chausseur-le-mans.fr^$all
+||rozzos.es^$all
 ||rpmdoccontrol.nl^$all
 ||rsaserena.it^$all
 ||rster.pl^$all
@@ -1752,6 +1765,7 @@
 ||scheherasade.eu^$all
 ||schildersbedrijfvanmullem.nl^$all
 ||schildervanhetnoorden.nl^$all
+||schiller-schule-bad-ems.de^$all
 ||schlaf-erlebnis.de^$all
 ||schmidt-wundberatung.de^$all
 ||schmuck-schmiede-kunert.de^$all
@@ -2032,6 +2046,7 @@
 ||ukiyo-studio.fr^$all
 ||ukrainawzlotowie.pl^$all
 ||ulis-berlin-tour.de^$all
+||ulvismueller.de^$all
 ||umarysiwogrodzie.pl^$all
 ||unairdepilates.fr^$all
 ||underarmourpolska.pl^$all

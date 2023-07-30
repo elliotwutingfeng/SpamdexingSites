@@ -20,6 +20,7 @@
 *://*.a2minutidallospedale.it/*
 *://*.abc-d-kist.de/*
 *://*.abogadojavierferreira.es/*
+*://*.abolicorporation.fr/*
 *://*.abra-ka-dabra-decoration.fr/*
 *://*.abteilung7bigband.de/*
 *://*.accademiadelcinemaares.it/*
@@ -156,10 +157,12 @@
 *://*.article-box.eu/*
 *://*.artiksdesign.fr/*
 *://*.artilex.eu/*
+*://*.artiste-graphiste.fr/*
 *://*.artprojekt-show.eu/*
 *://*.artrunner.pl/*
 *://*.artysciprzeciwnienawisci.pl/*
 *://*.aryabarberfranchising.it/*
+*://*.asbp.it/*
 *://*.asdbresciasportpiu.it/*
 *://*.asfbt.de/*
 *://*.asociacion365.es/*
@@ -225,6 +228,7 @@
 *://*.basped.es/*
 *://*.batenburghellbillie.nl/*
 *://*.bativamos.fr/*
+*://*.bauberatung-weber.de/*
 *://*.bauchzwergs-onlineshop.de/*
 *://*.baugutachter-sueddeutschland.de/*
 *://*.bazakierowcow.pl/*
@@ -342,6 +346,7 @@
 *://*.canedellaprateria.eu/*
 *://*.canidoc.eu/*
 *://*.cannabiqueen.pl/*
+*://*.cannelledugas.fr/*
 *://*.canoysanchezabogados.es/*
 *://*.cantinecieri.it/*
 *://*.cantoliturgico.it/*
@@ -373,6 +378,7 @@
 *://*.cecile-delouvrier.fr/*
 *://*.ceciledumas.fr/*
 *://*.cedricvillani2022.fr/*
+*://*.ceetc.es/*
 *://*.celebritygolfclub.de/*
 *://*.celestemarbella.es/*
 *://*.centralrico.es/*
@@ -399,6 +405,7 @@
 *://*.chiro-moorweide.de/*
 *://*.chlapowo-spa.pl/*
 *://*.choere-kontern-corona.de/*
+*://*.chriativzimmer.de/*
 *://*.chrifon.nl/*
 *://*.christmaswonderlandroma.it/*
 *://*.christopherus-lebensgemeinschaft.de/*
@@ -506,6 +513,7 @@
 *://*.daily.social/*
 *://*.damaris-robin.de/*
 *://*.damas-style.de/*
+*://*.danas-perfect-nails.de/*
 *://*.daniquevantilburg.nl/*
 *://*.danke-fuer-nichts.de/*
 *://*.darbau-service.de/*
@@ -519,6 +527,7 @@
 *://*.deathland.eu/*
 *://*.deguo-shop.de/*
 *://*.deheren6.nl/*
+*://*.dehesagrandealcala.es/*
 *://*.deittitreffit.eu/*
 *://*.delaherayrabadan.es/*
 *://*.deli-deko.de/*
@@ -829,6 +838,7 @@
 *://*.gebufft.de/*
 *://*.genadvice.es/*
 *://*.genussmitherz.eu/*
+*://*.germania-schlutup.de/*
 *://*.gesternstadt.eu/*
 *://*.getflashnews.nl/*
 *://*.gfmsoluciones.es/*
@@ -1000,6 +1010,7 @@
 *://*.institutamazone.fr/*
 *://*.institutbeaute-les-orchidees.fr/*
 *://*.institutlucile.fr/*
+*://*.institutmanoa.fr/*
 *://*.intemporemed.pl/*
 *://*.internationalkungfu.eu/*
 *://*.interregrat.eu/*
@@ -1544,6 +1555,7 @@
 *://*.piantesucculente.it/*
 *://*.pieknoperly.pl/*
 *://*.piepser-online.de/*
+*://*.pierogarnia-jastrzebiezdroj.pl/*
 *://*.pierrejeandorel.fr/*
 *://*.pievebornato.it/*
 *://*.pigtownchurch.org/*
@@ -1707,6 +1719,7 @@
 *://*.routalia.it/*
 *://*.rovinjadvisor.it/*
 *://*.royer-chausseur-le-mans.fr/*
+*://*.rozzos.es/*
 *://*.rpmdoccontrol.nl/*
 *://*.rsaserena.it/*
 *://*.rster.pl/*
@@ -1752,6 +1765,7 @@
 *://*.scheherasade.eu/*
 *://*.schildersbedrijfvanmullem.nl/*
 *://*.schildervanhetnoorden.nl/*
+*://*.schiller-schule-bad-ems.de/*
 *://*.schlaf-erlebnis.de/*
 *://*.schmidt-wundberatung.de/*
 *://*.schmuck-schmiede-kunert.de/*
@@ -2032,6 +2046,7 @@
 *://*.ukiyo-studio.fr/*
 *://*.ukrainawzlotowie.pl/*
 *://*.ulis-berlin-tour.de/*
+*://*.ulvismueller.de/*
 *://*.umarysiwogrodzie.pl/*
 *://*.unairdepilates.fr/*
 *://*.underarmourpolska.pl/*
