@@ -2,6 +2,7 @@
 *://*.101dot.pl/*
 *://*.123-kinderschoenen.nl/*
 *://*.123schlosserei.de/*
+*://*.1918justwar.pl/*
 *://*.1hannover.de/*
 *://*.1majeolomouc.eu/*
 *://*.20-kg-goldbarren.de/*
@@ -248,6 +249,7 @@
 *://*.belladieta.pl/*
 *://*.bellamoda.es/*
 *://*.bellatv.it/*
+*://*.bellevue45360.fr/*
 *://*.benafigosetfils.fr/*
 *://*.benbnummertje15.nl/*
 *://*.benesoft.es/*
@@ -268,6 +270,7 @@
 *://*.biempuglia.it/*
 *://*.bieredelongchamp.fr/*
 *://*.biertraegershop.de/*
+*://*.bigresidencial.es/*
 *://*.bijdevoordeur.nl/*
 *://*.bijougastronomica.es/*
 *://*.billigaskor.eu/*
@@ -400,6 +403,7 @@
 *://*.charlotte-wilking.de/*
 *://*.chatanakoncuswiata.pl/*
 *://*.chelmskie.eu/*
+*://*.cheval-resk.fr/*
 *://*.chiantiturismo.eu/*
 *://*.chieriscout.it/*
 *://*.chiro-moorweide.de/*
@@ -546,9 +550,11 @@
 *://*.derhundlingluebeck.de/*
 *://*.derkrittler.de/*
 *://*.derrickmedia.com/*
+*://*.desatascoscampeoncordoba.es/*
 *://*.dessins-de-pinatel.fr/*
 *://*.destockaisne.fr/*
 *://*.deutsche-osteopathen.de/*
+*://*.dewocjonalia-wadowice.pl/*
 *://*.dicerfer.es/*
 *://*.die-langstedter.de/*
 *://*.die-vogts.de/*
@@ -634,6 +640,7 @@
 *://*.educacionsuperiorfisioterapia.es/*
 *://*.educationdoctoral.eu/*
 *://*.edukacjadwujezyczna.edu.pl/*
+*://*.edulogmed.pl/*
 *://*.eep-arturosoria.es/*
 *://*.eerlijkovermobiel.nl/*
 *://*.efektfilm.pl/*
@@ -782,6 +789,7 @@
 *://*.force-erfurt.de/*
 *://*.forlovely.pl/*
 *://*.formacion-maritima-profesional.es/*
+*://*.formasdeproyectar.es/*
 *://*.formationafest.fr/*
 *://*.formazionemodatoscana.it/*
 *://*.formulamentoring.eu/*
@@ -921,6 +929,7 @@
 *://*.heilpraktiker-mosbach.de/*
 *://*.heimatverein-scheiden.de/*
 *://*.heinisch-fleischmann.eu/*
+*://*.hellcorp.fr/*
 *://*.helpi-pozyczka.pl/*
 *://*.herbatychwila.pl/*
 *://*.hifi-platform.eu/*
@@ -1063,6 +1072,7 @@
 *://*.jushiert.shop/*
 *://*.justmyporn.fr/*
 *://*.juwelier-gap.de/*
+*://*.jyelomedico.es/*
 *://*.k12mathworksheets.com/*
 *://*.k18shop.eu/*
 *://*.kabelkult.de/*
@@ -1412,6 +1422,7 @@
 *://*.natrzechkolach.pl/*
 *://*.naturaeshop.fr/*
 *://*.naturalflavour.it/*
+*://*.naturallymade.fr/*
 *://*.naturalser.es/*
 *://*.naturbaustoffe-onlineshop.de/*
 *://*.nature-experience.de/*
@@ -1616,6 +1627,7 @@
 *://*.progressiveturfequip.eu/*
 *://*.promedilscuola.it/*
 *://*.protectus.es/*
+*://*.protezioneciviletriggiano-ba.it/*
 *://*.provence-diabete.fr/*
 *://*.proyectomediacion.es/*
 *://*.prozdjecia.pl/*
@@ -1857,6 +1869,7 @@
 *://*.sp15jz.pl/*
 *://*.spaciosaiz.es/*
 *://*.spankwirecams.es/*
+*://*.sparkrestaurant-lezennes.fr/*
 *://*.spartanblasting.com/*
 *://*.spd-erfurt-hochheim-bischleben.de/*
 *://*.spectankcanarias.es/*
@@ -1918,6 +1931,7 @@
 *://*.szermierkabuduje.pl/*
 *://*.szglodland.com/*
 *://*.szy-ha.pl/*
+*://*.taffixprotect.es/*
 *://*.tageseltern-vp.de/*
 *://*.taimup.it/*
 *://*.taiti.es/*
@@ -2092,6 +2106,7 @@
 *://*.vip-kfz.de/*
 *://*.virego.eu/*
 *://*.vivereameglia.it/*
+*://*.viveroscentrals.es/*
 *://*.viverosvedo.es/*
 *://*.vmcassistenza.it/*
 *://*.vnembassy.nl/*

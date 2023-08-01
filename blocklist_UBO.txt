@@ -2,6 +2,7 @@
 ||101dot.pl^$all
 ||123-kinderschoenen.nl^$all
 ||123schlosserei.de^$all
+||1918justwar.pl^$all
 ||1hannover.de^$all
 ||1majeolomouc.eu^$all
 ||20-kg-goldbarren.de^$all
@@ -248,6 +249,7 @@
 ||belladieta.pl^$all
 ||bellamoda.es^$all
 ||bellatv.it^$all
+||bellevue45360.fr^$all
 ||benafigosetfils.fr^$all
 ||benbnummertje15.nl^$all
 ||benesoft.es^$all
@@ -268,6 +270,7 @@
 ||biempuglia.it^$all
 ||bieredelongchamp.fr^$all
 ||biertraegershop.de^$all
+||bigresidencial.es^$all
 ||bijdevoordeur.nl^$all
 ||bijougastronomica.es^$all
 ||billigaskor.eu^$all
@@ -400,6 +403,7 @@
 ||charlotte-wilking.de^$all
 ||chatanakoncuswiata.pl^$all
 ||chelmskie.eu^$all
+||cheval-resk.fr^$all
 ||chiantiturismo.eu^$all
 ||chieriscout.it^$all
 ||chiro-moorweide.de^$all
@@ -546,9 +550,11 @@
 ||derhundlingluebeck.de^$all
 ||derkrittler.de^$all
 ||derrickmedia.com^$all
+||desatascoscampeoncordoba.es^$all
 ||dessins-de-pinatel.fr^$all
 ||destockaisne.fr^$all
 ||deutsche-osteopathen.de^$all
+||dewocjonalia-wadowice.pl^$all
 ||dicerfer.es^$all
 ||die-langstedter.de^$all
 ||die-vogts.de^$all
@@ -634,6 +640,7 @@
 ||educacionsuperiorfisioterapia.es^$all
 ||educationdoctoral.eu^$all
 ||edukacjadwujezyczna.edu.pl^$all
+||edulogmed.pl^$all
 ||eep-arturosoria.es^$all
 ||eerlijkovermobiel.nl^$all
 ||efektfilm.pl^$all
@@ -782,6 +789,7 @@
 ||force-erfurt.de^$all
 ||forlovely.pl^$all
 ||formacion-maritima-profesional.es^$all
+||formasdeproyectar.es^$all
 ||formationafest.fr^$all
 ||formazionemodatoscana.it^$all
 ||formulamentoring.eu^$all
@@ -921,6 +929,7 @@
 ||heilpraktiker-mosbach.de^$all
 ||heimatverein-scheiden.de^$all
 ||heinisch-fleischmann.eu^$all
+||hellcorp.fr^$all
 ||helpi-pozyczka.pl^$all
 ||herbatychwila.pl^$all
 ||hifi-platform.eu^$all
@@ -1063,6 +1072,7 @@
 ||jushiert.shop^$all
 ||justmyporn.fr^$all
 ||juwelier-gap.de^$all
+||jyelomedico.es^$all
 ||k12mathworksheets.com^$all
 ||k18shop.eu^$all
 ||kabelkult.de^$all
@@ -1412,6 +1422,7 @@
 ||natrzechkolach.pl^$all
 ||naturaeshop.fr^$all
 ||naturalflavour.it^$all
+||naturallymade.fr^$all
 ||naturalser.es^$all
 ||naturbaustoffe-onlineshop.de^$all
 ||nature-experience.de^$all
@@ -1616,6 +1627,7 @@
 ||progressiveturfequip.eu^$all
 ||promedilscuola.it^$all
 ||protectus.es^$all
+||protezioneciviletriggiano-ba.it^$all
 ||provence-diabete.fr^$all
 ||proyectomediacion.es^$all
 ||prozdjecia.pl^$all
@@ -1857,6 +1869,7 @@
 ||sp15jz.pl^$all
 ||spaciosaiz.es^$all
 ||spankwirecams.es^$all
+||sparkrestaurant-lezennes.fr^$all
 ||spartanblasting.com^$all
 ||spd-erfurt-hochheim-bischleben.de^$all
 ||spectankcanarias.es^$all
@@ -1918,6 +1931,7 @@
 ||szermierkabuduje.pl^$all
 ||szglodland.com^$all
 ||szy-ha.pl^$all
+||taffixprotect.es^$all
 ||tageseltern-vp.de^$all
 ||taimup.it^$all
 ||taiti.es^$all
@@ -2092,6 +2106,7 @@
 ||vip-kfz.de^$all
 ||virego.eu^$all
 ||vivereameglia.it^$all
+||viveroscentrals.es^$all
 ||viverosvedo.es^$all
 ||vmcassistenza.it^$all
 ||vnembassy.nl^$all
