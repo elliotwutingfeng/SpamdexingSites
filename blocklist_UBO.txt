@@ -240,6 +240,7 @@
 ||bazakierowcow.pl^$all
 ||bblimpianti.it^$all
 ||bc-energ-ethique.fr^$all
+||bdgoptimum.pl^$all
 ||beas-putzservice.de^$all
 ||beautysalonashley.nl^$all
 ||beautywerk-ilsenburg.de^$all
@@ -251,6 +252,7 @@
 ||bekonscot.eu^$all
 ||belerf.de^$all
 ||believeshoponline.it^$all
+||belkasart.de^$all
 ||belladieta.pl^$all
 ||bellamoda.es^$all
 ||bellatv.it^$all
@@ -539,6 +541,7 @@
 ||deguo-shop.de^$all
 ||deheren6.nl^$all
 ||dehesagrandealcala.es^$all
+||dehesasextremenas.es^$all
 ||deichnaht.de^$all
 ||deittitreffit.eu^$all
 ||delaherayrabadan.es^$all
@@ -895,6 +898,7 @@
 ||graficheonline.it^$all
 ||grafomanka.pl^$all
 ||grappolorosso.it^$all
+||grashuepfer-im-eichholz.de^$all
 ||greenfridaygolf.it^$all
 ||greiner-prasch.de^$all
 ||grillantalya-detmold.de^$all
@@ -1095,6 +1099,7 @@
 ||kabelkult.de^$all
 ||kajakurczuk.pl^$all
 ||kalteneck-araber.de^$all
+||kanep.es^$all
 ||kanzlei-meis.de^$all
 ||karierafreelancera.pl^$all
 ||karin-wagner.de^$all
@@ -1181,6 +1186,7 @@
 ||le-champdespossibles.fr^$all
 ||le-marmotte.it^$all
 ||le-smoke.fr^$all
+||leart-photography-design.de^$all
 ||leaveliveleaf.eu^$all
 ||lebeaumarchais.fr^$all
 ||leben-ohne-essstoerung.de^$all
@@ -1191,6 +1197,7 @@
 ||led4less.de^$all
 ||leffeneiricordi.it^$all
 ||legalintech.pl^$all
+||legalmarketing.pl^$all
 ||lemondeoled.fr^$all
 ||lendewig-reinigung.de^$all
 ||leonardo-pracowniaurody.pl^$all
@@ -1266,6 +1273,7 @@
 ||macunsekeri.com^$all
 ||madamvoila.fr^$all
 ||maddschi-pattschi.de^$all
+||maderkids.es^$all
 ||madredrukowanie.pl^$all
 ||maelleeveno.fr^$all
 ||magdalenadadan.pl^$all
@@ -1385,6 +1393,7 @@
 ||mobilundaktiv.de^$all
 ||moda-icone-woods.fr^$all
 ||modelcrop.org^$all
+||modellbahnksm.de^$all
 ||modular360.es^$all
 ||moebelbiss.de^$all
 ||mojawygranawalka.pl^$all
@@ -1460,6 +1469,7 @@
 ||netzwerk-nord.de^$all
 ||neubau-mariendorf.de^$all
 ||neumoconnectformacion.es^$all
+||newlifeenergy.fr^$all
 ||newstrusted.de^$all
 ||nice-soutien-scolaire.fr^$all
 ||nidopoland.pl^$all
@@ -1481,6 +1491,7 @@
 ||nouvelles-perspectives-vdi.fr^$all
 ||nowaanvraag.nl^$all
 ||nowybuklak.pl^$all
+||nuagecaramelise.fr^$all
 ||nualjewels.it^$all
 ||nueva-energia.eu^$all
 ||number1store.pl^$all
@@ -1650,6 +1661,7 @@
 ||profluss.eu^$all
 ||progettogiovanicornedo.it^$all
 ||progressiveturfequip.eu^$all
+||projetactivity.fr^$all
 ||promedilscuola.it^$all
 ||protectus.es^$all
 ||protezioneciviletriggiano-ba.it^$all
@@ -1780,6 +1792,7 @@
 ||salonclaudiasylwiakowalczyk.pl^$all
 ||salonurodapoznan.pl^$all
 ||salvatorebracale.it^$all
+||samsarashop.es^$all
 ||sanacqua.it^$all
 ||sanblascasas.es^$all
 ||sanchez-investigadora-genealogista.es^$all
@@ -1896,6 +1909,7 @@
 ||sophyangelflorist.com^$all
 ||soul-spa-berlin.de^$all
 ||soulfoodvalentinakusche.de^$all
+||sozialstation-eichelbaum.de^$all
 ||sp15jz.pl^$all
 ||spaciosaiz.es^$all
 ||spankwirecams.es^$all
