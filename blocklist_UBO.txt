@@ -115,6 +115,7 @@
 ||annabonfriscopress.it^$all
 ||annalisadesiata.it^$all
 ||annawasij.pl^$all
+||anningafotografie.nl^$all
 ||annkristin-blome.de^$all
 ||anremopatowek.pl^$all
 ||antalya-mg.de^$all
@@ -204,6 +205,7 @@
 ||autopartner-doebert.de^$all
 ||autospa-uniquecars.de^$all
 ||autoszybychorzow.pl^$all
+||autumn-leaves-kerpen.de^$all
 ||avedon.pl^$all
 ||averie-gmbh.de^$all
 ||avisborgosanmartino.it^$all
@@ -289,6 +291,7 @@
 ||biorak.pl^$all
 ||biotrace.pl^$all
 ||bioverdeitalia.it^$all
+||bischero.ch^$all
 ||bistamultiservice.it^$all
 ||bistur.it^$all
 ||biuroanma.pl^$all
@@ -310,6 +313,7 @@
 ||boguszewska-dietetyk.pl^$all
 ||boiliebunker.de^$all
 ||bolle-willem.nl^$all
+||bombaygrillindian.es^$all
 ||bonstech.eu^$all
 ||booking-fotografia.de^$all
 ||bootsvermietung-fuerstenberg.de^$all
@@ -326,6 +330,7 @@
 ||brookstreetfutures.eu^$all
 ||brother.eu^$all
 ||brucehaashockey.com^$all
+||bubbleit.es^$all
 ||buchhaltungbayern.de^$all
 ||bughy.it^$all
 ||bukowski-remonty.pl^$all
@@ -379,6 +384,7 @@
 ||castles-hotels.com^$all
 ||cateringmontejo.es^$all
 ||cateringnapoziomie.pl^$all
+||catswag.ch^$all
 ||cavi-sus.de^$all
 ||cavour48.it^$all
 ||cbdmonblog.fr^$all
@@ -450,6 +456,7 @@
 ||cocowebsy.pl^$all
 ||cofise.es^$all
 ||colegiojoseescandon.es^$all
+||coloriehobby.it^$all
 ||coloringpage.pics^$all
 ||comiciadhoc.it^$all
 ||communicatiestuderen.nl^$all
@@ -648,6 +655,7 @@
 ||economischdoorleren.nl^$all
 ||ecoupled.eu^$all
 ||ecteni.eu^$all
+||ediliziatroilo.it^$all
 ||edisama.it^$all
 ||edisex.es^$all
 ||edu-magazine.eu^$all
@@ -664,12 +672,14 @@
 ||einkaufsbahnhof-bewegt.de^$all
 ||eis-for-kids.de^$all
 ||eiscafe-costa.de^$all
+||ekki-arens.de^$all
 ||ekogaja.pl^$all
 ||elartesanodeparla.es^$all
 ||elavie.pl^$all
 ||elbadivers.it^$all
 ||elboitaly.pl^$all
 ||elfarodelamujer.es^$all
+||elisabeth-schoch.ch^$all
 ||elisastella.it^$all
 ||elpsystem.pl^$all
 ||elsonfm.es^$all
@@ -751,6 +761,7 @@
 ||familienzentrum-deutenheim.de^$all
 ||familydream.nl^$all
 ||fancygift.de^$all
+||fapaburgos.es^$all
 ||fapservice.fr^$all
 ||farmaciaortopediabueno.es^$all
 ||farmaciariosrosas.es^$all
@@ -899,6 +910,7 @@
 ||gopro9.com^$all
 ||gradeproject.eu^$all
 ||graficheonline.it^$all
+||grafmoll.ch^$all
 ||grafomanka.pl^$all
 ||grappolorosso.it^$all
 ||grashuepfer-im-eichholz.de^$all
@@ -956,6 +968,7 @@
 ||hellcorp.fr^$all
 ||helpi-pozyczka.pl^$all
 ||herbatychwila.pl^$all
+||herzogen-cup.de^$all
 ||hetkompasteraar.nl^$all
 ||hifi-platform.eu^$all
 ||highlevelbody.fr^$all
@@ -1032,6 +1045,7 @@
 ||infanziaedintorni.it^$all
 ||infinitum-dance.nl^$all
 ||infinityenglishexams.es^$all
+||infodetective.es^$all
 ||infopd-berlin.de^$all
 ||inforia.es^$all
 ||ingeschuffelen.nl^$all
@@ -1138,6 +1152,7 @@
 ||klickranker.de^$all
 ||klstaging.de^$all
 ||klubseniorapodgorskiwalczyk.pl^$all
+||klussenvandeik.nl^$all
 ||koalapaku.fr^$all
 ||koenenandco.nl^$all
 ||kojachi.fr^$all
@@ -1490,6 +1505,7 @@
 ||nochefcookin.nl^$all
 ||nokostudio.pl^$all
 ||nonsolorologi.eu^$all
+||noorderflow.nl^$all
 ||northsailshoes.pl^$all
 ||norwichsunbeds.eu^$all
 ||nostrocondominio.it^$all
@@ -1659,6 +1675,7 @@
 ||prenatalia.pl^$all
 ||prepperstash.pl^$all
 ||presentory.de^$all
+||pressing-betty40.fr^$all
 ||prestige-estate.pl^$all
 ||prestige-nails.fr^$all
 ||prlbikes.pl^$all
@@ -1692,6 +1709,7 @@
 ||pulitibrillanti.it^$all
 ||pulsandog.it^$all
 ||puntoexpress.es^$all
+||puppenstube-bamberg.de^$all
 ||purokawa.pl^$all
 ||pygmalion-effect.fr^$all
 ||pzhgp-gostyn.pl^$all
@@ -1808,6 +1826,7 @@
 ||sangraphics.eu^$all
 ||sani-broyeur.eu^$all
 ||sanicar.es^$all
+||santolocode.de^$all
 ||sarahburroni.it^$all
 ||sarahgonidec.fr^$all
 ||sarasazo.it^$all
@@ -1823,6 +1842,7 @@
 ||scarabedejade.fr^$all
 ||scenadumok.eu^$all
 ||scheherasade.eu^$all
+||scherershaeusla.de^$all
 ||schildersbedrijfvanmullem.nl^$all
 ||schildervanhetnoorden.nl^$all
 ||schiller-schule-bad-ems.de^$all
@@ -1853,6 +1873,7 @@
 ||selectaparma.it^$all
 ||selectosnieva.es^$all
 ||semis-partyservice.de^$all
+||seniorenplattform-oberberg.de^$all
 ||senli.pl^$all
 ||senseofcontact.nl^$all
 ||seo-katalogi.eu^$all
@@ -1908,6 +1929,7 @@
 ||sobysurgical.com^$all
 ||socialbyte.it^$all
 ||socke519.de^$all
+||soestdijksekade822.nl^$all
 ||sofiawebdesign.eu^$all
 ||sognipuliti.it^$all
 ||sokoll-computers.de^$all
@@ -2147,10 +2169,12 @@
 ||vdbbb.de^$all
 ||veelaanbiedingen.nl^$all
 ||vefaselection.fr^$all
+||vehiculepedagogique.fr^$all
 ||velolobby.eu^$all
 ||vendetuempresa.es^$all
 ||ventadeexpositoresgraficos.es^$all
 ||venturearchitects.pl^$all
+||vgan.it^$all
 ||viacolvento.eu^$all
 ||viaexpo.eu^$all
 ||vicoregio.it^$all
