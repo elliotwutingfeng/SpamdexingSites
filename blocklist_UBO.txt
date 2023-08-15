@@ -28,6 +28,7 @@
 ||abteilung7bigband.de^$all
 ||accademiadelcinemaares.it^$all
 ||aceconseileval.fr^$all
+||acepprif.fr^$all
 ||acgmodels.pl^$all
 ||acheref.fr^$all
 ||achordgroup.com^$all
@@ -98,6 +99,7 @@
 ||amondo.it^$all
 ||amqcharity.nl^$all
 ||amsherzo.eu^$all
+||amtech.es^$all
 ||amuzlodz-eog.pl^$all
 ||analizainternetowa.pl^$all
 ||andep.es^$all
@@ -315,6 +317,7 @@
 ||bolle-willem.nl^$all
 ||bombaygrillindian.es^$all
 ||bonstech.eu^$all
+||bonumcommune.pl^$all
 ||booking-fotografia.de^$all
 ||bootsvermietung-fuerstenberg.de^$all
 ||boroszewo.pl^$all
@@ -761,6 +764,7 @@
 ||familienzentrum-deutenheim.de^$all
 ||familydream.nl^$all
 ||fancygift.de^$all
+||fanonlysdi.de^$all
 ||fapaburgos.es^$all
 ||fapservice.fr^$all
 ||farmaciaortopediabueno.es^$all
@@ -912,6 +916,7 @@
 ||graficheonline.it^$all
 ||grafmoll.ch^$all
 ||grafomanka.pl^$all
+||grandemaison-fontainebleau.fr^$all
 ||grappolorosso.it^$all
 ||grashuepfer-im-eichholz.de^$all
 ||greenfridaygolf.it^$all
@@ -975,6 +980,7 @@
 ||highwheels.it^$all
 ||hilaldesign.fr^$all
 ||hipicaelruedo.es^$all
+||hisparotulos.es^$all
 ||hixpizza-town.de^$all
 ||hkv-lombach.de^$all
 ||hmxgw.com^$all
@@ -1194,6 +1200,7 @@
 ||lanuovamargellina.it^$all
 ||larenaissanceverte.fr^$all
 ||lasaludintegral.es^$all
+||laserllum.es^$all
 ||laserprouslugilaserem.pl^$all
 ||lasuite-depotvente.fr^$all
 ||latelierdejeannette.fr^$all
@@ -1230,6 +1237,7 @@
 ||level-shop.eu^$all
 ||lgsca.fr^$all
 ||libby2.de^$all
+||libia-body-boost.fr^$all
 ||libreriailgaleone.it^$all
 ||librerialagaleria.es^$all
 ||libriditestoardea2021.it^$all
@@ -1269,6 +1277,7 @@
 ||loudbook.eu^$all
 ||loudeac-commerces.fr^$all
 ||louis-gruen.de^$all
+||loungeluitpold.de^$all
 ||louvedetoi.fr^$all
 ||louvelec-electricite.fr^$all
 ||love4home.eu^$all
@@ -1760,6 +1769,7 @@
 ||removinciguerra.it^$all
 ||rentacar-beograd.de^$all
 ||rentenberatung-ohmer.de^$all
+||rentmarbella.es^$all
 ||reptilienzimmer-hannover.de^$all
 ||repuestosnordeste.es^$all
 ||resapark.fr^$all
@@ -1823,6 +1833,7 @@
 ||sanblascasas.es^$all
 ||sanchez-investigadora-genealogista.es^$all
 ||sandbarfrankfurt.de^$all
+||sandtaxi.de^$all
 ||sangraphics.eu^$all
 ||sani-broyeur.eu^$all
 ||sanicar.es^$all
@@ -1887,6 +1898,7 @@
 ||sezu.fr^$all
 ||sg-perbing.de^$all
 ||sgranati.it^$all
+||sgrcompeticiontallerdecoches.es^$all
 ||sharonbrunelli.it^$all
 ||sheetkladde.de^$all
 ||shell-drischberger.de^$all
@@ -1929,6 +1941,7 @@
 ||sobysurgical.com^$all
 ||socialbyte.it^$all
 ||socke519.de^$all
+||sodex-da.fr^$all
 ||soestdijksekade822.nl^$all
 ||sofiawebdesign.eu^$all
 ||sognipuliti.it^$all
@@ -2251,6 +2264,7 @@
 ||xiaogirls.com^$all
 ||xinvoice.biz^$all
 ||xiqjz.com^$all
+||yacht-house.pl^$all
 ||yachtcharter-grosser.de^$all
 ||yamaha-one25.de^$all
 ||yarrowialipolytica.pl^$all
