@@ -22,6 +22,7 @@
 *://*.a2minutidallospedale.it/*
 *://*.aaronrodriguez.es/*
 *://*.abc-d-kist.de/*
+*://*.abitarevivia.it/*
 *://*.abogadojavierferreira.es/*
 *://*.abolicorporation.fr/*
 *://*.abra-ka-dabra-decoration.fr/*
@@ -38,6 +39,7 @@
 *://*.adam-komputery.pl/*
 *://*.adamskupinski.pl/*
 *://*.adhs-doku-zentrum.de/*
+*://*.adifalconara.it/*
 *://*.adriamoda.de/*
 *://*.adrianmaciejewski.pl/*
 *://*.adriano-restaurant.de/*
@@ -150,6 +152,7 @@
 *://*.aquabus.es/*
 *://*.aquitainebeaute.fr/*
 *://*.arbeitsschutz-infos.de/*
+*://*.archiviogiannidova.it/*
 *://*.arcoanticobb.it/*
 *://*.arcoorion.es/*
 *://*.aristokrass.de/*
@@ -267,6 +270,7 @@
 *://*.bellamoda.es/*
 *://*.bellatv.it/*
 *://*.bellevue45360.fr/*
+*://*.belstajacketbest.de/*
 *://*.benafigosetfils.fr/*
 *://*.benbnummertje15.nl/*
 *://*.benesoft.es/*
@@ -274,6 +278,7 @@
 *://*.benjisurlesroutes.fr/*
 *://*.bergaminopellet.eu/*
 *://*.berlin-arrival.de/*
+*://*.berliner-menschen-helfen.de/*
 *://*.beschaeftigtentest.de/*
 *://*.bessosalou.es/*
 *://*.bestekontaktlinsen.de/*
@@ -332,11 +337,14 @@
 *://*.boutiquemanola.it/*
 *://*.boydhuigsloot.nl/*
 *://*.bpvdekanaalstreek.nl/*
+*://*.brescianiline.it/*
 *://*.breuer-zelte.de/*
 *://*.brexitamsterdam.nl/*
+*://*.broedmachinevergelijken.nl/*
 *://*.brookstreetfutures.eu/*
 *://*.brother.eu/*
 *://*.brucehaashockey.com/*
+*://*.brunawormerveer.nl/*
 *://*.bubbleit.es/*
 *://*.buchhaltungbayern.de/*
 *://*.bughy.it/*
@@ -399,6 +407,7 @@
 *://*.cdh-saarland.de/*
 *://*.cdhs8899.com/*
 *://*.cdleycom.nl/*
+*://*.cdsw.fr/*
 *://*.cdu-lueneburg-stadt.de/*
 *://*.cecile-delouvrier.fr/*
 *://*.ceciledumas.fr/*
@@ -437,6 +446,7 @@
 *://*.christopherus-lebensgemeinschaft.de/*
 *://*.christuskirche-evangelisch.de/*
 *://*.chrzescijanka.pl/*
+*://*.cicinedda.it/*
 *://*.cies-ucsg-ec.es/*
 *://*.cinderella-lounge.de/*
 *://*.cinselsohbet.de/*
@@ -585,6 +595,7 @@
 *://*.destockaisne.fr/*
 *://*.deutsche-osteopathen.de/*
 *://*.dewocjonalia-wadowice.pl/*
+*://*.diabetesgel.nl/*
 *://*.dicerfer.es/*
 *://*.die-langstedter.de/*
 *://*.die-vogts.de/*
@@ -611,6 +622,7 @@
 *://*.doasthelocalsdo.eu/*
 *://*.doctemps.fr/*
 *://*.documents-agrement.fr/*
+*://*.dolomitismartfood.it/*
 *://*.dom4d.pl/*
 *://*.domingagulli.it/*
 *://*.dommorena.pl/*
@@ -632,6 +644,7 @@
 *://*.dsjema.fr/*
 *://*.dsyc.es/*
 *://*.dtybks.de/*
+*://*.ducati-emotion.de/*
 *://*.duchaine-paysagiste35.fr/*
 *://*.duende-glasfusing.nl/*
 *://*.duet-z-goretta.pl/*
@@ -822,6 +835,7 @@
 *://*.flunkyrock.de/*
 *://*.fmcomputerdivision.it/*
 *://*.foedusrealestate.it/*
+*://*.fondation-rhenane.eu/*
 *://*.fondointegro.it/*
 *://*.food-fetish.de/*
 *://*.foodservice-seip.de/*
@@ -834,6 +848,7 @@
 *://*.formulamentoring.eu/*
 *://*.forstbetrieb-baumann.de/*
 *://*.fortepianino.pl/*
+*://*.forum-minerva.de/*
 *://*.foto-agent.pl/*
 *://*.fotoart-canarias.es/*
 *://*.fotobenevento.it/*
@@ -912,6 +927,7 @@
 *://*.globalculture.es/*
 *://*.glupglup.es/*
 *://*.glutinamente.es/*
+*://*.gmachine.de/*
 *://*.gmedic.pl/*
 *://*.gmpkamieniarstwo.pl/*
 *://*.gokartytorpoznan.pl/*
@@ -966,6 +982,7 @@
 *://*.haushofgarten-teschner.de/*
 *://*.hawaii-whirlpools.de/*
 *://*.hawktorebki.pl/*
+*://*.hazartypav.de/*
 *://*.hazels-blog.de/*
 *://*.hclmedia.nl/*
 *://*.hdjiding.com/*
@@ -1014,6 +1031,7 @@
 *://*.hundesalon-pino.de/*
 *://*.hundundpfote.de/*
 *://*.huracanpadel.it/*
+*://*.hurry-cut.de/*
 *://*.huytran-asiabistro.de/*
 *://*.hybrydka.pl/*
 *://*.hygienecity.fr/*
@@ -1078,6 +1096,7 @@
 *://*.intomeisee.nl/*
 *://*.investadia.es/*
 *://*.investpremier.fr/*
+*://*.invictus-online.eu/*
 *://*.invoper.es/*
 *://*.iot-visitthefuture.eu/*
 *://*.ipodcases.biz/*
@@ -1227,6 +1246,7 @@
 *://*.leboisdeco.fr/*
 *://*.lecentredoccasion.fr/*
 *://*.leclosdeshuypres.fr/*
+*://*.lecsofesztival.eu/*
 *://*.lecznicagizycko.pl/*
 *://*.led4less.de/*
 *://*.leffeneiricordi.it/*
@@ -1324,6 +1344,7 @@
 *://*.makeitup.es/*
 *://*.malagawellness.es/*
 *://*.malenews.nl/*
+*://*.malewesele.pl/*
 *://*.malina-24.eu/*
 *://*.mamawlodzi.pl/*
 *://*.mannenpanel.nl/*
@@ -1372,6 +1393,7 @@
 *://*.mediahome.es/*
 *://*.medical-ozone.eu/*
 *://*.medicalundfit.de/*
+*://*.medici-odontoiatri.it/*
 *://*.medicusraciborz.pl/*
 *://*.medineyilmaz.de/*
 *://*.medisirstiklas.eu/*
@@ -1740,6 +1762,7 @@
 *://*.qantascomplaints.com/*
 *://*.qatechnic-academy.de/*
 *://*.qbecka.pl/*
+*://*.qsslotyxoba.de/*
 *://*.quarzwerke-kw.de/*
 *://*.queserepita.com/*
 *://*.quiins-kings-fitness.de/*
@@ -1749,6 +1772,7 @@
 *://*.racquetmag.eu/*
 *://*.radiocolorata.eu/*
 *://*.radoslawswinarski.pl/*
+*://*.rainbowwarszawa.pl/*
 *://*.rainer-hagge.de/*
 *://*.rajapizzeria-moers.de/*
 *://*.ramacities.biz/*
@@ -1966,6 +1990,7 @@
 *://*.sophyangelflorist.com/*
 *://*.soul-spa-berlin.de/*
 *://*.soulfoodvalentinakusche.de/*
+*://*.sound-on.pl/*
 *://*.sozialstation-eichelbaum.de/*
 *://*.sp15jz.pl/*
 *://*.spaciosaiz.es/*
@@ -1987,6 +2012,8 @@
 *://*.sprinterskiemp2022.pl/*
 *://*.spyurq.fr/*
 *://*.ssasupplements.es/*
+*://*.sslotywe.de/*
+*://*.stadstrompettisten.nl/*
 *://*.stahl-rohr-moebel.de/*
 *://*.starke-region-zm.de/*
 *://*.staroceska.eu/*
@@ -2024,6 +2051,7 @@
 *://*.sundayismondayhome.pl/*
 *://*.sunjoli.com/*
 *://*.superhealthybreast.eu/*
+*://*.suppengott.de/*
 *://*.surfline.click/*
 *://*.sushishogun.de/*
 *://*.sutherlandfelt.nl/*
@@ -2138,6 +2166,7 @@
 *://*.trippyshoes.es/*
 *://*.trl-hb.de/*
 *://*.troda.pl/*
+*://*.troianimoto.it/*
 *://*.trollul.eu/*
 *://*.tropical-dive.de/*
 *://*.trouwringenweek.nl/*
@@ -2172,6 +2201,7 @@
 *://*.unicorn-weddingfoto.pl/*
 *://*.unikatshop.biz/*
 *://*.unimulticampus.it/*
+*://*.unpuntomacrobiotico.it/*
 *://*.unsicvarese.it/*
 *://*.unternehmen-business-fotografie-berlin-brandenburg.de/*
 *://*.urbisvigilanza.it/*
@@ -2218,6 +2248,7 @@
 *://*.viverosvedo.es/*
 *://*.vmcassistenza.it/*
 *://*.vnembassy.nl/*
+*://*.voce24.it/*
 *://*.vogelsangmeetshoyer.de/*
 *://*.vogt-ferienwohnung-kropp.de/*
 *://*.voip-tech.eu/*
@@ -2274,6 +2305,7 @@
 *://*.wp-stats.nl/*
 *://*.wrohelpsukr.pl/*
 *://*.wyczuciesmaku.pl/*
+*://*.wykrywacz-klamstw.eu/*
 *://*.wynajemdomen.eu/*
 *://*.wyscigowka.eu/*
 *://*.wystrojoknabeata.pl/*
@@ -2281,6 +2313,8 @@
 *://*.xiaogirls.com/*
 *://*.xinvoice.biz/*
 *://*.xiqjz.com/*
+*://*.y-azartyxix.de/*
+*://*.y-fansonlysyiok.de/*
 *://*.yacht-house.pl/*
 *://*.yachtcharter-grosser.de/*
 *://*.yamaha-one25.de/*

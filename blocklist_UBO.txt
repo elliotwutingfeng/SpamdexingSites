@@ -22,6 +22,7 @@
 ||a2minutidallospedale.it^$all
 ||aaronrodriguez.es^$all
 ||abc-d-kist.de^$all
+||abitarevivia.it^$all
 ||abogadojavierferreira.es^$all
 ||abolicorporation.fr^$all
 ||abra-ka-dabra-decoration.fr^$all
@@ -38,6 +39,7 @@
 ||adam-komputery.pl^$all
 ||adamskupinski.pl^$all
 ||adhs-doku-zentrum.de^$all
+||adifalconara.it^$all
 ||adriamoda.de^$all
 ||adrianmaciejewski.pl^$all
 ||adriano-restaurant.de^$all
@@ -150,6 +152,7 @@
 ||aquabus.es^$all
 ||aquitainebeaute.fr^$all
 ||arbeitsschutz-infos.de^$all
+||archiviogiannidova.it^$all
 ||arcoanticobb.it^$all
 ||arcoorion.es^$all
 ||aristokrass.de^$all
@@ -267,6 +270,7 @@
 ||bellamoda.es^$all
 ||bellatv.it^$all
 ||bellevue45360.fr^$all
+||belstajacketbest.de^$all
 ||benafigosetfils.fr^$all
 ||benbnummertje15.nl^$all
 ||benesoft.es^$all
@@ -274,6 +278,7 @@
 ||benjisurlesroutes.fr^$all
 ||bergaminopellet.eu^$all
 ||berlin-arrival.de^$all
+||berliner-menschen-helfen.de^$all
 ||beschaeftigtentest.de^$all
 ||bessosalou.es^$all
 ||bestekontaktlinsen.de^$all
@@ -332,11 +337,14 @@
 ||boutiquemanola.it^$all
 ||boydhuigsloot.nl^$all
 ||bpvdekanaalstreek.nl^$all
+||brescianiline.it^$all
 ||breuer-zelte.de^$all
 ||brexitamsterdam.nl^$all
+||broedmachinevergelijken.nl^$all
 ||brookstreetfutures.eu^$all
 ||brother.eu^$all
 ||brucehaashockey.com^$all
+||brunawormerveer.nl^$all
 ||bubbleit.es^$all
 ||buchhaltungbayern.de^$all
 ||bughy.it^$all
@@ -399,6 +407,7 @@
 ||cdh-saarland.de^$all
 ||cdhs8899.com^$all
 ||cdleycom.nl^$all
+||cdsw.fr^$all
 ||cdu-lueneburg-stadt.de^$all
 ||cecile-delouvrier.fr^$all
 ||ceciledumas.fr^$all
@@ -437,6 +446,7 @@
 ||christopherus-lebensgemeinschaft.de^$all
 ||christuskirche-evangelisch.de^$all
 ||chrzescijanka.pl^$all
+||cicinedda.it^$all
 ||cies-ucsg-ec.es^$all
 ||cinderella-lounge.de^$all
 ||cinselsohbet.de^$all
@@ -585,6 +595,7 @@
 ||destockaisne.fr^$all
 ||deutsche-osteopathen.de^$all
 ||dewocjonalia-wadowice.pl^$all
+||diabetesgel.nl^$all
 ||dicerfer.es^$all
 ||die-langstedter.de^$all
 ||die-vogts.de^$all
@@ -611,6 +622,7 @@
 ||doasthelocalsdo.eu^$all
 ||doctemps.fr^$all
 ||documents-agrement.fr^$all
+||dolomitismartfood.it^$all
 ||dom4d.pl^$all
 ||domingagulli.it^$all
 ||dommorena.pl^$all
@@ -632,6 +644,7 @@
 ||dsjema.fr^$all
 ||dsyc.es^$all
 ||dtybks.de^$all
+||ducati-emotion.de^$all
 ||duchaine-paysagiste35.fr^$all
 ||duende-glasfusing.nl^$all
 ||duet-z-goretta.pl^$all
@@ -822,6 +835,7 @@
 ||flunkyrock.de^$all
 ||fmcomputerdivision.it^$all
 ||foedusrealestate.it^$all
+||fondation-rhenane.eu^$all
 ||fondointegro.it^$all
 ||food-fetish.de^$all
 ||foodservice-seip.de^$all
@@ -834,6 +848,7 @@
 ||formulamentoring.eu^$all
 ||forstbetrieb-baumann.de^$all
 ||fortepianino.pl^$all
+||forum-minerva.de^$all
 ||foto-agent.pl^$all
 ||fotoart-canarias.es^$all
 ||fotobenevento.it^$all
@@ -912,6 +927,7 @@
 ||globalculture.es^$all
 ||glupglup.es^$all
 ||glutinamente.es^$all
+||gmachine.de^$all
 ||gmedic.pl^$all
 ||gmpkamieniarstwo.pl^$all
 ||gokartytorpoznan.pl^$all
@@ -966,6 +982,7 @@
 ||haushofgarten-teschner.de^$all
 ||hawaii-whirlpools.de^$all
 ||hawktorebki.pl^$all
+||hazartypav.de^$all
 ||hazels-blog.de^$all
 ||hclmedia.nl^$all
 ||hdjiding.com^$all
@@ -1014,6 +1031,7 @@
 ||hundesalon-pino.de^$all
 ||hundundpfote.de^$all
 ||huracanpadel.it^$all
+||hurry-cut.de^$all
 ||huytran-asiabistro.de^$all
 ||hybrydka.pl^$all
 ||hygienecity.fr^$all
@@ -1078,6 +1096,7 @@
 ||intomeisee.nl^$all
 ||investadia.es^$all
 ||investpremier.fr^$all
+||invictus-online.eu^$all
 ||invoper.es^$all
 ||iot-visitthefuture.eu^$all
 ||ipodcases.biz^$all
@@ -1227,6 +1246,7 @@
 ||leboisdeco.fr^$all
 ||lecentredoccasion.fr^$all
 ||leclosdeshuypres.fr^$all
+||lecsofesztival.eu^$all
 ||lecznicagizycko.pl^$all
 ||led4less.de^$all
 ||leffeneiricordi.it^$all
@@ -1324,6 +1344,7 @@
 ||makeitup.es^$all
 ||malagawellness.es^$all
 ||malenews.nl^$all
+||malewesele.pl^$all
 ||malina-24.eu^$all
 ||mamawlodzi.pl^$all
 ||mannenpanel.nl^$all
@@ -1372,6 +1393,7 @@
 ||mediahome.es^$all
 ||medical-ozone.eu^$all
 ||medicalundfit.de^$all
+||medici-odontoiatri.it^$all
 ||medicusraciborz.pl^$all
 ||medineyilmaz.de^$all
 ||medisirstiklas.eu^$all
@@ -1740,6 +1762,7 @@
 ||qantascomplaints.com^$all
 ||qatechnic-academy.de^$all
 ||qbecka.pl^$all
+||qsslotyxoba.de^$all
 ||quarzwerke-kw.de^$all
 ||queserepita.com^$all
 ||quiins-kings-fitness.de^$all
@@ -1749,6 +1772,7 @@
 ||racquetmag.eu^$all
 ||radiocolorata.eu^$all
 ||radoslawswinarski.pl^$all
+||rainbowwarszawa.pl^$all
 ||rainer-hagge.de^$all
 ||rajapizzeria-moers.de^$all
 ||ramacities.biz^$all
@@ -1966,6 +1990,7 @@
 ||sophyangelflorist.com^$all
 ||soul-spa-berlin.de^$all
 ||soulfoodvalentinakusche.de^$all
+||sound-on.pl^$all
 ||sozialstation-eichelbaum.de^$all
 ||sp15jz.pl^$all
 ||spaciosaiz.es^$all
@@ -1987,6 +2012,8 @@
 ||sprinterskiemp2022.pl^$all
 ||spyurq.fr^$all
 ||ssasupplements.es^$all
+||sslotywe.de^$all
+||stadstrompettisten.nl^$all
 ||stahl-rohr-moebel.de^$all
 ||starke-region-zm.de^$all
 ||staroceska.eu^$all
@@ -2024,6 +2051,7 @@
 ||sundayismondayhome.pl^$all
 ||sunjoli.com^$all
 ||superhealthybreast.eu^$all
+||suppengott.de^$all
 ||surfline.click^$all
 ||sushishogun.de^$all
 ||sutherlandfelt.nl^$all
@@ -2138,6 +2166,7 @@
 ||trippyshoes.es^$all
 ||trl-hb.de^$all
 ||troda.pl^$all
+||troianimoto.it^$all
 ||trollul.eu^$all
 ||tropical-dive.de^$all
 ||trouwringenweek.nl^$all
@@ -2172,6 +2201,7 @@
 ||unicorn-weddingfoto.pl^$all
 ||unikatshop.biz^$all
 ||unimulticampus.it^$all
+||unpuntomacrobiotico.it^$all
 ||unsicvarese.it^$all
 ||unternehmen-business-fotografie-berlin-brandenburg.de^$all
 ||urbisvigilanza.it^$all
@@ -2218,6 +2248,7 @@
 ||viverosvedo.es^$all
 ||vmcassistenza.it^$all
 ||vnembassy.nl^$all
+||voce24.it^$all
 ||vogelsangmeetshoyer.de^$all
 ||vogt-ferienwohnung-kropp.de^$all
 ||voip-tech.eu^$all
@@ -2274,6 +2305,7 @@
 ||wp-stats.nl^$all
 ||wrohelpsukr.pl^$all
 ||wyczuciesmaku.pl^$all
+||wykrywacz-klamstw.eu^$all
 ||wynajemdomen.eu^$all
 ||wyscigowka.eu^$all
 ||wystrojoknabeata.pl^$all
@@ -2281,6 +2313,8 @@
 ||xiaogirls.com^$all
 ||xinvoice.biz^$all
 ||xiqjz.com^$all
+||y-azartyxix.de^$all
+||y-fansonlysyiok.de^$all
 ||yacht-house.pl^$all
 ||yachtcharter-grosser.de^$all
 ||yamaha-one25.de^$all
