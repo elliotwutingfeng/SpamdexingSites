@@ -95,6 +95,7 @@
 ||alumetalicaporcuna.es^$all
 ||alvitobello.it^$all
 ||amados-tanzclub.de^$all
+||amatomultiservice.it^$all
 ||ambershopkids.pl^$all
 ||amcfatmayon.de^$all
 ||americansportsoutlet.eu^$all
@@ -178,6 +179,7 @@
 ||aryabarberfranchising.it^$all
 ||asbp.it^$all
 ||asdbresciasportpiu.it^$all
+||asesoria-online.es^$all
 ||asfbt.de^$all
 ||asociacion365.es^$all
 ||asociaciondongiovanni.es^$all
@@ -287,6 +289,7 @@
 ||bezirkslandfrauen-fmtk.de^$all
 ||bezpiecznainwestycja.pl^$all
 ||bhabhapersianbistro.com^$all
+||bielefelder-av.de^$all
 ||biella-case.it^$all
 ||bielsko-przeprowadzki.pl^$all
 ||biempuglia.it^$all
@@ -458,6 +461,7 @@
 ||cittamediterranee.it^$all
 ||cityvets.pl^$all
 ||civismoydemocracia.es^$all
+||clarasdad.de^$all
 ||claudiozambellieventi.it^$all
 ||clbci.fr^$all
 ||cleancare-reinigung.de^$all
@@ -622,6 +626,7 @@
 ||doasthelocalsdo.eu^$all
 ||doctemps.fr^$all
 ||documents-agrement.fr^$all
+||dolinakawy.pl^$all
 ||dolomitismartfood.it^$all
 ||dom4d.pl^$all
 ||domingagulli.it^$all
@@ -641,6 +646,7 @@
 ||droneplaatsen.nl^$all
 ||druckerx.eu^$all
 ||dsc-germania2016.de^$all
+||dsdcero.es^$all
 ||dsjema.fr^$all
 ||dsyc.es^$all
 ||dtybks.de^$all
@@ -694,6 +700,7 @@
 ||einkaufsbahnhof-bewegt.de^$all
 ||eis-for-kids.de^$all
 ||eiscafe-costa.de^$all
+||eiscafe-sandra.de^$all
 ||ekki-arens.de^$all
 ||ekogaja.pl^$all
 ||elartesanodeparla.es^$all
@@ -1048,6 +1055,7 @@
 ||icr365.com^$all
 ||ideafiorecesena.it^$all
 ||ideocasa.it^$all
+||idogo-praxis.de^$all
 ||idrotermolombardo.it^$all
 ||ifioridellorto.it^$all
 ||igienecasaepersona.it^$all
@@ -1085,6 +1093,7 @@
 ||innobioeco2.fr^$all
 ||innovation-entwicklung.de^$all
 ||inpraiseofchina.com^$all
+||inside-tt.de^$all
 ||instaltech-ad.pl^$all
 ||institutamazone.fr^$all
 ||institutbeaute-les-orchidees.fr^$all
@@ -1168,6 +1177,7 @@
 ||keshop.pl^$all
 ||kfz-landtechnik-behr.de^$all
 ||kikigarage.pl^$all
+||kinderinfrasdorf.de^$all
 ||kinesis-tomaszow.pl^$all
 ||kingstonnews.nl^$all
 ||kirche-st-maria-st-vicelin.de^$all
@@ -1360,6 +1370,7 @@
 ||marianogioielli.it^$all
 ||marinabalz.de^$all
 ||marinefolien.de^$all
+||marioefederica.it^$all
 ||marketingtexterin.de^$all
 ||markisen-bgl.de^$all
 ||markisenfuxx.de^$all
@@ -1383,6 +1394,7 @@
 ||mayanapdt.fr^$all
 ||mayidea.fr^$all
 ||mazda-service-gebrauchtwagen-zentrum-helmstedt.de^$all
+||mazury-nocleg.pl^$all
 ||mbcotton.pl^$all
 ||mcarre.eu^$all
 ||mcformations.fr^$all
@@ -1429,6 +1441,7 @@
 ||miilove.pl^$all
 ||mijnvoetafdruk.eu^$all
 ||mikado-montpellier.fr^$all
+||mil-emociones.es^$all
 ||milosctotu.pl^$all
 ||mindhala.es^$all
 ||minimashop.eu^$all
@@ -1875,6 +1888,7 @@
 ||sani-broyeur.eu^$all
 ||sanicar.es^$all
 ||santolocode.de^$all
+||sanukespana.es^$all
 ||sarahburroni.it^$all
 ||sarahgonidec.fr^$all
 ||sarasazo.it^$all
@@ -1928,6 +1942,7 @@
 ||seo-katalogi.eu^$all
 ||serbupoker.biz^$all
 ||sercekryspinka.eu^$all
+||serpcraft.pl^$all
 ||serremar.it^$all
 ||serrurerie-habitat66.fr^$all
 ||serviceclubs.eu^$all
@@ -2120,6 +2135,7 @@
 ||thuismetspelen.nl^$all
 ||tiagocardoso.eu^$all
 ||tierarztpraxis-rummer.de^$all
+||tijdvoormijnkind.nl^$all
 ||tikala.co^$all
 ||tilburg-shop.nl^$all
 ||tintoreriahigiensecmadrid.es^$all
@@ -2228,11 +2244,13 @@
 ||vdbbb.de^$all
 ||veelaanbiedingen.nl^$all
 ||vefaselection.fr^$all
+||vegmeifyoucan.de^$all
 ||vehiculepedagogique.fr^$all
 ||velolobby.eu^$all
 ||vendetuempresa.es^$all
 ||ventadeexpositoresgraficos.es^$all
 ||venturearchitects.pl^$all
+||verliesaanzet.nl^$all
 ||vgan.it^$all
 ||viacolvento.eu^$all
 ||viaexpo.eu^$all

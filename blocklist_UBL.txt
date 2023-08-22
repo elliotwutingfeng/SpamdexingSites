@@ -95,6 +95,7 @@
 *://*.alumetalicaporcuna.es/*
 *://*.alvitobello.it/*
 *://*.amados-tanzclub.de/*
+*://*.amatomultiservice.it/*
 *://*.ambershopkids.pl/*
 *://*.amcfatmayon.de/*
 *://*.americansportsoutlet.eu/*
@@ -178,6 +179,7 @@
 *://*.aryabarberfranchising.it/*
 *://*.asbp.it/*
 *://*.asdbresciasportpiu.it/*
+*://*.asesoria-online.es/*
 *://*.asfbt.de/*
 *://*.asociacion365.es/*
 *://*.asociaciondongiovanni.es/*
@@ -287,6 +289,7 @@
 *://*.bezirkslandfrauen-fmtk.de/*
 *://*.bezpiecznainwestycja.pl/*
 *://*.bhabhapersianbistro.com/*
+*://*.bielefelder-av.de/*
 *://*.biella-case.it/*
 *://*.bielsko-przeprowadzki.pl/*
 *://*.biempuglia.it/*
@@ -458,6 +461,7 @@
 *://*.cittamediterranee.it/*
 *://*.cityvets.pl/*
 *://*.civismoydemocracia.es/*
+*://*.clarasdad.de/*
 *://*.claudiozambellieventi.it/*
 *://*.clbci.fr/*
 *://*.cleancare-reinigung.de/*
@@ -622,6 +626,7 @@
 *://*.doasthelocalsdo.eu/*
 *://*.doctemps.fr/*
 *://*.documents-agrement.fr/*
+*://*.dolinakawy.pl/*
 *://*.dolomitismartfood.it/*
 *://*.dom4d.pl/*
 *://*.domingagulli.it/*
@@ -641,6 +646,7 @@
 *://*.droneplaatsen.nl/*
 *://*.druckerx.eu/*
 *://*.dsc-germania2016.de/*
+*://*.dsdcero.es/*
 *://*.dsjema.fr/*
 *://*.dsyc.es/*
 *://*.dtybks.de/*
@@ -694,6 +700,7 @@
 *://*.einkaufsbahnhof-bewegt.de/*
 *://*.eis-for-kids.de/*
 *://*.eiscafe-costa.de/*
+*://*.eiscafe-sandra.de/*
 *://*.ekki-arens.de/*
 *://*.ekogaja.pl/*
 *://*.elartesanodeparla.es/*
@@ -1048,6 +1055,7 @@
 *://*.icr365.com/*
 *://*.ideafiorecesena.it/*
 *://*.ideocasa.it/*
+*://*.idogo-praxis.de/*
 *://*.idrotermolombardo.it/*
 *://*.ifioridellorto.it/*
 *://*.igienecasaepersona.it/*
@@ -1085,6 +1093,7 @@
 *://*.innobioeco2.fr/*
 *://*.innovation-entwicklung.de/*
 *://*.inpraiseofchina.com/*
+*://*.inside-tt.de/*
 *://*.instaltech-ad.pl/*
 *://*.institutamazone.fr/*
 *://*.institutbeaute-les-orchidees.fr/*
@@ -1168,6 +1177,7 @@
 *://*.keshop.pl/*
 *://*.kfz-landtechnik-behr.de/*
 *://*.kikigarage.pl/*
+*://*.kinderinfrasdorf.de/*
 *://*.kinesis-tomaszow.pl/*
 *://*.kingstonnews.nl/*
 *://*.kirche-st-maria-st-vicelin.de/*
@@ -1360,6 +1370,7 @@
 *://*.marianogioielli.it/*
 *://*.marinabalz.de/*
 *://*.marinefolien.de/*
+*://*.marioefederica.it/*
 *://*.marketingtexterin.de/*
 *://*.markisen-bgl.de/*
 *://*.markisenfuxx.de/*
@@ -1383,6 +1394,7 @@
 *://*.mayanapdt.fr/*
 *://*.mayidea.fr/*
 *://*.mazda-service-gebrauchtwagen-zentrum-helmstedt.de/*
+*://*.mazury-nocleg.pl/*
 *://*.mbcotton.pl/*
 *://*.mcarre.eu/*
 *://*.mcformations.fr/*
@@ -1429,6 +1441,7 @@
 *://*.miilove.pl/*
 *://*.mijnvoetafdruk.eu/*
 *://*.mikado-montpellier.fr/*
+*://*.mil-emociones.es/*
 *://*.milosctotu.pl/*
 *://*.mindhala.es/*
 *://*.minimashop.eu/*
@@ -1875,6 +1888,7 @@
 *://*.sani-broyeur.eu/*
 *://*.sanicar.es/*
 *://*.santolocode.de/*
+*://*.sanukespana.es/*
 *://*.sarahburroni.it/*
 *://*.sarahgonidec.fr/*
 *://*.sarasazo.it/*
@@ -1928,6 +1942,7 @@
 *://*.seo-katalogi.eu/*
 *://*.serbupoker.biz/*
 *://*.sercekryspinka.eu/*
+*://*.serpcraft.pl/*
 *://*.serremar.it/*
 *://*.serrurerie-habitat66.fr/*
 *://*.serviceclubs.eu/*
@@ -2120,6 +2135,7 @@
 *://*.thuismetspelen.nl/*
 *://*.tiagocardoso.eu/*
 *://*.tierarztpraxis-rummer.de/*
+*://*.tijdvoormijnkind.nl/*
 *://*.tikala.co/*
 *://*.tilburg-shop.nl/*
 *://*.tintoreriahigiensecmadrid.es/*
@@ -2228,11 +2244,13 @@
 *://*.vdbbb.de/*
 *://*.veelaanbiedingen.nl/*
 *://*.vefaselection.fr/*
+*://*.vegmeifyoucan.de/*
 *://*.vehiculepedagogique.fr/*
 *://*.velolobby.eu/*
 *://*.vendetuempresa.es/*
 *://*.ventadeexpositoresgraficos.es/*
 *://*.venturearchitects.pl/*
+*://*.verliesaanzet.nl/*
 *://*.vgan.it/*
 *://*.viacolvento.eu/*
 *://*.viaexpo.eu/*
