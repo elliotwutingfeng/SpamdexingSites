@@ -94,6 +94,7 @@
 ||altitude1647.eu^$all
 ||alumetalicaporcuna.es^$all
 ||alvitobello.it^$all
+||am-findling-ruegen.de^$all
 ||amados-tanzclub.de^$all
 ||amatomultiservice.it^$all
 ||ambershopkids.pl^$all
@@ -134,6 +135,7 @@
 ||antonioherman.es^$all
 ||anunturipeweb.eu^$all
 ||anunturirapide.eu^$all
+||anwaltsuch-service.de^$all
 ||aodomab-dijon.fr^$all
 ||apartamentolympicpark.pl^$all
 ||apasolutions.it^$all
@@ -164,6 +166,7 @@
 ||arquitectotecnicomadridsur.es^$all
 ||arresto-momentum.de^$all
 ||ars-passau.de^$all
+||art-life-24.de^$all
 ||artdutoit35.fr^$all
 ||arteparrucchieriestetica.it^$all
 ||arteryproject.eu^$all
@@ -434,6 +437,7 @@
 ||cgsstudio.pl^$all
 ||chainql.com^$all
 ||chance-krise-unternehmenskultur.de^$all
+||chaos-leben.de^$all
 ||charlotte-wilking.de^$all
 ||chatanakoncuswiata.pl^$all
 ||chelmskie.eu^$all
@@ -695,12 +699,14 @@
 ||eerlijkovermobiel.nl^$all
 ||efektfilm.pl^$all
 ||efektur.pl^$all
+||egeria-gmbh.de^$all
 ||eglestore.it^$all
 ||einigkeit-tettenweis.de^$all
 ||einkaufsbahnhof-bewegt.de^$all
 ||eis-for-kids.de^$all
 ||eiscafe-costa.de^$all
 ||eiscafe-sandra.de^$all
+||eisstock-kappeln.de^$all
 ||ekki-arens.de^$all
 ||ekogaja.pl^$all
 ||elartesanodeparla.es^$all
@@ -822,6 +828,7 @@
 ||finalwars.eu^$all
 ||fincaelpardito.es^$all
 ||findmdlaw.com^$all
+||fire-base.de^$all
 ||firmafucha.pl^$all
 ||firstlegalservices.es^$all
 ||firstlighty.com^$all
@@ -997,6 +1004,7 @@
 ||healinglightviseum.eu^$all
 ||healthyshit.nl^$all
 ||heatpipepisa.it^$all
+||heidrunjochims.de^$all
 ||heilende-energie.eu^$all
 ||heilpraktiker-mosbach.de^$all
 ||heimatverein-scheiden.de^$all
@@ -1026,6 +1034,7 @@
 ||hotelpodlupa.pl^$all
 ||hotelthekrishnakatra.com^$all
 ||housegardenvenezia.it^$all
+||hs-goericke.de^$all
 ||hsg-dhfk-boxen.de^$all
 ||hsg-elternbeirat.de^$all
 ||hubertus-ziemianski.pl^$all
@@ -1136,6 +1145,7 @@
 ||jestnatorada.pl^$all
 ||jgpersonaltrainer.fr^$all
 ||jhu.edu^$all
+||jiadamagnet.de^$all
 ||jj-tauben.de^$all
 ||jksun.de^$all
 ||jl-assistance-qualite.fr^$all
@@ -1207,6 +1217,7 @@
 ||krolestwocynamonu.pl^$all
 ||krzysztofbaranski.pl^$all
 ||krzysztofkwasizur.pl^$all
+||ks-keycolor.de^$all
 ||ksiegowosc-olsztyn.pl^$all
 ||ktforce.eu^$all
 ||kulturtur.eu^$all
@@ -1263,6 +1274,7 @@
 ||legalintech.pl^$all
 ||legalmarketing.pl^$all
 ||lemondeoled.fr^$all
+||lemontree-mobil.de^$all
 ||lendewig-reinigung.de^$all
 ||leonardo-pracowniaurody.pl^$all
 ||lepiceriegourmande30560.fr^$all
@@ -1493,6 +1505,7 @@
 ||mr-borna-mde.de^$all
 ||mrx-emploi-ouest.fr^$all
 ||msca2017.eu^$all
+||mtb-geroda.de^$all
 ||mtbsavigno.it^$all
 ||mtgkrakow.pl^$all
 ||mtr-design.eu^$all
@@ -1630,6 +1643,7 @@
 ||ouverture-de-portes.fr^$all
 ||over50footballcuneo.it^$all
 ||owiprod.fr^$all
+||oztur-adatur.de^$all
 ||pacon.it^$all
 ||padelindooralbalat.es^$all
 ||paestumaltocilentocultura2024.it^$all
@@ -1714,6 +1728,7 @@
 ||pompierivolontaridisanvito.eu^$all
 ||pomyslomania.pl^$all
 ||pondichery-paris10.fr^$all
+||ponyclubwinnigstedt.de^$all
 ||porana.es^$all
 ||posclan.pl^$all
 ||poshlashes-zuidholland.nl^$all
@@ -1851,6 +1866,7 @@
 ||ron-telesky.de^$all
 ||rootsfisch.de^$all
 ||rosenhainerkleeblatt.de^$all
+||rotaryclub-kalender.de^$all
 ||routalia.it^$all
 ||rovinjadvisor.it^$all
 ||royer-chausseur-le-mans.fr^$all
@@ -2013,6 +2029,7 @@
 ||sparkrestaurant-lezennes.fr^$all
 ||spartanblasting.com^$all
 ||spd-erfurt-hochheim-bischleben.de^$all
+||spd-panketal.de^$all
 ||spectankcanarias.es^$all
 ||speedcoaching.es^$all
 ||spencerpub.pl^$all
@@ -2117,6 +2134,7 @@
 ||testzentrum-am-stadion.de^$all
 ||testzentrum-marktplatzcenter-nb.de^$all
 ||textagentur-satzmelodie.de^$all
+||thaimassage-taralai.de^$all
 ||thanittahua.pl^$all
 ||thebridgecatania.it^$all
 ||thefamilygarage.it^$all
@@ -2171,6 +2189,7 @@
 ||transnetaero.eu^$all
 ||transportpgg.pl^$all
 ||transzlom.pl^$all
+||traumziel-ostsee.de^$all
 ||travelinbox.pl^$all
 ||travelkathmandu.es^$all
 ||traveltures.de^$all
@@ -2259,6 +2278,7 @@
 ||villaverdi-8.de^$all
 ||vilpia3d.es^$all
 ||vip-kfz.de^$all
+||vipergear.eu^$all
 ||virego.eu^$all
 ||vita-zen.fr^$all
 ||vivereameglia.it^$all
@@ -2279,6 +2299,7 @@
 ||waldemarrobak.pl^$all
 ||waldseeclub.de^$all
 ||walter-fliesen-gmbh.de^$all
+||wandbilderlounge.de^$all
 ||wapak.biz^$all
 ||warszawa345lat.pl^$all
 ||wasserlehrpfad-pegnitz.de^$all
@@ -2295,6 +2316,7 @@
 ||welzmedia.pl^$all
 ||wenhua.pl^$all
 ||wenzler-honig.de^$all
+||weser-sonnenschutz.de^$all
 ||wesolapani.pl^$all
 ||westfargosoccerclub.org^$all
 ||westportvacationbythesea.com^$all
@@ -2313,6 +2335,7 @@
 ||woceanieslow.pl^$all
 ||wohlfuehl-toys.de^$all
 ||wojartrans.pl^$all
+||wollewelt-online.de^$all
 ||wollzauber-dortmund.de^$all
 ||womanslife.nl^$all
 ||womenlookingharmonydating.eu^$all
