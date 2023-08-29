@@ -158,6 +158,7 @@
 *://*.archiviogiannidova.it/*
 *://*.arcoanticobb.it/*
 *://*.arcoorion.es/*
+*://*.ardeaoltreilponte.it/*
 *://*.aristokrass.de/*
 *://*.aritex.pl/*
 *://*.armand-rochas.eu/*
@@ -839,6 +840,7 @@
 *://*.flaviamodista.es/*
 *://*.flechtplatz.de/*
 *://*.flexmaxthea.eu/*
+*://*.fliesenausstellung-augsburg.de/*
 *://*.flip-ports.eu/*
 *://*.flo-rider.de/*
 *://*.floradecoration.pl/*
@@ -1134,6 +1136,7 @@
 *://*.jakdziecko.pl/*
 *://*.jamniki-szczytno.pl/*
 *://*.jaslo-hs.pl/*
+*://*.jaspero.pl/*
 *://*.javascriptkennisbank.nl/*
 *://*.javiercars.es/*
 *://*.jbbb.fr/*
@@ -1307,6 +1310,7 @@
 *://*.lisura.pl/*
 *://*.litalien-resto.fr/*
 *://*.little-italy-pizzeria.de/*
+*://*.littlemagics.eu/*
 *://*.littleshoes.fr/*
 *://*.livestream-rockt.de/*
 *://*.locajet.fr/*
