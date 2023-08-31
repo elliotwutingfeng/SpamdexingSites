@@ -7,6 +7,7 @@
 ||1majeolomouc.eu^$all
 ||20-kg-goldbarren.de^$all
 ||24-rabat.pl^$all
+||240hz-monitor.de^$all
 ||24volt-ecu.nl^$all
 ||27radio.eu^$all
 ||30jahreprenzlkomm.de^$all
@@ -17,6 +18,7 @@
 ||4allfinanz.eu^$all
 ||4lf.pl^$all
 ||4par.eu^$all
+||4x100coups.fr^$all
 ||5shgniazdo.pl^$all
 ||600-jahre-altenbach.de^$all
 ||a2minutidallospedale.it^$all
@@ -27,6 +29,7 @@
 ||abolicorporation.fr^$all
 ||abra-ka-dabra-decoration.fr^$all
 ||abschleppdienst-thielmann.de^$all
+||absolventicum.de^$all
 ||abteilung7bigband.de^$all
 ||accademiadelcinemaares.it^$all
 ||aceconseileval.fr^$all
@@ -239,6 +242,7 @@
 ||bagheriatech.it^$all
 ||baldoinrete.eu^$all
 ||balkon-bebauung.de^$all
+||ballsfrezze.fr^$all
 ||balustradex.pl^$all
 ||bambulka.eu^$all
 ||bancadeltempoavt.it^$all
@@ -289,6 +293,7 @@
 ||bessosalou.es^$all
 ||bestekontaktlinsen.de^$all
 ||bestfit-dan.de^$all
+||beusekomit.nl^$all
 ||bevandechiozzini.it^$all
 ||bezirkslandfrauen-fmtk.de^$all
 ||bezpiecznainwestycja.pl^$all
@@ -303,6 +308,7 @@
 ||bijdevoordeur.nl^$all
 ||bijougastronomica.es^$all
 ||billigaskor.eu^$all
+||billybobpop.de^$all
 ||bimosyn.eu^$all
 ||bio-cleaner.fr^$all
 ||bionexenergy.pl^$all
@@ -456,6 +462,7 @@
 ||chrzescijanka.pl^$all
 ||cicinedda.it^$all
 ||cies-ucsg-ec.es^$all
+||cincerelyyours.de^$all
 ||cinderella-lounge.de^$all
 ||cinselsohbet.de^$all
 ||circolovelicoospedaletti.it^$all
@@ -475,6 +482,7 @@
 ||cleocaffe.it^$all
 ||clever-style.de^$all
 ||clicodyssee.fr^$all
+||clinicacores.es^$all
 ||clinicaveterinariasaludanimal.es^$all
 ||clkonskie.pl^$all
 ||cmpulimentacion.es^$all
@@ -681,6 +689,7 @@
 ||e-sufity.pl^$all
 ||ea-we.de^$all
 ||easeandsee.eu^$all
+||easy-voucher.de^$all
 ||eclubpolito.it^$all
 ||ecm-uniecampus.it^$all
 ||eco-ricicli-filiere.it^$all
@@ -758,6 +767,7 @@
 ||estedemocratica.it^$all
 ||estetachivasso.it^$all
 ||esteticacocomisbellezas.es^$all
+||esteticajoli.it^$all
 ||estetycznymokiem.pl^$all
 ||estherprotection.es^$all
 ||estylshop.pl^$all
@@ -801,6 +811,7 @@
 ||fanonlyskowa.de^$all
 ||fapaburgos.es^$all
 ||fapservice.fr^$all
+||farmacialombarda.it^$all
 ||farmaciaortopediabueno.es^$all
 ||farmaciariosrosas.es^$all
 ||fashion-shop-2.fr^$all
@@ -955,6 +966,7 @@
 ||graficheonline.it^$all
 ||grafmoll.ch^$all
 ||grafomanka.pl^$all
+||grainesatouts.fr^$all
 ||grandemaison-fontainebleau.fr^$all
 ||grappolorosso.it^$all
 ||grashuepfer-im-eichholz.de^$all
@@ -965,6 +977,7 @@
 ||grsmembers.eu^$all
 ||gruniverpal.fr^$all
 ||grupisenda.es^$all
+||gruppodimichele.it^$all
 ||gruppoverderoma.it^$all
 ||gruzoperevozki.eu^$all
 ||gsi-marex.pl^$all
@@ -1149,6 +1162,7 @@
 ||jgpersonaltrainer.fr^$all
 ||jhu.edu^$all
 ||jiadamagnet.de^$all
+||jiraienstagecheztoi.fr^$all
 ||jj-tauben.de^$all
 ||jksun.de^$all
 ||jl-assistance-qualite.fr^$all
@@ -1163,6 +1177,7 @@
 ||jugendfeuerwehr-riepsdorf.de^$all
 ||jugendherberge-haderslev.de^$all
 ||jugendhilfevereinnf.de^$all
+||jugendinfo-hannover.de^$all
 ||jushiert.shop^$all
 ||justmyporn.fr^$all
 ||juwelier-gap.de^$all
@@ -1276,6 +1291,7 @@
 ||leffeneiricordi.it^$all
 ||legalintech.pl^$all
 ||legalmarketing.pl^$all
+||lemoinebistro.de^$all
 ||lemondeoled.fr^$all
 ||lemontree-mobil.de^$all
 ||lendewig-reinigung.de^$all
@@ -1372,6 +1388,7 @@
 ||malenews.nl^$all
 ||malewesele.pl^$all
 ||malina-24.eu^$all
+||mamalila-showroom.de^$all
 ||mamawlodzi.pl^$all
 ||mannenpanel.nl^$all
 ||mansarderive.it^$all
@@ -1381,6 +1398,7 @@
 ||marcelaine.fr^$all
 ||marcodefelicecatering.nl^$all
 ||marekwalczak.pl^$all
+||mariacelico.it^$all
 ||mariakoltschin.de^$all
 ||marialamet.es^$all
 ||marianogioielli.it^$all
@@ -1537,6 +1555,7 @@
 ||nadziejazwyciestwo.pl^$all
 ||nagareeventos.es^$all
 ||nakshaat.eu^$all
+||naprawylaptopa.pl^$all
 ||naszalaliga.pl^$all
 ||natas-berlin.de^$all
 ||natrzechkolach.pl^$all
@@ -1570,6 +1589,7 @@
 ||nilnunesbeaute.fr^$all
 ||ninalawson.de^$all
 ||nionme.de^$all
+||nlpwetenschap.nl^$all
 ||noahboats.de^$all
 ||nochefcookin.nl^$all
 ||nokostudio.pl^$all
@@ -1652,6 +1672,7 @@
 ||padelindooralbalat.es^$all
 ||paestumaltocilentocultura2024.it^$all
 ||pagarteralis.com^$all
+||palletkoning.nl^$all
 ||palomaresbeach.es^$all
 ||pamatech-profi.pl^$all
 ||pan.dev^$all
@@ -1671,6 +1692,7 @@
 ||passivhausmeister.de^$all
 ||paulundruscher.de^$all
 ||pauwer.pl^$all
+||pavux.fr^$all
 ||payotik.it^$all
 ||pbbde.eu^$all
 ||pbprawa.pl^$all
@@ -1861,6 +1883,7 @@
 ||ristoranteilcolosseo.it^$all
 ||ritabarbera.it^$all
 ||river-estates.pl^$all
+||rlutz-mtc.de^$all
 ||rmz-itzauen.de^$all
 ||robert-janke-immobilien.de^$all
 ||rockycreekdesigns.eu^$all
@@ -1962,6 +1985,7 @@
 ||seo-katalogi.eu^$all
 ||serbupoker.biz^$all
 ||sercekryspinka.eu^$all
+||serinco.es^$all
 ||serpcraft.pl^$all
 ||serremar.it^$all
 ||serrurerie-habitat66.fr^$all
@@ -2185,6 +2209,7 @@
 ||torrepratesi.eu^$all
 ||tourismtrends.eu^$all
 ||tousavecalex.fr^$all
+||tpesolutions.fr^$all
 ||tpve.fr^$all
 ||traildellerocche.it^$all
 ||trailerownia.pl^$all
@@ -2332,6 +2357,7 @@
 ||wicher-pomocdrogowa.pl^$all
 ||wielkopolska-nieruchomosci.pl^$all
 ||wiemjak.eu^$all
+||wierzcholowskipremium.pl^$all
 ||wildhunters.it^$all
 ||wir-testen-hamburg.de^$all
 ||wirfuermg.de^$all
@@ -2373,6 +2399,7 @@
 ||youreca.it^$all
 ||yslhandbags.net^$all
 ||yummyluli.es^$all
+||yvoriresearch.de^$all
 ||zabieganinoca.pl^$all
 ||zahnarzt-debald.de^$all
 ||zahnarzt-greifenstein-beilstein.de^$all
