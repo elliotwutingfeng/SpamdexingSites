@@ -98,6 +98,7 @@
 ||alumetalicaporcuna.es^$all
 ||alvitobello.it^$all
 ||am-findling-ruegen.de^$all
+||am-sprengelkiez.de^$all
 ||amados-tanzclub.de^$all
 ||amatomultiservice.it^$all
 ||ambershopkids.pl^$all
@@ -136,6 +137,7 @@
 ||antonio-rivas.es^$all
 ||antoniofuentespsico.es^$all
 ||antonioherman.es^$all
+||anunturi-olanda.eu^$all
 ||anunturipeweb.eu^$all
 ||anunturirapide.eu^$all
 ||anwaltsuch-service.de^$all
@@ -199,6 +201,7 @@
 ||assoinformazioni.it^$all
 ||assonenuphar.fr^$all
 ||assurancescollectives.fr^$all
+||asv-breesen.de^$all
 ||asyanoleggi.it^$all
 ||asytenisa.pl^$all
 ||ateliermakingmemories.nl^$all
@@ -219,6 +222,7 @@
 ||automar-bilgoraj.pl^$all
 ||automotoserwismikolajuk.pl^$all
 ||autopartner-doebert.de^$all
+||autor-unbekannt.de^$all
 ||autospa-uniquecars.de^$all
 ||autoszybychorzow.pl^$all
 ||autumn-leaves-kerpen.de^$all
@@ -289,6 +293,7 @@
 ||bergaminopellet.eu^$all
 ||berlin-arrival.de^$all
 ||berliner-menschen-helfen.de^$all
+||berlinlash.de^$all
 ||beschaeftigtentest.de^$all
 ||bessosalou.es^$all
 ||bestekontaktlinsen.de^$all
@@ -330,6 +335,7 @@
 ||blumenkisterl.de^$all
 ||blumescosmetics.it^$all
 ||bluming-lab.fr^$all
+||blutegel-heilpraxis.de^$all
 ||blutelecomunicazioni.it^$all
 ||bo-sushi.fr^$all
 ||bochenekmateusz.pl^$all
@@ -350,6 +356,7 @@
 ||boutiquemanola.it^$all
 ||boydhuigsloot.nl^$all
 ||bpvdekanaalstreek.nl^$all
+||brasseriepompadour.fr^$all
 ||brescianiline.it^$all
 ||breuer-zelte.de^$all
 ||brexitamsterdam.nl^$all
@@ -384,6 +391,7 @@
 ||caminolusco.es^$all
 ||camp-koszykarski.pl^$all
 ||campanamedicalcenter.it^$all
+||campementduferlo.fr^$all
 ||camperistaitinerante.it^$all
 ||camping-tschechien.de^$all
 ||camposcuolaferrara.it^$all
@@ -397,6 +405,7 @@
 ||cantoliturgico.it^$all
 ||capitanhook.es^$all
 ||car-brilliance.eu^$all
+||cardamomoeduca.es^$all
 ||carlobugada.it^$all
 ||carniceriacharcuterialucas.es^$all
 ||carnisseriacanmia.es^$all
@@ -485,8 +494,10 @@
 ||clinicacores.es^$all
 ||clinicaveterinariasaludanimal.es^$all
 ||clkonskie.pl^$all
+||clubsoundradio.de^$all
 ||cmpulimentacion.es^$all
 ||coal-uv.es^$all
+||cocolare-bloemen.nl^$all
 ||cocowebsy.pl^$all
 ||cofise.es^$all
 ||colegiojoseescandon.es^$all
@@ -531,6 +542,7 @@
 ||crisiena.it^$all
 ||croceverdefaggiano.it^$all
 ||crossfer-schnellspanner.de^$all
+||crossfitstendal.de^$all
 ||crumh.fr^$all
 ||cryotshock.it^$all
 ||csf21.pl^$all
@@ -573,6 +585,7 @@
 ||danke-fuer-nichts.de^$all
 ||darbau-service.de^$all
 ||darekmytych.pl^$all
+||das-eventtalent.de^$all
 ||das-landhaus28.de^$all
 ||dasrestaurant-eiche.de^$all
 ||davecooke.eu^$all
@@ -651,6 +664,7 @@
 ||dorpshuisdepaol.nl^$all
 ||dosstrento.it^$all
 ||dottormicelipsi.it^$all
+||doubledarts.de^$all
 ||dplr.it^$all
 ||dravyaguna.de^$all
 ||drbeardabakkerstraat80.nl^$all
@@ -743,6 +757,7 @@
 ||enne8.it^$all
 ||ennionasoartist.it^$all
 ||enricabottiniparrucchieri.it^$all
+||entreprise-pmr.fr^$all
 ||enviedequilibre.fr^$all
 ||envivotv.es^$all
 ||eo2019.eu^$all
@@ -820,6 +835,7 @@
 ||fashionstylez.nl^$all
 ||fastbass.de^$all
 ||favs.pics^$all
+||fcblaubeuren.de^$all
 ||fdbeaute.fr^$all
 ||fedezu.es^$all
 ||feelfitinbalance.nl^$all
@@ -835,6 +851,7 @@
 ||fewo-kuss.de^$all
 ||ffhf-strongman.fr^$all
 ||fibretesting.eu^$all
+||fidelis-immo-lpa.fr^$all
 ||filmypozboju.pl^$all
 ||filtryult.pl^$all
 ||finalwars.eu^$all
@@ -901,6 +918,7 @@
 ||ftprivacy.cloud^$all
 ||fuchsimwald.de^$all
 ||fuhrmann-hochzeitsfotografie.de^$all
+||fundacjapl.eu^$all
 ||fundusz-senior.pl^$all
 ||funerariaiparraguirre.es^$all
 ||furahabyhome.fr^$all
@@ -910,6 +928,7 @@
 ||g-wood.pl^$all
 ||gabbianello.it^$all
 ||gaertnerei-rech.de^$all
+||gakker.eu^$all
 ||galabau-trautmann.de^$all
 ||galanteriafutrzana.pl^$all
 ||galloway-emmeram.de^$all
@@ -962,6 +981,7 @@
 ||golfcapesterel.fr^$all
 ||goodkebab.pl^$all
 ||gopro9.com^$all
+||gp-move.eu^$all
 ||gradeproject.eu^$all
 ||graficheonline.it^$all
 ||grafmoll.ch^$all
@@ -1027,6 +1047,7 @@
 ||hellcorp.fr^$all
 ||helpi-pozyczka.pl^$all
 ||herbatychwila.pl^$all
+||herrmann-simmershausen.de^$all
 ||herzogen-cup.de^$all
 ||hetkompasteraar.nl^$all
 ||hifi-platform.eu^$all
@@ -1255,6 +1276,7 @@
 ||lacollineauxcoquelicots.fr^$all
 ||laetifi.pl^$all
 ||lafabriquedecellestine.fr^$all
+||lafder.fr^$all
 ||lafilledelalune.fr^$all
 ||lagarnica.es^$all
 ||lakathini.pl^$all
@@ -1263,6 +1285,7 @@
 ||landesjazzfestival2017.de^$all
 ||landjugend-oesterweg.de^$all
 ||lanuovamargellina.it^$all
+||laphee.fr^$all
 ||larenaissanceverte.fr^$all
 ||lasaludintegral.es^$all
 ||laserllum.es^$all
@@ -1582,6 +1605,7 @@
 ||newlifeenergy.fr^$all
 ||newstrusted.de^$all
 ||nice-soutien-scolaire.fr^$all
+||nicolasmaups.nl^$all
 ||nidopoland.pl^$all
 ||niebieskislon.edu.pl^$all
 ||nikonfilmfestival.pl^$all
@@ -1707,6 +1731,7 @@
 ||percorsoprotetto.it^$all
 ||peri-plock.pl^$all
 ||perrosdelaisla.es^$all
+||pervestigo.de^$all
 ||peter-bergmann.de^$all
 ||peter-schmode.de^$all
 ||petra-siemens.de^$all
@@ -1730,6 +1755,7 @@
 ||pisaditas.es^$all
 ||pixa-weazel.pl^$all
 ||pizza-dop.it^$all
+||pizza-nonna.de^$all
 ||pizzaclubdreux.fr^$all
 ||pizzamozaik.fr^$all
 ||pizzanino17.fr^$all
@@ -1935,6 +1961,7 @@
 ||sarahburroni.it^$all
 ||sarahgonidec.fr^$all
 ||sarasazo.it^$all
+||sasloue.fr^$all
 ||sat-serviciotecnicofujitsu.es^$all
 ||saulignac2022.fr^$all
 ||sauna-am-see-wandlitz.de^$all
@@ -2080,8 +2107,10 @@
 ||startupjunkies.eu^$all
 ||stcfilm.com^$all
 ||stefaniastefanelli.it^$all
+||stefanie-ahlbrecht.de^$all
 ||stella-school.eu^$all
 ||stellafashion.eu^$all
+||stephan-semrau.de^$all
 ||stewartoverland.de^$all
 ||stichtinggetontrack.nl^$all
 ||stichtingont-moet.nl^$all
@@ -2140,6 +2169,7 @@
 ||tc-westeresch.de^$all
 ||tchp-silesia.pl^$all
 ||tdateatro.it^$all
+||tdpost-select.de^$all
 ||teana-team.es^$all
 ||teatrocentena.it^$all
 ||technic-carrosserie-rivat.fr^$all
@@ -2252,6 +2282,7 @@
 ||udclazio.it^$all
 ||uhlmann-politikberatung.de^$all
 ||uicmantova.it^$all
+||uitgeverijbeste.nl^$all
 ||ukdgb1.de^$all
 ||ukiyo-studio.fr^$all
 ||ukrainawzlotowie.pl^$all
@@ -2296,6 +2327,7 @@
 ||vehiculepedagogique.fr^$all
 ||velolobby.eu^$all
 ||vendetuempresa.es^$all
+||venete-so-nicht.de^$all
 ||ventadeexpositoresgraficos.es^$all
 ||venturearchitects.pl^$all
 ||verliesaanzet.nl^$all
@@ -2313,6 +2345,8 @@
 ||vivereameglia.it^$all
 ||viveroscentrals.es^$all
 ||viverosvedo.es^$all
+||vklabogadosgava.es^$all
+||vklabogadosseudurgell.es^$all
 ||vmcassistenza.it^$all
 ||vnembassy.nl^$all
 ||voce24.it^$all
