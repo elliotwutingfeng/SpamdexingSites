@@ -54,6 +54,7 @@
 ||adwokat-windykacja.pl^$all
 ||adwokatkaras.pl^$all
 ||africanqueens.it^$all
+||afrikakette.de^$all
 ||afslankpillen2017nl.eu^$all
 ||agcled.es^$all
 ||agnieszkasielewicz.pl^$all
@@ -122,6 +123,7 @@
 ||andreastripinas.de^$all
 ||androlog-drabarek.pl^$all
 ||andyscoffee.es^$all
+||angeleimmo.fr^$all
 ||angielski-w-it.pl^$all
 ||angielskipopolsku.pl^$all
 ||animaband.pl^$all
@@ -873,6 +875,7 @@
 ||filmypozboju.pl^$all
 ||filtryult.pl^$all
 ||finalwars.eu^$all
+||finansowylis.pl^$all
 ||fincaelpardito.es^$all
 ||findmdlaw.com^$all
 ||fire-base.de^$all
@@ -929,6 +932,7 @@
 ||frankrijk-huurtent.nl^$all
 ||fraternelle-sacem.fr^$all
 ||frauen-aus-rio.eu^$all
+||frauen-union-ov-nu.de^$all
 ||fre-style.de^$all
 ||freeauto.pl^$all
 ||frischergegenwind.de^$all
@@ -1038,6 +1042,7 @@
 ||h-and-g.de^$all
 ||hagepolska.pl^$all
 ||hakima-hassine.fr^$all
+||hall-of-aesir.fr^$all
 ||halomoto.pl^$all
 ||hand-hund-herz.de^$all
 ||handstaubsauger24.eu^$all
@@ -1276,6 +1281,7 @@
 ||koalapaku.fr^$all
 ||koenenandco.nl^$all
 ||kojachi.fr^$all
+||kollektiveins.de^$all
 ||konkretpizza.pl^$all
 ||koorlavendel.nl^$all
 ||kozbi.eu^$all
@@ -1356,6 +1362,7 @@
 ||lesmontboucons.fr^$all
 ||lesrapporteurs.fr^$all
 ||letempsdescoquelicots.fr^$all
+||letsgetfit-senka.de^$all
 ||level-shop.eu^$all
 ||lgsca.fr^$all
 ||libby2.de^$all
@@ -1454,6 +1461,7 @@
 ||marcodefelicecatering.nl^$all
 ||marekwalczak.pl^$all
 ||mariacelico.it^$all
+||mariafontcuberta.es^$all
 ||mariakoltschin.de^$all
 ||marialamet.es^$all
 ||marianogioielli.it^$all
@@ -1753,6 +1761,7 @@
 ||partnersin.eu^$all
 ||party-tent.pl^$all
 ||pascalservera.eu^$all
+||pasionfunkopop.es^$all
 ||passalacqualuzon.it^$all
 ||passionfiveservices.de^$all
 ||passivhausmeister.de^$all
@@ -1806,6 +1815,7 @@
 ||pizzanino17.fr^$all
 ||pizzeriagradi.es^$all
 ||pizzerialadeliziosa.it^$all
+||placezabawmax.pl^$all
 ||platovebg.eu^$all
 ||playtv.es^$all
 ||plibb.pl^$all
@@ -2121,6 +2131,7 @@
 ||sognipuliti.it^$all
 ||sokoll-computers.de^$all
 ||solenita.pl^$all
+||solis-online.de^$all
 ||sonnenblick-wildenfels.de^$all
 ||sopchy.de^$all
 ||sophyangelflorist.com^$all
@@ -2206,6 +2217,7 @@
 ||szy-ha.pl^$all
 ||taffixprotect.es^$all
 ||tageseltern-vp.de^$all
+||taichiverbindet.de^$all
 ||taimup.it^$all
 ||taiti.es^$all
 ||talentinelbassolazio.it^$all
@@ -2217,6 +2229,7 @@
 ||targibabyday.pl^$all
 ||tatanabiegunach.pl^$all
 ||tattoostyles.eu^$all
+||tavolacaldadagino.it^$all
 ||taxislaurent13.fr^$all
 ||taxitransferalmunecar.es^$all
 ||tc-westeresch.de^$all
@@ -2300,6 +2313,7 @@
 ||traildellerocche.it^$all
 ||trailerownia.pl^$all
 ||trailhunters.es^$all
+||traineeshipcivieloost.nl^$all
 ||transfertoibiza.es^$all
 ||transnetaero.eu^$all
 ||transportpgg.pl^$all
@@ -2519,6 +2533,7 @@
 ||zhouweilang.com^$all
 ||ziel4u.de^$all
 ||zjghysjx.com^$all
+||zoltobialozolta.pl^$all
 ||zomerschoolutrecht.nl^$all
 ||zoomenglish.es^$all
 ||zpit-kurpiezielone.pl^$all
