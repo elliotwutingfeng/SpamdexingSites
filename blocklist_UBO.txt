@@ -253,6 +253,7 @@
 ||bagheriatech.it^$all
 ||baldoinrete.eu^$all
 ||balkon-bebauung.de^$all
+||ballenro.fr^$all
 ||ballsfrezze.fr^$all
 ||balustradex.pl^$all
 ||bambulka.eu^$all
@@ -513,6 +514,7 @@
 ||cocolare-bloemen.nl^$all
 ||cocowebsy.pl^$all
 ||cofise.es^$all
+||coincarre.fr^$all
 ||colegiojoseescandon.es^$all
 ||coloriehobby.it^$all
 ||coloringpage.pics^$all
@@ -546,6 +548,7 @@
 ||coyotico.fr^$all
 ||cp4allproject.eu^$all
 ||cplasvegascorvera.es^$all
+||cpto-formation.fr^$all
 ||crablovers.it^$all
 ||cracowgamespot.pl^$all
 ||creaprinting.es^$all
@@ -817,6 +820,7 @@
 ||eversschilderwerken.nl^$all
 ||evolucrossfitmelun.fr^$all
 ||ewalipiec.pl^$all
+||ewapacana.pl^$all
 ||ewesan.pl^$all
 ||ewoudtraast.nl^$all
 ||exaltak.fr^$all
@@ -1706,6 +1710,7 @@
 ||olimposhop.it^$all
 ||oliverselzer.de^$all
 ||oliviercorp.pl^$all
+||omaxcoaching.fr^$all
 ||omgstore.pl^$all
 ||ommanagement-advies.nl^$all
 ||omniamedica.it^$all
@@ -1781,6 +1786,8 @@
 ||pegasotv.eu^$all
 ||pelkaes.eu^$all
 ||pellet-cena.pl^$all
+||pepperseeds.eu^$all
+||peptt.fr^$all
 ||percorsoprotetto.it^$all
 ||peri-plock.pl^$all
 ||perrosdelaisla.es^$all
@@ -1993,6 +2000,7 @@
 ||rusisupermarket.fr^$all
 ||russianantiques.eu^$all
 ||rzepa-24.eu^$all
+||saccone.eu^$all
 ||saddle.pl^$all
 ||safe-germany24.de^$all
 ||safeworkparadise.es^$all
@@ -2159,6 +2167,7 @@
 ||sprachstudio-kiel.de^$all
 ||sprechen-trotz-allem.de^$all
 ||sprinterskiemp2022.pl^$all
+||spwagi.pl^$all
 ||spyurq.fr^$all
 ||ssasupplements.es^$all
 ||sslotywe.de^$all

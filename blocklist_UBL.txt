@@ -253,6 +253,7 @@
 *://*.bagheriatech.it/*
 *://*.baldoinrete.eu/*
 *://*.balkon-bebauung.de/*
+*://*.ballenro.fr/*
 *://*.ballsfrezze.fr/*
 *://*.balustradex.pl/*
 *://*.bambulka.eu/*
@@ -513,6 +514,7 @@
 *://*.cocolare-bloemen.nl/*
 *://*.cocowebsy.pl/*
 *://*.cofise.es/*
+*://*.coincarre.fr/*
 *://*.colegiojoseescandon.es/*
 *://*.coloriehobby.it/*
 *://*.coloringpage.pics/*
@@ -546,6 +548,7 @@
 *://*.coyotico.fr/*
 *://*.cp4allproject.eu/*
 *://*.cplasvegascorvera.es/*
+*://*.cpto-formation.fr/*
 *://*.crablovers.it/*
 *://*.cracowgamespot.pl/*
 *://*.creaprinting.es/*
@@ -817,6 +820,7 @@
 *://*.eversschilderwerken.nl/*
 *://*.evolucrossfitmelun.fr/*
 *://*.ewalipiec.pl/*
+*://*.ewapacana.pl/*
 *://*.ewesan.pl/*
 *://*.ewoudtraast.nl/*
 *://*.exaltak.fr/*
@@ -1706,6 +1710,7 @@
 *://*.olimposhop.it/*
 *://*.oliverselzer.de/*
 *://*.oliviercorp.pl/*
+*://*.omaxcoaching.fr/*
 *://*.omgstore.pl/*
 *://*.ommanagement-advies.nl/*
 *://*.omniamedica.it/*
@@ -1781,6 +1786,8 @@
 *://*.pegasotv.eu/*
 *://*.pelkaes.eu/*
 *://*.pellet-cena.pl/*
+*://*.pepperseeds.eu/*
+*://*.peptt.fr/*
 *://*.percorsoprotetto.it/*
 *://*.peri-plock.pl/*
 *://*.perrosdelaisla.es/*
@@ -1993,6 +2000,7 @@
 *://*.rusisupermarket.fr/*
 *://*.russianantiques.eu/*
 *://*.rzepa-24.eu/*
+*://*.saccone.eu/*
 *://*.saddle.pl/*
 *://*.safe-germany24.de/*
 *://*.safeworkparadise.es/*
@@ -2159,6 +2167,7 @@
 *://*.sprachstudio-kiel.de/*
 *://*.sprechen-trotz-allem.de/*
 *://*.sprinterskiemp2022.pl/*
+*://*.spwagi.pl/*
 *://*.spyurq.fr/*
 *://*.ssasupplements.es/*
 *://*.sslotywe.de/*
