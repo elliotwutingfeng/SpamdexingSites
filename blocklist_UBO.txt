@@ -85,6 +85,7 @@
 ||aletheia-collection.it^$all
 ||alexander-ahrens.de^$all
 ||alexluxuryhair.nl^$all
+||algetrico.es^$all
 ||alhena-wizaz.pl^$all
 ||alienor-piscines-paysage.fr^$all
 ||alko-elemente.pl^$all
@@ -431,6 +432,7 @@
 ||cassefortisicure.it^$all
 ||castello-liepelt.de^$all
 ||castles-hotels.com^$all
+||catedrasemergenugr.es^$all
 ||cateringmontejo.es^$all
 ||cateringnapoziomie.pl^$all
 ||catswag.ch^$all
@@ -515,6 +517,7 @@
 ||cocowebsy.pl^$all
 ||cofise.es^$all
 ||coincarre.fr^$all
+||colega-fred.es^$all
 ||colegiojoseescandon.es^$all
 ||coloriehobby.it^$all
 ||coloringpage.pics^$all
@@ -561,6 +564,8 @@
 ||croceverdefaggiano.it^$all
 ||crossfer-schnellspanner.de^$all
 ||crossfitstendal.de^$all
+||crowd1iberica.es^$all
+||crowd1inteligenciaonline.es^$all
 ||crumh.fr^$all
 ||cryotshock.it^$all
 ||csf21.pl^$all
@@ -795,6 +800,7 @@
 ||escuelabarberiaprietos.es^$all
 ||escuelainfantilcasiopea.es^$all
 ||eshopelektro.eu^$all
+||esi-fernueberwachung.de^$all
 ||espresso-bar-braunschweig.de^$all
 ||espritssinguliers.fr^$all
 ||est2.es^$all
@@ -981,6 +987,7 @@
 ||getflashnews.nl^$all
 ||gewinn-programm.de^$all
 ||gfmsoluciones.es^$all
+||ghislaine-yagoubi.fr^$all
 ||gianlucacavallini.it^$all
 ||giannicavannelli.fr^$all
 ||giardino360.it^$all
@@ -1095,6 +1102,7 @@
 ||homeboutiquecagliari.it^$all
 ||hondanews.eu^$all
 ||hongchuangye.com^$all
+||hostalcazalegas.es^$all
 ||hostaloasis.eu^$all
 ||hostelservice.pl^$all
 ||hotelpodlupa.pl^$all
@@ -1165,6 +1173,7 @@
 ||inforia.es^$all
 ||ingeschuffelen.nl^$all
 ||iniaviaggi.it^$all
+||injecteur-tech.fr^$all
 ||innerconcept.pl^$all
 ||innobioeco2.fr^$all
 ||innovation-entwicklung.de^$all
@@ -1232,6 +1241,7 @@
 ||jugendherberge-haderslev.de^$all
 ||jugendhilfevereinnf.de^$all
 ||jugendinfo-hannover.de^$all
+||junibat.fr^$all
 ||jushiert.shop^$all
 ||jusos-barnim.de^$all
 ||justmyporn.fr^$all
@@ -1288,6 +1298,7 @@
 ||kollektiveins.de^$all
 ||konkretpizza.pl^$all
 ||koorlavendel.nl^$all
+||kordonnier.fr^$all
 ||kozbi.eu^$all
 ||kpb-consulting.fr^$all
 ||kpmg-gamechanger.it^$all
@@ -1354,6 +1365,7 @@
 ||legalintech.pl^$all
 ||legalmarketing.pl^$all
 ||lemoinebistro.de^$all
+||lemondechange.fr^$all
 ||lemondeoled.fr^$all
 ||lemontree-mobil.de^$all
 ||lendewig-reinigung.de^$all
@@ -1547,6 +1559,7 @@
 ||mikado-montpellier.fr^$all
 ||mil-emociones.es^$all
 ||milosctotu.pl^$all
+||mimis-jewels.de^$all
 ||mindhala.es^$all
 ||minimashop.eu^$all
 ||minkybaby.pl^$all
@@ -1794,12 +1807,14 @@
 ||pervestigo.de^$all
 ||peter-bergmann.de^$all
 ||peter-schmode.de^$all
+||petluditos.es^$all
 ||petra-siemens.de^$all
 ||petras-fruehstuecksstube.de^$all
 ||pferdemuskeln-fit-gemacht.de^$all
 ||pg3bp.pl^$all
 ||pgsiedliska.pl^$all
 ||phantasm-c.nl^$all
+||pharmaciedumidi-solliespont.fr^$all
 ||pharmaciewaisman.fr^$all
 ||physio-elippmann.de^$all
 ||piano-barbary.fr^$all
@@ -1874,6 +1889,7 @@
 ||progressiveturfequip.eu^$all
 ||projetactivity.fr^$all
 ||promedilscuola.it^$all
+||promoteur-lemistral.fr^$all
 ||protectus.es^$all
 ||protezioneciviletriggiano-ba.it^$all
 ||provence-diabete.fr^$all
@@ -2070,6 +2086,7 @@
 ||sekretyf1.pl^$all
 ||selectaparma.it^$all
 ||selectosnieva.es^$all
+||semeyes.es^$all
 ||semis-partyservice.de^$all
 ||seniorenplattform-oberberg.de^$all
 ||senli.pl^$all
@@ -2172,6 +2189,7 @@
 ||ssasupplements.es^$all
 ||sslotywe.de^$all
 ||stadstrompettisten.nl^$all
+||stadtelternrat.de^$all
 ||stahl-rohr-moebel.de^$all
 ||starke-region-zm.de^$all
 ||staroceska.eu^$all
@@ -2524,6 +2542,8 @@
 ||zabieganinoca.pl^$all
 ||zahnarzt-debald.de^$all
 ||zahnarzt-greifenstein-beilstein.de^$all
+||zaido.de^$all
+||zaisteambaras.pl^$all
 ||zajazd-boryslawice.pl^$all
 ||zakelijkpanel.nl^$all
 ||zalewadev.pl^$all
