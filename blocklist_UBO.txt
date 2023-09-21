@@ -261,6 +261,7 @@
 ||balustradex.pl^$all
 ||bambulka.eu^$all
 ||bancadeltempoavt.it^$all
+||baobaotea.fr^$all
 ||barberone.fr^$all
 ||bardepintxosdonostia.es^$all
 ||bargelateriaarcobaleno.it^$all
@@ -279,6 +280,7 @@
 ||bblimpianti.it^$all
 ||bc-energ-ethique.fr^$all
 ||bdgoptimum.pl^$all
+||bearinmind.es^$all
 ||beas-putzservice.de^$all
 ||beauty-selcho.de^$all
 ||beautysalonashley.nl^$all
@@ -680,6 +682,7 @@
 ||digital-paten.de^$all
 ||digital-signage-marketing.de^$all
 ||digitalauszeit.de^$all
+||dimorarossa.it^$all
 ||dipendenzeaddio.it^$all
 ||dis-c.de^$all
 ||diskurspresse.de^$all
@@ -834,6 +837,7 @@
 ||esteticajoli.it^$all
 ||estetycznymokiem.pl^$all
 ||estherprotection.es^$all
+||esthetiqueferrer.fr^$all
 ||estylshop.pl^$all
 ||eufloodcommand.eu^$all
 ||eukorea-fire.eu^$all
@@ -1045,6 +1049,7 @@
 ||golf-de-brigode.fr^$all
 ||golfcapesterel.fr^$all
 ||goodkebab.pl^$all
+||gootta.es^$all
 ||gopro9.com^$all
 ||gp-move.eu^$all
 ||gradeproject.eu^$all
@@ -1296,6 +1301,7 @@
 ||k18shop.eu^$all
 ||kabelkult.de^$all
 ||kadrybeztajemnic.pl^$all
+||kafetxo.es^$all
 ||kajakurczuk.pl^$all
 ||kalteneck-araber.de^$all
 ||kanep.es^$all
@@ -2364,6 +2370,7 @@
 ||thanittahua.pl^$all
 ||thebridgecatania.it^$all
 ||thefamilygarage.it^$all
+||thelatinway.es^$all
 ||themedesign.nl^$all
 ||themiddlekeys.de^$all
 ||themorningwalk.fr^$all
