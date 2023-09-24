@@ -78,6 +78,7 @@
 ||aland-imbiss.de^$all
 ||alanrobertevans.eu^$all
 ||alarmanlage-finder.de^$all
+||albmech.de^$all
 ||alcyoni.pl^$all
 ||aldemetrio.it^$all
 ||aldeon.nl^$all
@@ -193,6 +194,7 @@
 ||artiste-graphiste.fr^$all
 ||artprojekt-show.eu^$all
 ||artrunner.pl^$all
+||artstarmed.pl^$all
 ||artysciprzeciwnienawisci.pl^$all
 ||aryabarberfranchising.it^$all
 ||asbp.it^$all
@@ -241,6 +243,7 @@
 ||avisborgosanmartino.it^$all
 ||avnettime.eu^$all
 ||aw-moto.pl^$all
+||axel-bossen.de^$all
 ||ayalgainteriorismo.es^$all
 ||ayur-read-pro.eu^$all
 ||azahardeestepona.es^$all
@@ -327,6 +330,7 @@
 ||bigresidencial.es^$all
 ||bijdevoordeur.nl^$all
 ||bijougastronomica.es^$all
+||bilanciperlavita.it^$all
 ||billigaskor.eu^$all
 ||billybobpop.de^$all
 ||bimosyn.eu^$all
@@ -381,6 +385,7 @@
 ||brescianiline.it^$all
 ||breuer-zelte.de^$all
 ||brexitamsterdam.nl^$all
+||bridge-in-koeln.de^$all
 ||broedmachinevergelijken.nl^$all
 ||brookstreetfutures.eu^$all
 ||brother.eu^$all
@@ -547,6 +552,7 @@
 ||computerhulpdieren.nl^$all
 ||comtoneroki.es^$all
 ||comunitamindful.it^$all
+||conceptvaning.fr^$all
 ||connektyou.fr^$all
 ||consorzioastro.it^$all
 ||controle-technique-la-ferte-mace.fr^$all
@@ -789,6 +795,7 @@
 ||elboitaly.pl^$all
 ||elfarodelamujer.es^$all
 ||elisabeth-schoch.ch^$all
+||elisaclementelli.it^$all
 ||elisastella.it^$all
 ||elpsystem.pl^$all
 ||elsonfm.es^$all
@@ -824,6 +831,7 @@
 ||erka-woningontwerp.nl^$all
 ||escolabressollaxana.es^$all
 ||escuelabarberiaprietos.es^$all
+||escuelaestheticandnail.es^$all
 ||escuelainfantilcasiopea.es^$all
 ||eshopelektro.eu^$all
 ||esi-fernueberwachung.de^$all
@@ -1012,6 +1020,7 @@
 ||gdyyqcyp.com^$all
 ||gebufft.de^$all
 ||genadvice.es^$all
+||gennaro-kochschule.de^$all
 ||genussmitherz.eu^$all
 ||gerardomeiromendoza.es^$all
 ||germania-schlutup.de^$all
@@ -1155,6 +1164,7 @@
 ||hsg-elternbeirat.de^$all
 ||hubertus-ziemianski.pl^$all
 ||hugo-live-band.de^$all
+||huilders.es^$all
 ||humanrights70.eu^$all
 ||hunde-vet.de^$all
 ||hundebedarf-boettcher.de^$all
@@ -1428,6 +1438,7 @@
 ||leonardopaolettisindaco.it^$all
 ||lepiceriegourmande30560.fr^$all
 ||lepusmoda.es^$all
+||leresidenzediviacamilla.it^$all
 ||lerotteghiotte.it^$all
 ||lesbonneschosesdaurelie.fr^$all
 ||leslunettes.it^$all
@@ -1657,6 +1668,7 @@
 ||monasterioescalonias.es^$all
 ||mondaybrews.pl^$all
 ||monika-maratova.eu^$all
+||montepaoneviaggi.it^$all
 ||montevidoncombatte.eu^$all
 ||moresearch.pl^$all
 ||morindainfantil.es^$all
@@ -1708,6 +1720,7 @@
 ||naszalaliga.pl^$all
 ||natas-berlin.de^$all
 ||natrzechkolach.pl^$all
+||naturaecura.it^$all
 ||naturaeshop.fr^$all
 ||naturalflavour.it^$all
 ||naturallymade.fr^$all
@@ -1803,6 +1816,7 @@
 ||openfieldgroup.fr^$all
 ||openforart.eu^$all
 ||operabazar.it^$all
+||oposegur.es^$all
 ||opportunity-marketing.nl^$all
 ||oprogramowanie-call-center.pl^$all
 ||optitarif.de^$all
@@ -1817,6 +1831,7 @@
 ||osswald-wandert.de^$all
 ||osteopathie-poing.de^$all
 ||ostojacamp.pl^$all
+||ostseeurlaub-2019.de^$all
 ||ostseevelosophen.de^$all
 ||otolaser.es^$all
 ||otorinosonzogni.it^$all
@@ -1958,6 +1973,7 @@
 ||progettogiovanicornedo.it^$all
 ||progressiveturfequip.eu^$all
 ||projetactivity.fr^$all
+||prolocofrazionimondovi.it^$all
 ||promedilscuola.it^$all
 ||promoteur-lemistral.fr^$all
 ||protectus.es^$all
@@ -1998,6 +2014,7 @@
 ||racecars24.fr^$all
 ||racerkidz.de^$all
 ||racquetmag.eu^$all
+||radioautsajder.pl^$all
 ||radiocolorata.eu^$all
 ||radoslawswinarski.pl^$all
 ||rainbowwarszawa.pl^$all
@@ -2217,6 +2234,7 @@
 ||slaapmiddelen.eu^$all
 ||slacklinefest-kl.de^$all
 ||slest2-0.eu^$all
+||smartintienda.es^$all
 ||smashdots.nl^$all
 ||smp40.fr^$all
 ||smslove.biz^$all
@@ -2355,6 +2373,7 @@
 ||tenutegucciardi.it^$all
 ||tepe2015.eu^$all
 ||teppichankauf-service.de^$all
+||terrier-blanc-bellement.fr^$all
 ||terz-schlag.de^$all
 ||tes-tin.eu^$all
 ||tessacosmetici.it^$all
@@ -2518,6 +2537,7 @@
 ||vgr-pdl.de^$all
 ||viacolvento.eu^$all
 ||viaexpo.eu^$all
+||vickiandgeirstravelblogg.es^$all
 ||vicoregio.it^$all
 ||villa-almira.eu^$all
 ||villaverdi-8.de^$all
@@ -2586,6 +2606,7 @@
 ||wir-testen-hamburg.de^$all
 ||wirfuermg.de^$all
 ||wit3k.pl^$all
+||wl-concept-piscine.fr^$all
 ||woceanieslow.pl^$all
 ||wohlfuehl-toys.de^$all
 ||wojartrans.pl^$all

@@ -78,6 +78,7 @@
 *://*.aland-imbiss.de/*
 *://*.alanrobertevans.eu/*
 *://*.alarmanlage-finder.de/*
+*://*.albmech.de/*
 *://*.alcyoni.pl/*
 *://*.aldemetrio.it/*
 *://*.aldeon.nl/*
@@ -193,6 +194,7 @@
 *://*.artiste-graphiste.fr/*
 *://*.artprojekt-show.eu/*
 *://*.artrunner.pl/*
+*://*.artstarmed.pl/*
 *://*.artysciprzeciwnienawisci.pl/*
 *://*.aryabarberfranchising.it/*
 *://*.asbp.it/*
@@ -241,6 +243,7 @@
 *://*.avisborgosanmartino.it/*
 *://*.avnettime.eu/*
 *://*.aw-moto.pl/*
+*://*.axel-bossen.de/*
 *://*.ayalgainteriorismo.es/*
 *://*.ayur-read-pro.eu/*
 *://*.azahardeestepona.es/*
@@ -327,6 +330,7 @@
 *://*.bigresidencial.es/*
 *://*.bijdevoordeur.nl/*
 *://*.bijougastronomica.es/*
+*://*.bilanciperlavita.it/*
 *://*.billigaskor.eu/*
 *://*.billybobpop.de/*
 *://*.bimosyn.eu/*
@@ -381,6 +385,7 @@
 *://*.brescianiline.it/*
 *://*.breuer-zelte.de/*
 *://*.brexitamsterdam.nl/*
+*://*.bridge-in-koeln.de/*
 *://*.broedmachinevergelijken.nl/*
 *://*.brookstreetfutures.eu/*
 *://*.brother.eu/*
@@ -547,6 +552,7 @@
 *://*.computerhulpdieren.nl/*
 *://*.comtoneroki.es/*
 *://*.comunitamindful.it/*
+*://*.conceptvaning.fr/*
 *://*.connektyou.fr/*
 *://*.consorzioastro.it/*
 *://*.controle-technique-la-ferte-mace.fr/*
@@ -789,6 +795,7 @@
 *://*.elboitaly.pl/*
 *://*.elfarodelamujer.es/*
 *://*.elisabeth-schoch.ch/*
+*://*.elisaclementelli.it/*
 *://*.elisastella.it/*
 *://*.elpsystem.pl/*
 *://*.elsonfm.es/*
@@ -824,6 +831,7 @@
 *://*.erka-woningontwerp.nl/*
 *://*.escolabressollaxana.es/*
 *://*.escuelabarberiaprietos.es/*
+*://*.escuelaestheticandnail.es/*
 *://*.escuelainfantilcasiopea.es/*
 *://*.eshopelektro.eu/*
 *://*.esi-fernueberwachung.de/*
@@ -1012,6 +1020,7 @@
 *://*.gdyyqcyp.com/*
 *://*.gebufft.de/*
 *://*.genadvice.es/*
+*://*.gennaro-kochschule.de/*
 *://*.genussmitherz.eu/*
 *://*.gerardomeiromendoza.es/*
 *://*.germania-schlutup.de/*
@@ -1155,6 +1164,7 @@
 *://*.hsg-elternbeirat.de/*
 *://*.hubertus-ziemianski.pl/*
 *://*.hugo-live-band.de/*
+*://*.huilders.es/*
 *://*.humanrights70.eu/*
 *://*.hunde-vet.de/*
 *://*.hundebedarf-boettcher.de/*
@@ -1428,6 +1438,7 @@
 *://*.leonardopaolettisindaco.it/*
 *://*.lepiceriegourmande30560.fr/*
 *://*.lepusmoda.es/*
+*://*.leresidenzediviacamilla.it/*
 *://*.lerotteghiotte.it/*
 *://*.lesbonneschosesdaurelie.fr/*
 *://*.leslunettes.it/*
@@ -1657,6 +1668,7 @@
 *://*.monasterioescalonias.es/*
 *://*.mondaybrews.pl/*
 *://*.monika-maratova.eu/*
+*://*.montepaoneviaggi.it/*
 *://*.montevidoncombatte.eu/*
 *://*.moresearch.pl/*
 *://*.morindainfantil.es/*
@@ -1708,6 +1720,7 @@
 *://*.naszalaliga.pl/*
 *://*.natas-berlin.de/*
 *://*.natrzechkolach.pl/*
+*://*.naturaecura.it/*
 *://*.naturaeshop.fr/*
 *://*.naturalflavour.it/*
 *://*.naturallymade.fr/*
@@ -1803,6 +1816,7 @@
 *://*.openfieldgroup.fr/*
 *://*.openforart.eu/*
 *://*.operabazar.it/*
+*://*.oposegur.es/*
 *://*.opportunity-marketing.nl/*
 *://*.oprogramowanie-call-center.pl/*
 *://*.optitarif.de/*
@@ -1817,6 +1831,7 @@
 *://*.osswald-wandert.de/*
 *://*.osteopathie-poing.de/*
 *://*.ostojacamp.pl/*
+*://*.ostseeurlaub-2019.de/*
 *://*.ostseevelosophen.de/*
 *://*.otolaser.es/*
 *://*.otorinosonzogni.it/*
@@ -1958,6 +1973,7 @@
 *://*.progettogiovanicornedo.it/*
 *://*.progressiveturfequip.eu/*
 *://*.projetactivity.fr/*
+*://*.prolocofrazionimondovi.it/*
 *://*.promedilscuola.it/*
 *://*.promoteur-lemistral.fr/*
 *://*.protectus.es/*
@@ -1998,6 +2014,7 @@
 *://*.racecars24.fr/*
 *://*.racerkidz.de/*
 *://*.racquetmag.eu/*
+*://*.radioautsajder.pl/*
 *://*.radiocolorata.eu/*
 *://*.radoslawswinarski.pl/*
 *://*.rainbowwarszawa.pl/*
@@ -2217,6 +2234,7 @@
 *://*.slaapmiddelen.eu/*
 *://*.slacklinefest-kl.de/*
 *://*.slest2-0.eu/*
+*://*.smartintienda.es/*
 *://*.smashdots.nl/*
 *://*.smp40.fr/*
 *://*.smslove.biz/*
@@ -2355,6 +2373,7 @@
 *://*.tenutegucciardi.it/*
 *://*.tepe2015.eu/*
 *://*.teppichankauf-service.de/*
+*://*.terrier-blanc-bellement.fr/*
 *://*.terz-schlag.de/*
 *://*.tes-tin.eu/*
 *://*.tessacosmetici.it/*
@@ -2518,6 +2537,7 @@
 *://*.vgr-pdl.de/*
 *://*.viacolvento.eu/*
 *://*.viaexpo.eu/*
+*://*.vickiandgeirstravelblogg.es/*
 *://*.vicoregio.it/*
 *://*.villa-almira.eu/*
 *://*.villaverdi-8.de/*
@@ -2586,6 +2606,7 @@
 *://*.wir-testen-hamburg.de/*
 *://*.wirfuermg.de/*
 *://*.wit3k.pl/*
+*://*.wl-concept-piscine.fr/*
 *://*.woceanieslow.pl/*
 *://*.wohlfuehl-toys.de/*
 *://*.wojartrans.pl/*
