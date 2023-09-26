@@ -31,6 +31,7 @@
 ||abra-ka-dabra-decoration.fr^$all
 ||abschleppdienst-thielmann.de^$all
 ||absolventicum.de^$all
+||absorlan.de^$all
 ||abteilung7bigband.de^$all
 ||accademiadelcinemaares.it^$all
 ||aceconseileval.fr^$all
@@ -54,6 +55,7 @@
 ||adwokat-tabor.pl^$all
 ||adwokat-windykacja.pl^$all
 ||adwokatkaras.pl^$all
+||aedilegno.it^$all
 ||africanqueens.it^$all
 ||afrikakette.de^$all
 ||afslankpillen2017nl.eu^$all
@@ -112,6 +114,7 @@
 ||amcfatmayon.de^$all
 ||americanford.de^$all
 ||americansportsoutlet.eu^$all
+||amicidelcassini.it^$all
 ||amicidicortina.it^$all
 ||amiciwarszawa.pl^$all
 ||amondo.it^$all
@@ -130,6 +133,7 @@
 ||angielski-w-it.pl^$all
 ||angielskipopolsku.pl^$all
 ||animaband.pl^$all
+||animalandiagiarre.it^$all
 ||animalhotelsiedlisko.pl^$all
 ||anitared.es^$all
 ||anjaralogistics.fr^$all
@@ -183,6 +187,7 @@
 ||arresto-momentum.de^$all
 ||ars-passau.de^$all
 ||art-life-24.de^$all
+||artcontis.fr^$all
 ||artdutoit35.fr^$all
 ||arteparrucchieriestetica.it^$all
 ||arteryproject.eu^$all
@@ -257,6 +262,7 @@
 ||backstage-nice-metropole.fr^$all
 ||baeckerei-kaltenbach.de^$all
 ||bagheriatech.it^$all
+||bakalorz-sportshop.de^$all
 ||baldoinrete.eu^$all
 ||balkon-bebauung.de^$all
 ||ballenro.fr^$all
@@ -309,6 +315,7 @@
 ||benjisurlesroutes.fr^$all
 ||bergaminopellet.eu^$all
 ||berlin-arrival.de^$all
+||berlin-kids-psychotherapy.de^$all
 ||berliner-menschen-helfen.de^$all
 ||berlinlash.de^$all
 ||beschaeftigtentest.de^$all
@@ -334,6 +341,7 @@
 ||billigaskor.eu^$all
 ||billybobpop.de^$all
 ||bimosyn.eu^$all
+||binas-bs.de^$all
 ||bio-cleaner.fr^$all
 ||bionexenergy.pl^$all
 ||biorak.pl^$all
@@ -475,9 +483,11 @@
 ||centralrico.es^$all
 ||centreo-84.fr^$all
 ||centrolog.es^$all
+||centrologopedicodecanarias.es^$all
 ||centroneopsiche.it^$all
 ||ceramercato.pl^$all
 ||ceramiccoloursindia.eu^$all
+||ceraver.it^$all
 ||cerramientopistasdeportivas.es^$all
 ||cesapsrls.it^$all
 ||cespednewgarden.es^$all
@@ -598,6 +608,7 @@
 ||cukiernialucynka.pl^$all
 ||cult-stylz.de^$all
 ||culture-med.eu^$all
+||cupidy.de^$all
 ||curesgentgrancrm.es^$all
 ||cutundcolor-byinaschmidt.de^$all
 ||cvlostendales.es^$all
@@ -681,6 +692,7 @@
 ||die-ausmister.de^$all
 ||die-langstedter.de^$all
 ||die-vogts.de^$all
+||dielieferbar.de^$all
 ||dieter-urbanczyk.de^$all
 ||dietetyk-zimnoch.pl^$all
 ||diezyseis.es^$all
@@ -807,6 +819,7 @@
 ||emiliaariemma.it^$all
 ||emotiondefrance.fr^$all
 ||emprendekit.es^$all
+||emprunterre.fr^$all
 ||emstacconesrl.it^$all
 ||encork.eu^$all
 ||energiatworcza.pl^$all
@@ -835,6 +848,7 @@
 ||escuelainfantilcasiopea.es^$all
 ||eshopelektro.eu^$all
 ||esi-fernueberwachung.de^$all
+||esportnordcup-sh.de^$all
 ||espresso-bar-braunschweig.de^$all
 ||espritssinguliers.fr^$all
 ||est2.es^$all
@@ -876,6 +890,7 @@
 ||fabioscandola.it^$all
 ||fabrianoedintorni.it^$all
 ||fabul.de^$all
+||fad-tosca.it^$all
 ||fadotrans.de^$all
 ||fahrrad-worldtravel.de^$all
 ||fahrzeugbau-miro.de^$all
@@ -1019,6 +1034,7 @@
 ||gdr-wuppertal.de^$all
 ||gdyyqcyp.com^$all
 ||gebufft.de^$all
+||gemaelde-boerse.de^$all
 ||genadvice.es^$all
 ||gennaro-kochschule.de^$all
 ||genussmitherz.eu^$all
@@ -1062,11 +1078,13 @@
 ||gopro9.com^$all
 ||gp-move.eu^$all
 ||gradeproject.eu^$all
+||gradientphoto.fr^$all
 ||graficheonline.it^$all
 ||grafmoll.ch^$all
 ||grafomanka.pl^$all
 ||grainesatouts.fr^$all
 ||grandemaison-fontainebleau.fr^$all
+||granita.es^$all
 ||grappolorosso.it^$all
 ||grashuepfer-im-eichholz.de^$all
 ||greenfridaygolf.it^$all
@@ -1185,6 +1203,7 @@
 ||i2x.fr^$all
 ||ibda-online.de^$all
 ||ibethelbaptist.com^$all
+||ibizao2.es^$all
 ||ibowtech.com^$all
 ||iccti.eu^$all
 ||icedealz.de^$all
@@ -1236,6 +1255,7 @@
 ||innobioeco2.fr^$all
 ||innovation-entwicklung.de^$all
 ||inpraiseofchina.com^$all
+||insel-poel-landhaus-am-meer.de^$all
 ||inside-tt.de^$all
 ||instaltech-ad.pl^$all
 ||institutamazone.fr^$all
@@ -1373,6 +1393,7 @@
 ||ktforce.eu^$all
 ||kulturtur.eu^$all
 ||kunstpostkartengraf.de^$all
+||kunstszene-leipzig.de^$all
 ||kunz-modeundmehr.de^$all
 ||kwiaciarniastaszowska.pl^$all
 ||kwiatynagranacie.pl^$all
@@ -1474,11 +1495,13 @@
 ||littlemagics.eu^$all
 ||littleshoes.fr^$all
 ||livestream-rockt.de^$all
+||lobuzownia.pl^$all
 ||locajet.fr^$all
 ||locationaltavista.fr^$all
 ||locationbenne-lyon.fr^$all
 ||logisol.fr^$all
 ||logole.de^$all
+||loitz-stiftung.de^$all
 ||loliballesta.es^$all
 ||lolight.eu^$all
 ||londonshotels.eu^$all
@@ -1505,6 +1528,7 @@
 ||luisafassino.it^$all
 ||lumiere-lab.pl^$all
 ||lupka24.pl^$all
+||lustambild.de^$all
 ||luther-trifft-franziskus.de^$all
 ||lutz-baumgaertel.de^$all
 ||luxeproperty.pl^$all
@@ -1512,6 +1536,7 @@
 ||luxusni-kabelky.eu^$all
 ||lyndabeauty.fr^$all
 ||lynnssalon.nl^$all
+||lyonwangchao.fr^$all
 ||lzmddqfw.com^$all
 ||mac-info.pl^$all
 ||macadamya.it^$all
@@ -1536,6 +1561,7 @@
 ||malenews.nl^$all
 ||malewesele.pl^$all
 ||malina-24.eu^$all
+||malukamakea.es^$all
 ||mamalila-showroom.de^$all
 ||mamawlodzi.pl^$all
 ||mamytonawinylu.pl^$all
@@ -1584,6 +1610,7 @@
 ||mazda-service-gebrauchtwagen-zentrum-helmstedt.de^$all
 ||mazury-nocleg.pl^$all
 ||mbcotton.pl^$all
+||mbe-oldenburg.de^$all
 ||mcarre.eu^$all
 ||mcformations.fr^$all
 ||mcsautron.fr^$all
@@ -1816,6 +1843,7 @@
 ||openfieldgroup.fr^$all
 ||openforart.eu^$all
 ||operabazar.it^$all
+||opiekaandy.pl^$all
 ||oposegur.es^$all
 ||opportunity-marketing.nl^$all
 ||oprogramowanie-call-center.pl^$all
@@ -2035,6 +2063,7 @@
 ||recoctopus.eu^$all
 ||recre73.fr^$all
 ||rectificadoscorega.es^$all
+||recuperesudinero.es^$all
 ||reczpol.pl^$all
 ||reddit.red^$all
 ||redhousetoys.pl^$all
@@ -2183,6 +2212,7 @@
 ||senli.pl^$all
 ||senseofcontact.nl^$all
 ||seo-katalogi.eu^$all
+||seratoncastelmezzano.it^$all
 ||serbupoker.biz^$all
 ||sercekryspinka.eu^$all
 ||serinco.es^$all
@@ -2254,6 +2284,7 @@
 ||solutions-entreprise.fr^$all
 ||sonnenblick-wildenfels.de^$all
 ||sopchy.de^$all
+||sophia-moschou.de^$all
 ||sophyangelflorist.com^$all
 ||soul-spa-berlin.de^$all
 ||soulfoodvalentinakusche.de^$all
@@ -2270,6 +2301,7 @@
 ||spd-wandlitz.de^$all
 ||spectankcanarias.es^$all
 ||speedcoaching.es^$all
+||speeltuinthuis.nl^$all
 ||spencerpub.pl^$all
 ||speurwerker.nl^$all
 ||spiritoemateria.it^$all
@@ -2370,6 +2402,7 @@
 ||teentalent.es^$all
 ||teichert-kuentzler.de^$all
 ||telon.pl^$all
+||temismarketing.es^$all
 ||tenutegucciardi.it^$all
 ||tepe2015.eu^$all
 ||teppichankauf-service.de^$all
@@ -2421,6 +2454,7 @@
 ||tomshuette-hohwacht.de^$all
 ||tong-personnalisable.fr^$all
 ||tonimartos.es^$all
+||tonwerk-bamberg.de^$all
 ||toocanhelp.eu^$all
 ||toonk.pl^$all
 ||toonkor130.biz^$all
