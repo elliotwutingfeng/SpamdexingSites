@@ -263,6 +263,8 @@
 ||baeckerei-kaltenbach.de^$all
 ||bagheriatech.it^$all
 ||bakalorz-sportshop.de^$all
+||bakustw.es^$all
+||balaustaaccionescenica.es^$all
 ||baldoinrete.eu^$all
 ||balkon-bebauung.de^$all
 ||ballenro.fr^$all
@@ -369,6 +371,7 @@
 ||bluming-lab.fr^$all
 ||blutegel-heilpraxis.de^$all
 ||blutelecomunicazioni.it^$all
+||bmplen.pl^$all
 ||bo-sushi.fr^$all
 ||bochenekmateusz.pl^$all
 ||bodenbelag-neuss.de^$all
@@ -420,6 +423,7 @@
 ||cacioepepe-muenchen.de^$all
 ||cadeauteam.nl^$all
 ||cafe-casablanca.de^$all
+||caffepatavino.it^$all
 ||calcestruzzivalleverde.it^$all
 ||call-center-w-chmurze.pl^$all
 ||callthefuture.fr^$all
@@ -549,6 +553,7 @@
 ||cocowebsy.pl^$all
 ||cofise.es^$all
 ||coincarre.fr^$all
+||colaboras.es^$all
 ||colega-fred.es^$all
 ||colegiojoseescandon.es^$all
 ||coloriehobby.it^$all
@@ -605,7 +610,9 @@
 ||cryotshock.it^$all
 ||csf21.pl^$all
 ||cti-demontage.de^$all
+||cudillerocultura.es^$all
 ||cukiernialucynka.pl^$all
+||culot.it^$all
 ||cult-stylz.de^$all
 ||culture-med.eu^$all
 ||cupidy.de^$all
@@ -640,6 +647,7 @@
 ||daily.social^$all
 ||damaris-robin.de^$all
 ||damas-style.de^$all
+||damianpostek.pl^$all
 ||danas-perfect-nails.de^$all
 ||dance4fun.es^$all
 ||daniquevantilburg.nl^$all
@@ -771,6 +779,7 @@
 ||eadmini.pl^$all
 ||easeandsee.eu^$all
 ||easy-voucher.de^$all
+||easyrenti.pl^$all
 ||eclubpolito.it^$all
 ||ecm-uniecampus.it^$all
 ||eco-ricicli-filiere.it^$all
@@ -991,6 +1000,7 @@
 ||fp7tornado.eu^$all
 ||francescolangella.it^$all
 ||franciscofiardo.fr^$all
+||franciseuropa.es^$all
 ||francofasulo.it^$all
 ||frankdeblok.fr^$all
 ||frankrijk-huurtent.nl^$all
@@ -1295,6 +1305,7 @@
 ||jbbb.fr^$all
 ||jbfilm.pl^$all
 ||jdelivery.it^$all
+||jelena-grjasnowa.de^$all
 ||jennyundbenny.de^$all
 ||jereconditionne.fr^$all
 ||jeremielbaz.fr^$all
@@ -1423,6 +1434,7 @@
 ||laphee.fr^$all
 ||larenaissanceverte.fr^$all
 ||lasaludintegral.es^$all
+||lasargentinas.es^$all
 ||laserllum.es^$all
 ||laserprouslugilaserem.pl^$all
 ||lasuite-depotvente.fr^$all
@@ -1460,6 +1472,7 @@
 ||lepiceriegourmande30560.fr^$all
 ||lepusmoda.es^$all
 ||leresidenzediviacamilla.it^$all
+||lerntherapie-epple.de^$all
 ||lerotteghiotte.it^$all
 ||lesbonneschosesdaurelie.fr^$all
 ||leslunettes.it^$all
@@ -1635,6 +1648,7 @@
 ||mejoresmalaga.es^$all
 ||melanieblaesing.de^$all
 ||meletmeubels.nl^$all
+||melodiadiety.pl^$all
 ||memeclothing.it^$all
 ||memorietraumatiche.it^$all
 ||menoda.nl^$all
@@ -2042,6 +2056,7 @@
 ||racecars24.fr^$all
 ||racerkidz.de^$all
 ||racquetmag.eu^$all
+||radio-nelandia.nl^$all
 ||radioautsajder.pl^$all
 ||radiocolorata.eu^$all
 ||radoslawswinarski.pl^$all
@@ -2064,6 +2079,7 @@
 ||recre73.fr^$all
 ||rectificadoscorega.es^$all
 ||recuperesudinero.es^$all
+||recursodron.es^$all
 ||reczpol.pl^$all
 ||reddit.red^$all
 ||redhousetoys.pl^$all
@@ -2092,9 +2108,11 @@
 ||restaurantecaspagesibiza.es^$all
 ||restaurantecastellon.es^$all
 ||restaurantlecardinal92.fr^$all
+||retoburgeralicante.es^$all
 ||retro-meca.fr^$all
 ||retrogustobraceria.it^$all
 ||revhaut.com^$all
+||rhapsodijatrio.it^$all
 ||rheingau-marktplatz.de^$all
 ||richardmediagroup.eu^$all
 ||ricreatori.it^$all
@@ -2243,6 +2261,7 @@
 ||sidroswimwear.pl^$all
 ||sienti.pl^$all
 ||silvialovetere.it^$all
+||silviamarra.es^$all
 ||silviolicata.it^$all
 ||simgata.pl^$all
 ||simpletalent.pl^$all
@@ -2320,6 +2339,7 @@
 ||stadstrompettisten.nl^$all
 ||stadtelternrat.de^$all
 ||stahl-rohr-moebel.de^$all
+||staliklienci.pl^$all
 ||starke-region-zm.de^$all
 ||staroceska.eu^$all
 ||startupjunkies.eu^$all
