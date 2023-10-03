@@ -179,6 +179,7 @@
 *://*.arcoanticobb.it/*
 *://*.arcoorion.es/*
 *://*.ardeaoltreilponte.it/*
+*://*.arionn2ska.pl/*
 *://*.aristokrass.de/*
 *://*.aritex.pl/*
 *://*.arkam-zabezpieczenia.pl/*
@@ -237,6 +238,7 @@
 *://*.auloupmontpellier.fr/*
 *://*.aupaysdusoleilcouchant.fr/*
 *://*.auroraimpiantisrl.it/*
+*://*.autismos.es/*
 *://*.autodoprava-mart.eu/*
 *://*.automar-bilgoraj.pl/*
 *://*.automotoserwismikolajuk.pl/*
@@ -271,6 +273,7 @@
 *://*.baldoinrete.eu/*
 *://*.balkon-bebauung.de/*
 *://*.ballenro.fr/*
+*://*.ballonello.de/*
 *://*.ballsfrezze.fr/*
 *://*.balustradex.pl/*
 *://*.bambulka.eu/*
@@ -317,6 +320,7 @@
 *://*.benafigosetfils.fr/*
 *://*.benbnummertje15.nl/*
 *://*.benesoft.es/*
+*://*.benjamin-mabille.fr/*
 *://*.benjamin-nsingi.fr/*
 *://*.benjisurlesroutes.fr/*
 *://*.bergaminopellet.eu/*
@@ -359,6 +363,7 @@
 *://*.bistur.it/*
 *://*.biuroanma.pl/*
 *://*.biuroobslugitransportu.pl/*
+*://*.biznesdaddy.pl/*
 *://*.bizplatform.pl/*
 *://*.blackfridayakcja.pl/*
 *://*.blackthornian.eu/*
@@ -388,6 +393,7 @@
 *://*.bonstech.eu/*
 *://*.bonumcommune.pl/*
 *://*.booking-fotografia.de/*
+*://*.bookua.pl/*
 *://*.bootsvermietung-fuerstenberg.de/*
 *://*.boroszewo.pl/*
 *://*.borrelliboutique.it/*
@@ -489,6 +495,7 @@
 *://*.cedricvillani2022.fr/*
 *://*.ceetc.es/*
 *://*.cefap.eu/*
+*://*.cefidg.eu/*
 *://*.celebritygolfclub.de/*
 *://*.celestemarbella.es/*
 *://*.cemoaspontes.es/*
@@ -504,6 +511,7 @@
 *://*.cesapsrls.it/*
 *://*.cespednewgarden.es/*
 *://*.cestronic.de/*
+*://*.cetusa.es/*
 *://*.ceuvideo.eu/*
 *://*.cevitaneiconsultori.it/*
 *://*.cftcgroupeorange.fr/*
@@ -610,6 +618,7 @@
 *://*.creperie-chez-les-ducs-nantes.fr/*
 *://*.creperielatouline.fr/*
 *://*.crisiena.it/*
+*://*.cristelcolomb-psychologue.fr/*
 *://*.croceverdefaggiano.it/*
 *://*.crossfer-schnellspanner.de/*
 *://*.crossfitstendal.de/*
@@ -673,6 +682,7 @@
 *://*.dcl-kanzlei.de/*
 *://*.ddtspareparts.it/*
 *://*.deathland.eu/*
+*://*.debbiejellinsky.de/*
 *://*.decapage-gommage.fr/*
 *://*.deconstruye.es/*
 *://*.deftignaschen.de/*
@@ -681,6 +691,7 @@
 *://*.dehesagrandealcala.es/*
 *://*.dehesasextremenas.es/*
 *://*.deichnaht.de/*
+*://*.deinearztwebseite.de/*
 *://*.deittitreffit.eu/*
 *://*.delaherayrabadan.es/*
 *://*.deli-deko.de/*
@@ -784,6 +795,7 @@
 *://*.e-dos.pl/*
 *://*.e-girlheaven.com/*
 *://*.e-hack.pl/*
+*://*.e-myart.pl/*
 *://*.e-poradnia.edu.pl/*
 *://*.e-sufity.pl/*
 *://*.ea-we.de/*
@@ -988,6 +1000,7 @@
 *://*.foedusrealestate.it/*
 *://*.fondation-rhenane.eu/*
 *://*.fondointegro.it/*
+*://*.fonosynteza.pl/*
 *://*.food-fetish.de/*
 *://*.foodservice-seip.de/*
 *://*.football-em2001.de/*
@@ -1121,6 +1134,7 @@
 *://*.groupescolairehenrisarrado.fr/*
 *://*.grsmembers.eu/*
 *://*.gruniverpal.fr/*
+*://*.gruparenovatio.pl/*
 *://*.grupisenda.es/*
 *://*.gruppodimichele.it/*
 *://*.gruppoverderoma.it/*
@@ -1147,6 +1161,7 @@
 *://*.hall-of-aesir.fr/*
 *://*.halomoto.pl/*
 *://*.hand-hund-herz.de/*
+*://*.handan-haare.de/*
 *://*.handstaubsauger24.eu/*
 *://*.handwerk-franken.de/*
 *://*.handwerk-mit-system.de/*
@@ -1194,6 +1209,7 @@
 *://*.hochzeit-remsmurr.de/*
 *://*.hochzeitcaronorman.de/*
 *://*.hoerverlag-berlin.de/*
+*://*.hofalbrecht.nl/*
 *://*.holophore.fr/*
 *://*.homeble.eu/*
 *://*.homeboutiquecagliari.it/*
@@ -1265,6 +1281,7 @@
 *://*.immobilien-gutachter-online.de/*
 *://*.immobilienprofi-leipzig.de/*
 *://*.immothailand.de/*
+*://*.implanttihoito.eu/*
 *://*.impo.es/*
 *://*.inametal.es/*
 *://*.inboundtours.eu/*
@@ -1347,6 +1364,7 @@
 *://*.josevicenteabogado.es/*
 *://*.jouerautennis.fr/*
 *://*.jozwiakrafal.pl/*
+*://*.ju-schwalbach.de/*
 *://*.jubilee-ace-info.de/*
 *://*.jubilu.pl/*
 *://*.jugendfeuerwehr-riepsdorf.de/*
@@ -1375,6 +1393,7 @@
 *://*.karolinadietetyk.pl/*
 *://*.karolptaszkiewicz.pl/*
 *://*.karwat-psychoterapia.pl/*
+*://*.kasamedyka.pl/*
 *://*.kassandraroberts.com/*
 *://*.katarzynagarbas.pl/*
 *://*.kavoia.de/*
@@ -1394,11 +1413,13 @@
 *://*.kirche-st-maria-st-vicelin.de/*
 *://*.kishakatolike.eu/*
 *://*.kisumukroniek.nl/*
+*://*.kita-suedfelstrasse.de/*
 *://*.kitchen93.de/*
 *://*.kiwu-witwe.de/*
 *://*.kizomba-berlinal.de/*
 *://*.kja-regio-och.de/*
 *://*.kkrescue.pl/*
+*://*.klaus-kaschuba.de/*
 *://*.klebaum.de/*
 *://*.kleinegrundschulemewegen.de/*
 *://*.kleinerbalkon.de/*
@@ -1488,6 +1509,7 @@
 *://*.legalintech.pl/*
 *://*.legalmarketing.pl/*
 *://*.lehrer-geschenke.de/*
+*://*.lektorat-theissen.de/*
 *://*.lemoinebistro.de/*
 *://*.lemondechange.fr/*
 *://*.lemondeoled.fr/*
@@ -1563,6 +1585,7 @@
 *://*.lrg-tp.fr/*
 *://*.lt-global.eu/*
 *://*.lubieczasem.pl/*
+*://*.lucanpeluqueriacanina.es/*
 *://*.luccabikeevolution.it/*
 *://*.luigiscoglio.it/*
 *://*.luisafassino.it/*
@@ -1596,6 +1619,7 @@
 *://*.magngym.de/*
 *://*.mahnu.fr/*
 *://*.mainradweg-service.de/*
+*://*.maisondescopeaux.fr/*
 *://*.makeitup.es/*
 *://*.malagawellness.es/*
 *://*.malenews.nl/*
@@ -1729,6 +1753,7 @@
 *://*.moda-icone-woods.fr/*
 *://*.modelcrop.org/*
 *://*.modellbahnksm.de/*
+*://*.modne-zegarki.eu/*
 *://*.modnenastolatki.pl/*
 *://*.modular360.es/*
 *://*.moebelbiss.de/*
@@ -1912,6 +1937,7 @@
 *://*.otticawalter.it/*
 *://*.ottoottonull.de/*
 *://*.ourbigday.nl/*
+*://*.outletdisn.de/*
 *://*.ouverture-de-portes.fr/*
 *://*.over50footballcuneo.it/*
 *://*.owiprod.fr/*
@@ -2098,6 +2124,7 @@
 *://*.radioautsajder.pl/*
 *://*.radiocolorata.eu/*
 *://*.radoslawswinarski.pl/*
+*://*.raffaelepisano.it/*
 *://*.rainbowwarszawa.pl/*
 *://*.rainer-hagge.de/*
 *://*.rajapizzeria-moers.de/*
@@ -2143,6 +2170,7 @@
 *://*.residencialriberadelahispanidad.es/*
 *://*.resilire.it/*
 *://*.resorgo.it/*
+*://*.ressel-aesthetic.de/*
 *://*.restauracja-maria.pl/*
 *://*.restaurantecaspagesibiza.es/*
 *://*.restaurantecastellon.es/*
@@ -2172,6 +2200,7 @@
 *://*.rom-up.eu/*
 *://*.ron-telesky.de/*
 *://*.rootsfisch.de/*
+*://*.rosaluquehosteleria.es/*
 *://*.rosenhainerkleeblatt.de/*
 *://*.rotaryclub-kalender.de/*
 *://*.routalia.it/*
@@ -2216,6 +2245,7 @@
 *://*.sanukespana.es/*
 *://*.sarahburroni.it/*
 *://*.sarahgonidec.fr/*
+*://*.sarahxdiaries.de/*
 *://*.sarasazo.it/*
 *://*.sarl-jm-facade79.fr/*
 *://*.sasloue.fr/*
@@ -2326,6 +2356,7 @@
 *://*.smarek.pl/*
 *://*.smartintienda.es/*
 *://*.smashdots.nl/*
+*://*.smok-stefano.pl/*
 *://*.smp40.fr/*
 *://*.smslove.biz/*
 *://*.smtvloerverwarming.nl/*
@@ -2416,6 +2447,7 @@
 *://*.successioneserena.it/*
 *://*.suche-geschaeftsidee.de/*
 *://*.suitevita.de/*
+*://*.sumitorial.es/*
 *://*.summer-of-magic-radio.de/*
 *://*.summerbeach.it/*
 *://*.sundayismondayhome.pl/*
@@ -2439,6 +2471,7 @@
 *://*.taichiverbindet.de/*
 *://*.taimup.it/*
 *://*.taiti.es/*
+*://*.tajjofindia.de/*
 *://*.talentinelbassolazio.it/*
 *://*.talleresjesusgil.es/*
 *://*.talleresniza.es/*
@@ -2610,6 +2643,7 @@
 *://*.v-sod.es/*
 *://*.vakschilderzutphen.nl/*
 *://*.valderaeventi.it/*
+*://*.valdevilano.es/*
 *://*.valmypermis.fr/*
 *://*.valorandco.nl/*
 *://*.valtellinatrailbike.it/*
@@ -2634,6 +2668,7 @@
 *://*.vgr-pdl.de/*
 *://*.viacolvento.eu/*
 *://*.viaexpo.eu/*
+*://*.vicapasatraducciones.es/*
 *://*.vickiandgeirstravelblogg.es/*
 *://*.vicoregio.it/*
 *://*.villa-almira.eu/*
@@ -2747,6 +2782,7 @@
 *://*.youreca.it/*
 *://*.yslhandbags.net/*
 *://*.yummyluli.es/*
+*://*.yummypolitics.de/*
 *://*.yvoriresearch.de/*
 *://*.zabieganinoca.pl/*
 *://*.zahnarzt-debald.de/*
