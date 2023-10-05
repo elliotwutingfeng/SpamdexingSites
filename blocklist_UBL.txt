@@ -39,6 +39,7 @@
 *://*.acgmodels.pl/*
 *://*.acheref.fr/*
 *://*.achordgroup.com/*
+*://*.acmagenta.it/*
 *://*.acquagold.it/*
 *://*.acscu.net/*
 *://*.adam-komputery.pl/*
@@ -56,6 +57,7 @@
 *://*.adwokat-windykacja.pl/*
 *://*.adwokatkaras.pl/*
 *://*.aedilegno.it/*
+*://*.aferco.es/*
 *://*.africanqueens.it/*
 *://*.afrikakette.de/*
 *://*.afslankpillen2017nl.eu/*
@@ -259,6 +261,7 @@
 *://*.azahardeestepona.es/*
 *://*.azartyduqu.de/*
 *://*.azartyozo.de/*
+*://*.azzurrimania.it/*
 *://*.babole.es/*
 *://*.baby-bear.pl/*
 *://*.babykurse-mit-birgit.de/*
@@ -1076,6 +1079,7 @@
 *://*.genadvice.es/*
 *://*.gennaro-kochschule.de/*
 *://*.genussmitherz.eu/*
+*://*.gerardatema.nl/*
 *://*.gerardomeiromendoza.es/*
 *://*.germania-schlutup.de/*
 *://*.gesternstadt.eu/*
@@ -1084,6 +1088,7 @@
 *://*.gfmsoluciones.es/*
 *://*.ghislaine-yagoubi.fr/*
 *://*.gianlucacavallini.it/*
+*://*.giannibiccari.it/*
 *://*.giannicavannelli.fr/*
 *://*.giardino360.it/*
 *://*.gieldowymix.pl/*
@@ -1136,6 +1141,7 @@
 *://*.gruniverpal.fr/*
 *://*.gruparenovatio.pl/*
 *://*.grupisenda.es/*
+*://*.gruppoautoclass.it/*
 *://*.gruppodimichele.it/*
 *://*.gruppoverderoma.it/*
 *://*.gruzoperevozki.eu/*
@@ -1453,6 +1459,7 @@
 *://*.kunz-modeundmehr.de/*
 *://*.kwiaciarniastaszowska.pl/*
 *://*.kwiatynagranacie.pl/*
+*://*.kyboe.es/*
 *://*.kyoba.es/*
 *://*.la-margot.it/*
 *://*.la-roulette.it/*
@@ -1680,6 +1687,7 @@
 *://*.mcarre.eu/*
 *://*.mcformations.fr/*
 *://*.mcsautron.fr/*
+*://*.md-viko.de/*
 *://*.mdtclinic.pl/*
 *://*.meblemetalowesklep.pl/*
 *://*.meblepedrak.pl/*
@@ -1800,6 +1808,7 @@
 *://*.mutisporelforoescape.es/*
 *://*.muvy3d.es/*
 *://*.mv-musicotherapeute.fr/*
+*://*.mwg-wordelmann.de/*
 *://*.mwitwicka.pl/*
 *://*.mwk-foerderungen.de/*
 *://*.myfav.pics/*
@@ -1844,6 +1853,7 @@
 *://*.ngitaly.it/*
 *://*.nice-soutien-scolaire.fr/*
 *://*.nicolasmaups.nl/*
+*://*.nidomafalda.it/*
 *://*.nidopoland.pl/*
 *://*.niebieskislon.edu.pl/*
 *://*.nightofflowers.es/*
@@ -1918,6 +1928,7 @@
 *://*.oposegur.es/*
 *://*.opportunity-marketing.nl/*
 *://*.oprogramowanie-call-center.pl/*
+*://*.optik-drehsen-sindorf.de/*
 *://*.optitarif.de/*
 *://*.or-jeu.fr/*
 *://*.oralsurgerysupplies.it/*
@@ -2261,6 +2272,7 @@
 *://*.scansave.pl/*
 *://*.scarabedejade.fr/*
 *://*.scenadumok.eu/*
+*://*.scenografieflorealilarosarossa.it/*
 *://*.scheherasade.eu/*
 *://*.scherershaeusla.de/*
 *://*.schildersbedrijfvanmullem.nl/*
@@ -2281,6 +2293,7 @@
 *://*.schulbuch-bayern.eu/*
 *://*.schwarzbauer-online.de/*
 *://*.schwestern-kaufhaus.de/*
+*://*.schwurverband.de/*
 *://*.scoppitoservizi.it/*
 *://*.scopusrevista.es/*
 *://*.scriptologic.pl/*
@@ -2348,10 +2361,12 @@
 *://*.sklep4baby.pl/*
 *://*.skoellis-beutefang.de/*
 *://*.skotiilash.pl/*
+*://*.skrobiszmeble.pl/*
 *://*.skullsladytattooandgallery.es/*
 *://*.skutrownia.pl/*
 *://*.slaapmiddelen.eu/*
 *://*.slacklinefest-kl.de/*
+*://*.sld-duesseldorf.de/*
 *://*.slest2-0.eu/*
 *://*.smarek.pl/*
 *://*.smartintienda.es/*
@@ -2383,6 +2398,7 @@
 *://*.sozialstation-eichelbaum.de/*
 *://*.sp15jz.pl/*
 *://*.spaciosaiz.es/*
+*://*.spambientepaesaggio.it/*
 *://*.spankwirecams.es/*
 *://*.sparkrestaurant-lezennes.fr/*
 *://*.spartanblasting.com/*
@@ -2447,6 +2463,7 @@
 *://*.successioneserena.it/*
 *://*.suche-geschaeftsidee.de/*
 *://*.suitevita.de/*
+*://*.sumanispa.it/*
 *://*.sumitorial.es/*
 *://*.summer-of-magic-radio.de/*
 *://*.summerbeach.it/*
@@ -2755,6 +2772,7 @@
 *://*.worldsportweb.it/*
 *://*.wp-stats.nl/*
 *://*.wrohelpsukr.pl/*
+*://*.wsandalach.pl/*
 *://*.wundapilates.es/*
 *://*.wyczuciesmaku.pl/*
 *://*.wykrywacz-klamstw.eu/*

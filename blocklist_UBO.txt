@@ -39,6 +39,7 @@
 ||acgmodels.pl^$all
 ||acheref.fr^$all
 ||achordgroup.com^$all
+||acmagenta.it^$all
 ||acquagold.it^$all
 ||acscu.net^$all
 ||adam-komputery.pl^$all
@@ -56,6 +57,7 @@
 ||adwokat-windykacja.pl^$all
 ||adwokatkaras.pl^$all
 ||aedilegno.it^$all
+||aferco.es^$all
 ||africanqueens.it^$all
 ||afrikakette.de^$all
 ||afslankpillen2017nl.eu^$all
@@ -259,6 +261,7 @@
 ||azahardeestepona.es^$all
 ||azartyduqu.de^$all
 ||azartyozo.de^$all
+||azzurrimania.it^$all
 ||babole.es^$all
 ||baby-bear.pl^$all
 ||babykurse-mit-birgit.de^$all
@@ -1076,6 +1079,7 @@
 ||genadvice.es^$all
 ||gennaro-kochschule.de^$all
 ||genussmitherz.eu^$all
+||gerardatema.nl^$all
 ||gerardomeiromendoza.es^$all
 ||germania-schlutup.de^$all
 ||gesternstadt.eu^$all
@@ -1084,6 +1088,7 @@
 ||gfmsoluciones.es^$all
 ||ghislaine-yagoubi.fr^$all
 ||gianlucacavallini.it^$all
+||giannibiccari.it^$all
 ||giannicavannelli.fr^$all
 ||giardino360.it^$all
 ||gieldowymix.pl^$all
@@ -1136,6 +1141,7 @@
 ||gruniverpal.fr^$all
 ||gruparenovatio.pl^$all
 ||grupisenda.es^$all
+||gruppoautoclass.it^$all
 ||gruppodimichele.it^$all
 ||gruppoverderoma.it^$all
 ||gruzoperevozki.eu^$all
@@ -1453,6 +1459,7 @@
 ||kunz-modeundmehr.de^$all
 ||kwiaciarniastaszowska.pl^$all
 ||kwiatynagranacie.pl^$all
+||kyboe.es^$all
 ||kyoba.es^$all
 ||la-margot.it^$all
 ||la-roulette.it^$all
@@ -1680,6 +1687,7 @@
 ||mcarre.eu^$all
 ||mcformations.fr^$all
 ||mcsautron.fr^$all
+||md-viko.de^$all
 ||mdtclinic.pl^$all
 ||meblemetalowesklep.pl^$all
 ||meblepedrak.pl^$all
@@ -1800,6 +1808,7 @@
 ||mutisporelforoescape.es^$all
 ||muvy3d.es^$all
 ||mv-musicotherapeute.fr^$all
+||mwg-wordelmann.de^$all
 ||mwitwicka.pl^$all
 ||mwk-foerderungen.de^$all
 ||myfav.pics^$all
@@ -1844,6 +1853,7 @@
 ||ngitaly.it^$all
 ||nice-soutien-scolaire.fr^$all
 ||nicolasmaups.nl^$all
+||nidomafalda.it^$all
 ||nidopoland.pl^$all
 ||niebieskislon.edu.pl^$all
 ||nightofflowers.es^$all
@@ -1918,6 +1928,7 @@
 ||oposegur.es^$all
 ||opportunity-marketing.nl^$all
 ||oprogramowanie-call-center.pl^$all
+||optik-drehsen-sindorf.de^$all
 ||optitarif.de^$all
 ||or-jeu.fr^$all
 ||oralsurgerysupplies.it^$all
@@ -2261,6 +2272,7 @@
 ||scansave.pl^$all
 ||scarabedejade.fr^$all
 ||scenadumok.eu^$all
+||scenografieflorealilarosarossa.it^$all
 ||scheherasade.eu^$all
 ||scherershaeusla.de^$all
 ||schildersbedrijfvanmullem.nl^$all
@@ -2281,6 +2293,7 @@
 ||schulbuch-bayern.eu^$all
 ||schwarzbauer-online.de^$all
 ||schwestern-kaufhaus.de^$all
+||schwurverband.de^$all
 ||scoppitoservizi.it^$all
 ||scopusrevista.es^$all
 ||scriptologic.pl^$all
@@ -2348,10 +2361,12 @@
 ||sklep4baby.pl^$all
 ||skoellis-beutefang.de^$all
 ||skotiilash.pl^$all
+||skrobiszmeble.pl^$all
 ||skullsladytattooandgallery.es^$all
 ||skutrownia.pl^$all
 ||slaapmiddelen.eu^$all
 ||slacklinefest-kl.de^$all
+||sld-duesseldorf.de^$all
 ||slest2-0.eu^$all
 ||smarek.pl^$all
 ||smartintienda.es^$all
@@ -2383,6 +2398,7 @@
 ||sozialstation-eichelbaum.de^$all
 ||sp15jz.pl^$all
 ||spaciosaiz.es^$all
+||spambientepaesaggio.it^$all
 ||spankwirecams.es^$all
 ||sparkrestaurant-lezennes.fr^$all
 ||spartanblasting.com^$all
@@ -2447,6 +2463,7 @@
 ||successioneserena.it^$all
 ||suche-geschaeftsidee.de^$all
 ||suitevita.de^$all
+||sumanispa.it^$all
 ||sumitorial.es^$all
 ||summer-of-magic-radio.de^$all
 ||summerbeach.it^$all
@@ -2755,6 +2772,7 @@
 ||worldsportweb.it^$all
 ||wp-stats.nl^$all
 ||wrohelpsukr.pl^$all
+||wsandalach.pl^$all
 ||wundapilates.es^$all
 ||wyczuciesmaku.pl^$all
 ||wykrywacz-klamstw.eu^$all
