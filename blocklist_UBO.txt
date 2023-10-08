@@ -22,6 +22,7 @@
 ||4x100coups.fr^$all
 ||5shgniazdo.pl^$all
 ||600-jahre-altenbach.de^$all
+||9spai.es^$all
 ||a2minutidallospedale.it^$all
 ||aaronrodriguez.es^$all
 ||abc-d-kist.de^$all
@@ -87,6 +88,7 @@
 ||alcyoni.pl^$all
 ||aldemetrio.it^$all
 ||aldeon.nl^$all
+||alearning.es^$all
 ||alefarba.pl^$all
 ||alejandraarroyo.es^$all
 ||aletheia-collection.it^$all
@@ -460,6 +462,7 @@
 ||cantoliturgico.it^$all
 ||capitanhook.es^$all
 ||car-brilliance.eu^$all
+||carballoartesania.es^$all
 ||cardamomoeduca.es^$all
 ||carfriend-cologne.de^$all
 ||carlobugada.it^$all
@@ -474,6 +477,7 @@
 ||casadipalma.it^$all
 ||casainnatura.eu^$all
 ||casanieske.it^$all
+||casarebirongo.es^$all
 ||casaruralpradena.es^$all
 ||casevacanzesiracusa.it^$all
 ||cassefortisicure.it^$all
@@ -507,9 +511,11 @@
 ||centrolog.es^$all
 ||centrologopedicodecanarias.es^$all
 ||centroneopsiche.it^$all
+||centrosportivogiannone.it^$all
 ||ceramercato.pl^$all
 ||ceramiccoloursindia.eu^$all
 ||ceraver.it^$all
+||cercolavorobrescia.it^$all
 ||cerramientopistasdeportivas.es^$all
 ||cesapsrls.it^$all
 ||cespednewgarden.es^$all
@@ -594,8 +600,10 @@
 ||coolangatta.eu^$all
 ||coolerup.de^$all
 ||copicopyab.es^$all
+||copimass.es^$all
 ||coposzkole.pl^$all
 ||coriginelis.nl^$all
+||corinnerieber.fr^$all
 ||corona-jobfee.de^$all
 ||corona-schnelltestzentrum-stralsund.de^$all
 ||corona-testcenter-nord.de^$all
@@ -952,6 +960,7 @@
 ||fastbass.de^$all
 ||favs.pics^$all
 ||fcblaubeuren.de^$all
+||fcmoena.it^$all
 ||fdbeaute.fr^$all
 ||fedezu.es^$all
 ||feelfitinbalance.nl^$all
@@ -994,6 +1003,7 @@
 ||flip-ports.eu^$all
 ||flo-rider.de^$all
 ||floradecoration.pl^$all
+||florenzacalzados.es^$all
 ||florissant-wonen.nl^$all
 ||flortel.pl^$all
 ||flouxsarl.fr^$all
@@ -1026,6 +1036,7 @@
 ||fotografiaireneo.es^$all
 ||fotografie-rahmen.de^$all
 ||fotoimagegenova.it^$all
+||fotomedytacje.pl^$all
 ||foulo.fr^$all
 ||fp7tornado.eu^$all
 ||francescolangella.it^$all
@@ -1054,6 +1065,7 @@
 ||fw-muensing.de^$all
 ||g-wood.pl^$all
 ||gabbianello.it^$all
+||gabrielzorgenrouw.nl^$all
 ||gaertnerei-rech.de^$all
 ||gaiaenergia.es^$all
 ||gakker.eu^$all
@@ -1134,6 +1146,7 @@
 ||grashuepfer-im-eichholz.de^$all
 ||greenfridaygolf.it^$all
 ||greiner-prasch.de^$all
+||gridsa.es^$all
 ||grillantalya-detmold.de^$all
 ||gronoplus.pl^$all
 ||groupescolairehenrisarrado.fr^$all
@@ -1276,10 +1289,12 @@
 ||ilbellavoro.it^$all
 ||ilcolibri.it^$all
 ||ilcontedimontecristo.it^$all
+||ildialogocreativo.it^$all
 ||ilmattoncino.eu^$all
 ||ilonkadegraaf.nl^$all
 ||imagebelchatow.pl^$all
 ||imalserramenti.it^$all
+||imanesens.fr^$all
 ||imcae.es^$all
 ||imitatio-heroica.de^$all
 ||imkerei-schmid.de^$all
@@ -1407,6 +1422,7 @@
 ||keepcalmandbebeautiful.pl^$all
 ||kejtergroomer.pl^$all
 ||keletiszki.eu^$all
+||kellmann-reisen.de^$all
 ||kelsimonroe.xxx^$all
 ||kemenammo.eu^$all
 ||keshop.pl^$all
@@ -1473,6 +1489,7 @@
 ||lacollineauxcoquelicots.fr^$all
 ||laetifi.pl^$all
 ||lafabriquedecellestine.fr^$all
+||lafactoriadecuentos.es^$all
 ||lafder.fr^$all
 ||lafilledelalune.fr^$all
 ||lagarnica.es^$all
@@ -1521,6 +1538,7 @@
 ||lemondechange.fr^$all
 ||lemondeoled.fr^$all
 ||lemontree-mobil.de^$all
+||lenco.es^$all
 ||lendewig-reinigung.de^$all
 ||leonardo-pracowniaurody.pl^$all
 ||leonardopaolettisindaco.it^$all
@@ -1530,6 +1548,7 @@
 ||lerntherapie-epple.de^$all
 ||lerotteghiotte.it^$all
 ||lesbonneschosesdaurelie.fr^$all
+||lesliceslocation.fr^$all
 ||leslunettes.it^$all
 ||lesmontboucons.fr^$all
 ||lesrapporteurs.fr^$all
@@ -1754,6 +1773,7 @@
 ||mm-invest-2006.de^$all
 ||mm-onlineakademie.de^$all
 ||mmbpatrimoine.fr^$all
+||moairealestate.es^$all
 ||mobilarzt.de^$all
 ||mobiles-impfen-niedersachsen.de^$all
 ||mobiliarioofficedeco.es^$all
@@ -1788,6 +1808,7 @@
 ||movkitchen.fr^$all
 ||mpu-freising.de^$all
 ||mr-borna-mde.de^$all
+||mrtool.pl^$all
 ||mrx-emploi-ouest.fr^$all
 ||msca2017.eu^$all
 ||mtb-geroda.de^$all
@@ -1917,6 +1938,7 @@
 ||oncarcasa.es^$all
 ||onderwijsengroeicoach.nl^$all
 ||online-gpw.pl^$all
+||onlineegitim.eu^$all
 ||onlinenewstravel.com^$all
 ||onsight-frog.de^$all
 ||ontwerpmijnkeuken.nl^$all
@@ -1951,6 +1973,7 @@
 ||outletdisn.de^$all
 ||ouverture-de-portes.fr^$all
 ||over50footballcuneo.it^$all
+||ovoshop.it^$all
 ||owiprod.fr^$all
 ||oztur-adatur.de^$all
 ||pacon.it^$all
@@ -2263,6 +2286,7 @@
 ||sat-serviciotecnicofujitsu.es^$all
 ||saulignac2022.fr^$all
 ||sauna-am-see-wandlitz.de^$all
+||savianomare.pl^$all
 ||sazartytaw.de^$all
 ||sazodia.it^$all
 ||sbaconseil.fr^$all
@@ -2391,6 +2415,7 @@
 ||sonnenblick-wildenfels.de^$all
 ||sopchy.de^$all
 ||sophia-moschou.de^$all
+||sophroharmonieaubergenville.fr^$all
 ||sophyangelflorist.com^$all
 ||soul-spa-berlin.de^$all
 ||soulfoodvalentinakusche.de^$all
@@ -2448,11 +2473,13 @@
 ||streetarteverywhere.fr^$all
 ||streetshots-weddingfilms.de^$all
 ||strefauvc.pl^$all
+||stressbewaeltigung-mbsr.de^$all
 ||strohschein-it.de^$all
 ||stronylaskowski.pl^$all
 ||stubenoffice.de^$all
 ||stuckateur-eisenhauer.de^$all
 ||studiobianc.nl^$all
+||studiodentisticodentaldomaso.it^$all
 ||studiolaan.nl^$all
 ||studiolegalebar.it^$all
 ||studiolegalebrandoni.it^$all
@@ -2477,6 +2504,7 @@
 ||sutherlandfelt.nl^$all
 ||sved-masszazs.eu^$all
 ||svibitobrzo.eu^$all
+||sylvainmultiservices.fr^$all
 ||synodwkonarzewie.pl^$all
 ||sytapszczola.pl^$all
 ||szepski.pl^$all
@@ -2609,6 +2637,7 @@
 ||tropical-dive.de^$all
 ||trouwringenweek.nl^$all
 ||trustedkeys.es^$all
+||tsak.fr^$all
 ||tsncosenza.it^$all
 ||tunnelfahrer.de^$all
 ||tupublicidadonline.es^$all
@@ -2672,6 +2701,7 @@
 ||vdbbb.de^$all
 ||veelaanbiedingen.nl^$all
 ||vefaselection.fr^$all
+||vege-story.pl^$all
 ||vegmeifyoucan.de^$all
 ||vehiculepedagogique.fr^$all
 ||velolobby.eu^$all
@@ -2695,6 +2725,7 @@
 ||vip-kfz.de^$all
 ||vipergear.eu^$all
 ||virego.eu^$all
+||virnetcom.fr^$all
 ||vita-zen.fr^$all
 ||vivereameglia.it^$all
 ||viveroscentrals.es^$all
@@ -2728,6 +2759,7 @@
 ||web-jinn.com^$all
 ||webxturkiye.com^$all
 ||wego-bau.de^$all
+||weigelt-heizung.de^$all
 ||weight-loss-rank.eu^$all
 ||weigl-erdbau.de^$all
 ||welt-der-drohnen-und-hubschrauber.de^$all
@@ -2788,6 +2820,7 @@
 ||y-fansonlysyiok.de^$all
 ||yacht-house.pl^$all
 ||yachtcharter-grosser.de^$all
+||yaiyan.es^$all
 ||yamaha-one25.de^$all
 ||yarrowialipolytica.pl^$all
 ||yea-sport.de^$all
