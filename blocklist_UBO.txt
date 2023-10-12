@@ -1757,6 +1757,7 @@
 ||mijnvoetafdruk.eu^$all
 ||mikado-montpellier.fr^$all
 ||mil-emociones.es^$all
+||milnegocios.es^$all
 ||milosctotu.pl^$all
 ||mimis-jewels.de^$all
 ||mimko.pl^$all
