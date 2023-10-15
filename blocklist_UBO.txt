@@ -1430,6 +1430,7 @@
 ||kemenammo.eu^$all
 ||keshop.pl^$all
 ||kfz-landtechnik-behr.de^$all
+||kijkkoffie.nl^$all
 ||kikigarage.pl^$all
 ||kinderinfrasdorf.de^$all
 ||kindertagespflege-bei-robenja.de^$all
