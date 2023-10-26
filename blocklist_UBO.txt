@@ -453,6 +453,8 @@
 ||bloggerrella.de^$all
 ||blogmercaderribo.es^$all
 ||blogsg.de^$all
+||blogspot.de^$all
+||blogspot.fr^$all
 ||blossomcoleccion.es^$all
 ||blumarksystems.pl^$all
 ||blumenkisterl.de^$all
@@ -962,6 +964,7 @@
 ||ecodnova.pl^$all
 ||ecomise.eu^$all
 ||economischdoorleren.nl^$all
+||ecosmartfire.es^$all
 ||ecoupled.eu^$all
 ||ecteni.eu^$all
 ||ediliziatroilo.it^$all
@@ -1336,8 +1339,6 @@
 ||golfcapesterel.fr^$all
 ||gomico.de^$all
 ||goodkebab.pl^$all
-||google.fr^$all
-||google.it^$all
 ||googlevideo.com^$all
 ||gootta.es^$all
 ||gopro9.com^$all

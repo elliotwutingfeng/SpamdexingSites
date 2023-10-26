@@ -453,6 +453,8 @@
 *://*.bloggerrella.de/*
 *://*.blogmercaderribo.es/*
 *://*.blogsg.de/*
+*://*.blogspot.de/*
+*://*.blogspot.fr/*
 *://*.blossomcoleccion.es/*
 *://*.blumarksystems.pl/*
 *://*.blumenkisterl.de/*
@@ -962,6 +964,7 @@
 *://*.ecodnova.pl/*
 *://*.ecomise.eu/*
 *://*.economischdoorleren.nl/*
+*://*.ecosmartfire.es/*
 *://*.ecoupled.eu/*
 *://*.ecteni.eu/*
 *://*.ediliziatroilo.it/*
@@ -1336,8 +1339,6 @@
 *://*.golfcapesterel.fr/*
 *://*.gomico.de/*
 *://*.goodkebab.pl/*
-*://*.google.fr/*
-*://*.google.it/*
 *://*.googlevideo.com/*
 *://*.gootta.es/*
 *://*.gopro9.com/*
