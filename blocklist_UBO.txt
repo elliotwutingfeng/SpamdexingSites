@@ -891,6 +891,7 @@
 ||dolinakawy.pl^$all
 ||dolomitismartfood.it^$all
 ||dom4d.pl^$all
+||domainedecaylus.fr^$all
 ||domenicomarrazzo.it^$all
 ||domingagulli.it^$all
 ||dommorena.pl^$all
@@ -1339,7 +1340,6 @@
 ||golfcapesterel.fr^$all
 ||gomico.de^$all
 ||goodkebab.pl^$all
-||googlevideo.com^$all
 ||gootta.es^$all
 ||gopro9.com^$all
 ||gp-move.eu^$all
