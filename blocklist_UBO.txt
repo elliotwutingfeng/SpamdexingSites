@@ -628,6 +628,7 @@
 ||chaos-leben.de^$all
 ||charlotte-wilking.de^$all
 ||chatanakoncuswiata.pl^$all
+||checkmijnbtw.nl^$all
 ||chelmskie.eu^$all
 ||cheval-resk.fr^$all
 ||chiantiturismo.eu^$all
@@ -728,6 +729,7 @@
 ||cpto-formation.fr^$all
 ||crablovers.it^$all
 ||cracowgamespot.pl^$all
+||craftedninjamindset.nl^$all
 ||creaprinting.es^$all
 ||creative-rp.fr^$all
 ||credit-on-line.fr^$all
@@ -1019,6 +1021,7 @@
 ||emprendekit.es^$all
 ||emprunterre.fr^$all
 ||emrehartvig.de^$all
+||emsstudio-borgfeld.de^$all
 ||emstacconesrl.it^$all
 ||encork.eu^$all
 ||encyklika68.pl^$all
@@ -1291,6 +1294,7 @@
 ||gemaelde-boerse.de^$all
 ||genadvice.es^$all
 ||genitoriproscuola.it^$all
+||geniuspathways.nl^$all
 ||gennaro-kochschule.de^$all
 ||genussmitherz.eu^$all
 ||gerardatema.nl^$all
@@ -1557,6 +1561,7 @@
 ||innebiuro.pl^$all
 ||innerconcept.pl^$all
 ||innobioeco2.fr^$all
+||innovatehub.nl^$all
 ||innovation-entwicklung.de^$all
 ||inpraiseofchina.com^$all
 ||insel-poel-landhaus-am-meer.de^$all
@@ -1807,6 +1812,8 @@
 ||le-marmotte.it^$all
 ||le-smoke.fr^$all
 ||leafhemp.it^$all
+||learnmastery.nl^$all
+||learnwonders.nl^$all
 ||leart-photography-design.de^$all
 ||leather-shop.it^$all
 ||leaveliveleaf.eu^$all
@@ -2202,6 +2209,7 @@
 ||naturheilpraxis-irislange.de^$all
 ||naturkratzwelten.de^$all
 ||nearhome.es^$all
+||neckarbiker.de^$all
 ||neeoproject.eu^$all
 ||nellodicaprio.it^$all
 ||nemanature.fr^$all
@@ -2320,6 +2328,7 @@
 ||orionkamieniarstwo.pl^$all
 ||orkiestron.pl^$all
 ||orszakdionizosa.pl^$all
+||osibisi.de^$all
 ||ospsporysz.pl^$all
 ||osrodekdompodlasem.pl^$all
 ||osswald-wandert.de^$all
@@ -2482,6 +2491,7 @@
 ||pranaapana.pl^$all
 ||pranapura.de^$all
 ||prawojazdygurgul.pl^$all
+||praxis-fuer-neues-sein.de^$all
 ||praxis-katscher-knauer.de^$all
 ||premiobrassens.it^$all
 ||premiumshisha.nl^$all
@@ -2931,6 +2941,7 @@
 ||stowarzyszenieraj.pl^$all
 ||stp35.pl^$all
 ||stranoamilano.it^$all
+||strategycraft.nl^$all
 ||straz.it^$all
 ||streetarteverywhere.fr^$all
 ||streetshots-weddingfilms.de^$all
@@ -2955,6 +2966,7 @@
 ||sublimode.fr^$all
 ||subtieltheater.nl^$all
 ||successioneserena.it^$all
+||successpath.nl^$all
 ||suche-geschaeftsidee.de^$all
 ||suitevita.de^$all
 ||sumanispa.it^$all
@@ -3279,6 +3291,7 @@
 ||weigelt-heizung.de^$all
 ||weight-loss-rank.eu^$all
 ||weigl-erdbau.de^$all
+||wellnessmassagenhofplauen.de^$all
 ||welt-der-drohnen-und-hubschrauber.de^$all
 ||weltkinderhilfe-aidforchildren.de^$all
 ||welurowylew.pl^$all
@@ -3309,6 +3322,7 @@
 ||wir-testen-hamburg.de^$all
 ||wirbeiuns.de^$all
 ||wirfuermg.de^$all
+||wirtschaftsverbund-hassberge.de^$all
 ||wit3k.pl^$all
 ||witaminkowo.pl^$all
 ||wl-concept-piscine.fr^$all
