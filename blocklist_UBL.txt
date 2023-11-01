@@ -846,6 +846,7 @@
 *://*.derrickmedia.com/*
 *://*.dersteynhauer.de/*
 *://*.desatascoscampeoncordoba.es/*
+*://*.descrumfabriek.nl/*
 *://*.desinus.nl/*
 *://*.dessins-de-pinatel.fr/*
 *://*.destockaisne.fr/*
@@ -2187,6 +2188,7 @@
 *://*.mystische-wesen.de/*
 *://*.mysurepass.biz/*
 *://*.mzakatek.pl/*
+*://*.naarpolen.nl/*
 *://*.nadine-sole.de/*
 *://*.nadpoziom.pl/*
 *://*.nadziejazwyciestwo.pl/*

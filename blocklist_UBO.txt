@@ -846,6 +846,7 @@
 ||derrickmedia.com^$all
 ||dersteynhauer.de^$all
 ||desatascoscampeoncordoba.es^$all
+||descrumfabriek.nl^$all
 ||desinus.nl^$all
 ||dessins-de-pinatel.fr^$all
 ||destockaisne.fr^$all
@@ -2187,6 +2188,7 @@
 ||mystische-wesen.de^$all
 ||mysurepass.biz^$all
 ||mzakatek.pl^$all
+||naarpolen.nl^$all
 ||nadine-sole.de^$all
 ||nadpoziom.pl^$all
 ||nadziejazwyciestwo.pl^$all
