@@ -3162,6 +3162,7 @@
 ||tynkimaszynowekrakow.pl^$all
 ||typ-coach.de^$all
 ||u19u17krakow2022european.pl^$all
+||u7buy.fr^$all
 ||ubezpieczenia-malinowski.pl^$all
 ||ubshow.it^$all
 ||uczelniatodobremiejsce.pl^$all
