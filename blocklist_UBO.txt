@@ -499,6 +499,7 @@
 ||brother.eu^$all
 ||brucehaashockey.com^$all
 ||brunawormerveer.nl^$all
+||bryg.eu^$all
 ||bubbleit.es^$all
 ||buchhaltungbayern.de^$all
 ||bughy.it^$all
