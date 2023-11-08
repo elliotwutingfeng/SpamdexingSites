@@ -1277,6 +1277,7 @@
 ||galanteriafutrzana.pl^
 ||gallipolinvacanza.it^
 ||galloway-emmeram.de^
+||gapbet.nl^
 ||garage-automobile-bairon-08.fr^
 ||garagien-saturno.de^
 ||garaizabal.es^
@@ -1557,6 +1558,7 @@
 ||infodetective.es^
 ||infopd-berlin.de^
 ||inforia.es^
+||infosyncro.nl^
 ||ingeschuffelen.nl^
 ||iniaviaggi.it^
 ||injecteur-tech.fr^
