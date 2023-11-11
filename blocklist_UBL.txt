@@ -101,6 +101,7 @@
 *://*.aland-imbiss.de/*
 *://*.alanrobertevans.eu/*
 *://*.alarmanlage-finder.de/*
+*://*.alashow.nl/*
 *://*.albmech.de/*
 *://*.alcyoni.pl/*
 *://*.aldemetrio.it/*
@@ -2648,6 +2649,7 @@
 *://*.ricreatori.it/*
 *://*.riflessi-darte.it/*
 *://*.rimadress.it/*
+*://*.riodigital.es/*
 *://*.risch-tool-design.de/*
 *://*.ristorantecaffesvolta.it/*
 *://*.ristorantedelleserre.it/*
