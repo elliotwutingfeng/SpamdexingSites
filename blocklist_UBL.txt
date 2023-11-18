@@ -2300,6 +2300,7 @@
 *://*.olejkieterium.pl/*
 *://*.olgajedrzejewska.pl/*
 *://*.olgakowalska.pl/*
+*://*.olievlinder.nl/*
 *://*.olimposhop.it/*
 *://*.oliverselzer.de/*
 *://*.oliviercorp.pl/*
@@ -2443,6 +2444,7 @@
 *://*.pisaditas.es/*
 *://*.pixa-weazel.pl/*
 *://*.pizza-dop.it/*
+*://*.pizza-no12.de/*
 *://*.pizza-nonna.de/*
 *://*.pizzaclubdreux.fr/*
 *://*.pizzamozaik.fr/*
@@ -2908,6 +2910,7 @@
 *://*.speed-dates.de/*
 *://*.speedcoaching.es/*
 *://*.speedycloud.it/*
+*://*.speedycut.nl/*
 *://*.speeltuinthuis.nl/*
 *://*.spencerpub.pl/*
 *://*.speurwerker.nl/*
@@ -2992,6 +2995,7 @@
 *://*.sutherlandfelt.nl/*
 *://*.sved-masszazs.eu/*
 *://*.svibitobrzo.eu/*
+*://*.swiftfin.nl/*
 *://*.sylvainmultiservices.fr/*
 *://*.synodwkonarzewie.pl/*
 *://*.sypialniany.pl/*
@@ -3201,6 +3205,7 @@
 *://*.urbisvigilanza.it/*
 *://*.urlaub-reise-flug.eu/*
 *://*.urlaubs-planer.eu/*
+*://*.urlz.fr/*
 *://*.uroda-lomianki.pl/*
 *://*.usa.watch/*
 *://*.usedom-erkunden.de/*

@@ -2300,6 +2300,7 @@
 ||olejkieterium.pl^$all
 ||olgajedrzejewska.pl^$all
 ||olgakowalska.pl^$all
+||olievlinder.nl^$all
 ||olimposhop.it^$all
 ||oliverselzer.de^$all
 ||oliviercorp.pl^$all
@@ -2443,6 +2444,7 @@
 ||pisaditas.es^$all
 ||pixa-weazel.pl^$all
 ||pizza-dop.it^$all
+||pizza-no12.de^$all
 ||pizza-nonna.de^$all
 ||pizzaclubdreux.fr^$all
 ||pizzamozaik.fr^$all
@@ -2908,6 +2910,7 @@
 ||speed-dates.de^$all
 ||speedcoaching.es^$all
 ||speedycloud.it^$all
+||speedycut.nl^$all
 ||speeltuinthuis.nl^$all
 ||spencerpub.pl^$all
 ||speurwerker.nl^$all
@@ -2992,6 +2995,7 @@
 ||sutherlandfelt.nl^$all
 ||sved-masszazs.eu^$all
 ||svibitobrzo.eu^$all
+||swiftfin.nl^$all
 ||sylvainmultiservices.fr^$all
 ||synodwkonarzewie.pl^$all
 ||sypialniany.pl^$all
@@ -3201,6 +3205,7 @@
 ||urbisvigilanza.it^$all
 ||urlaub-reise-flug.eu^$all
 ||urlaubs-planer.eu^$all
+||urlz.fr^$all
 ||uroda-lomianki.pl^$all
 ||usa.watch^$all
 ||usedom-erkunden.de^$all
