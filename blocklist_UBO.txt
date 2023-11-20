@@ -364,6 +364,7 @@
 ||beas-putzservice.de^$all
 ||beauty-selcho.de^$all
 ||beautysalonashley.nl^$all
+||beautysalonmargriet.nl^$all
 ||beautywerk-ilsenburg.de^$all
 ||bebsantandrea.it^$all
 ||becdeselle.fr^$all
@@ -1928,6 +1929,7 @@
 ||lucanpeluqueriacanina.es^$all
 ||luccabikeevolution.it^$all
 ||luciamaiorino.it^$all
+||luierboera.nl^$all
 ||luigiscoglio.it^$all
 ||luisafassino.it^$all
 ||lumiere-lab.pl^$all
@@ -2078,6 +2080,7 @@
 ||message-repondeur.eu^$all
 ||metronomarchitects.pl^$all
 ||metropolgoesgreen.de^$all
+||meubelflex.nl^$all
 ||meyer-bausanierung.de^$all
 ||mginterieur.nl^$all
 ||michael-lai.com^$all
@@ -2697,6 +2700,7 @@
 ||rundrejser.eu^$all
 ||rusisupermarket.fr^$all
 ||russianantiques.eu^$all
+||rwnwoerden.nl^$all
 ||rzepa-24.eu^$all
 ||sabrina-ebert.de^$all
 ||saccone.eu^$all
@@ -2762,6 +2766,7 @@
 ||schnelltest-hallecenter.de^$all
 ||schochdesign-preisrechner.de^$all
 ||scholarshipmax.biz^$all
+||schouderklachtengrave.nl^$all
 ||schraders-pension.de^$all
 ||schreier-kramer.de^$all
 ||schuco-truck-team.de^$all
@@ -2973,6 +2978,7 @@
 ||studiourodybella.pl^$all
 ||stychy.pl^$all
 ||styling-selection.de^$all
+||stylishmetals.nl^$all
 ||sublimode.fr^$all
 ||subtieltheater.nl^$all
 ||successioneserena.it^$all
@@ -3141,6 +3147,7 @@
 ||travelinbox.pl^$all
 ||travelkathmandu.es^$all
 ||traveltures.de^$all
+||trdesign.nl^$all
 ||trenerkamentalnosci.pl^$all
 ||treptow-logopaedie.de^$all
 ||tresjoliedenise.it^$all
