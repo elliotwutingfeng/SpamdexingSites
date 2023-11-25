@@ -1615,6 +1615,7 @@
 ||jagally34.pl^$all
 ||jakdziecko.pl^$all
 ||jamniki-szczytno.pl^$all
+||janaschludecker.de^$all
 ||jaslo-hs.pl^$all
 ||jaspero.pl^$all
 ||javascriptkennisbank.nl^$all
@@ -2027,6 +2028,7 @@
 ||matrioscafarmacia.it^$all
 ||matteotricarico.it^$all
 ||matthias-krueckl.de^$all
+||max-raddatz.de^$all
 ||max-titan-gel-gold.eu^$all
 ||max-xtrazex.eu^$all
 ||maxar.pl^$all
@@ -2361,6 +2363,7 @@
 ||owiprod.fr^$all
 ||oztur-adatur.de^$all
 ||pacon.it^$all
+||padagoginhande.de^$all
 ||padelindooralbalat.es^$all
 ||paestumaltocilentocultura2024.it^$all
 ||pagarteralis.com^$all

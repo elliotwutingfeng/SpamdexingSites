@@ -1615,6 +1615,7 @@
 *://*.jagally34.pl/*
 *://*.jakdziecko.pl/*
 *://*.jamniki-szczytno.pl/*
+*://*.janaschludecker.de/*
 *://*.jaslo-hs.pl/*
 *://*.jaspero.pl/*
 *://*.javascriptkennisbank.nl/*
@@ -2027,6 +2028,7 @@
 *://*.matrioscafarmacia.it/*
 *://*.matteotricarico.it/*
 *://*.matthias-krueckl.de/*
+*://*.max-raddatz.de/*
 *://*.max-titan-gel-gold.eu/*
 *://*.max-xtrazex.eu/*
 *://*.maxar.pl/*
@@ -2361,6 +2363,7 @@
 *://*.owiprod.fr/*
 *://*.oztur-adatur.de/*
 *://*.pacon.it/*
+*://*.padagoginhande.de/*
 *://*.padelindooralbalat.es/*
 *://*.paestumaltocilentocultura2024.it/*
 *://*.pagarteralis.com/*
