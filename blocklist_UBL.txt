@@ -1342,6 +1342,7 @@
 *://*.gmedic.pl/*
 *://*.gmpkamieniarstwo.pl/*
 *://*.goad-shop.de/*
+*://*.goedkoopgg.nl/*
 *://*.goeggerle-art.de/*
 *://*.goho-cafemondial.de/*
 *://*.gokartytorpoznan.pl/*
@@ -1569,6 +1570,7 @@
 *://*.innobioeco2.fr/*
 *://*.innovatehub.nl/*
 *://*.innovation-entwicklung.de/*
+*://*.innovme.nl/*
 *://*.inpraiseofchina.com/*
 *://*.insel-poel-landhaus-am-meer.de/*
 *://*.inside-tt.de/*
@@ -2006,6 +2008,7 @@
 *://*.markodrew.pl/*
 *://*.markpranger.nl/*
 *://*.markt-apo-uelsen.de/*
+*://*.markt010.nl/*
 *://*.maroshop.it/*
 *://*.marqusklussen.nl/*
 *://*.martaossowska.pl/*
@@ -2558,6 +2561,7 @@
 *://*.psoepedralba.es/*
 *://*.pspkruszew.pl/*
 *://*.psychologie-wieser.de/*
+*://*.ptrannunci.eu/*
 *://*.ptstudiodonna.it/*
 *://*.pulitibrillanti.it/*
 *://*.pulsandog.it/*
@@ -3311,6 +3315,7 @@
 *://*.weartfamily.fr/*
 *://*.web-jinn.com/*
 *://*.webxturkiye.com/*
+*://*.webzen.nl/*
 *://*.wego-bau.de/*
 *://*.weigelt-heizung.de/*
 *://*.weight-loss-rank.eu/*
@@ -3412,6 +3417,7 @@
 *://*.zakladpogrzebowypuchaczow.pl/*
 *://*.zalewadev.pl/*
 *://*.zapiecek-kajakikrutyn.pl/*
+*://*.zapix.nl/*
 *://*.zbanowane.pl/*
 *://*.zdizappa.it/*
 *://*.zdrowalodowka.pl/*

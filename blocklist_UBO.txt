@@ -1342,6 +1342,7 @@
 ||gmedic.pl^$all
 ||gmpkamieniarstwo.pl^$all
 ||goad-shop.de^$all
+||goedkoopgg.nl^$all
 ||goeggerle-art.de^$all
 ||goho-cafemondial.de^$all
 ||gokartytorpoznan.pl^$all
@@ -1569,6 +1570,7 @@
 ||innobioeco2.fr^$all
 ||innovatehub.nl^$all
 ||innovation-entwicklung.de^$all
+||innovme.nl^$all
 ||inpraiseofchina.com^$all
 ||insel-poel-landhaus-am-meer.de^$all
 ||inside-tt.de^$all
@@ -2006,6 +2008,7 @@
 ||markodrew.pl^$all
 ||markpranger.nl^$all
 ||markt-apo-uelsen.de^$all
+||markt010.nl^$all
 ||maroshop.it^$all
 ||marqusklussen.nl^$all
 ||martaossowska.pl^$all
@@ -2558,6 +2561,7 @@
 ||psoepedralba.es^$all
 ||pspkruszew.pl^$all
 ||psychologie-wieser.de^$all
+||ptrannunci.eu^$all
 ||ptstudiodonna.it^$all
 ||pulitibrillanti.it^$all
 ||pulsandog.it^$all
@@ -3311,6 +3315,7 @@
 ||weartfamily.fr^$all
 ||web-jinn.com^$all
 ||webxturkiye.com^$all
+||webzen.nl^$all
 ||wego-bau.de^$all
 ||weigelt-heizung.de^$all
 ||weight-loss-rank.eu^$all
@@ -3412,6 +3417,7 @@
 ||zakladpogrzebowypuchaczow.pl^$all
 ||zalewadev.pl^$all
 ||zapiecek-kajakikrutyn.pl^$all
+||zapix.nl^$all
 ||zbanowane.pl^$all
 ||zdizappa.it^$all
 ||zdrowalodowka.pl^$all
