@@ -1005,6 +1005,7 @@
 ||elavie.pl^$all
 ||elbadivers.it^$all
 ||elboitaly.pl^$all
+||electrabyte.nl^$all
 ||elegio.pl^$all
 ||elektrykkafel.pl^$all
 ||elenabiason.it^$all
@@ -1556,6 +1557,7 @@
 ||indianadriana.pl^$all
 ||inesterron.es^$all
 ||infanziaedintorni.it^$all
+||infiniboost.nl^$all
 ||infinitum-dance.nl^$all
 ||infinityenglishexams.es^$all
 ||infodetective.es^$all
@@ -1570,6 +1572,7 @@
 ||innobioeco2.fr^$all
 ||innovatehub.nl^$all
 ||innovation-entwicklung.de^$all
+||innovaxa.nl^$all
 ||innovme.nl^$all
 ||inpraiseofchina.com^$all
 ||insel-poel-landhaus-am-meer.de^$all
@@ -3426,6 +3429,7 @@
 ||zeitgunst.com^$all
 ||zemstech.pl^$all
 ||zenaswiss.shop^$all
+||zenithwave.nl^$all
 ||zenskiparfemi.com^$all
 ||zephirin.eu^$all
 ||zetakos.fr^$all
