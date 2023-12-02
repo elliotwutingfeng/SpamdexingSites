@@ -1106,6 +1106,7 @@
 ||ewesan.pl^$all
 ||ewoudtraast.nl^$all
 ||exaltak.fr^$all
+||excelsia.nl^$all
 ||executivelearning.fr^$all
 ||exelens.pl^$all
 ||exform.pl^$all
@@ -1204,6 +1205,7 @@
 ||flo-rider.de^$all
 ||floradecoration.pl^$all
 ||florenzacalzados.es^$all
+||florigold.de^$all
 ||florissant-wonen.nl^$all
 ||flortel.pl^$all
 ||flottefeile-nagelstudio.de^$all
@@ -1692,6 +1694,7 @@
 ||katiacirrincione.it^$all
 ||kavoia.de^$all
 ||kawaorganiczna.pl^$all
+||kazakhbonus.eu^$all
 ||kdweiss-immobilien.de^$all
 ||keepcalmandbebeautiful.pl^$all
 ||keepmoment.pl^$all
@@ -2535,6 +2538,7 @@
 ||progettoh22.it^$all
 ||prognostizierbar.de^$all
 ||progressiveturfequip.eu^$all
+||projekt-brandenburg-bilder.de^$all
 ||projetactivity.fr^$all
 ||prolococapacciopaestum.it^$all
 ||prolocofrazionimondovi.it^$all

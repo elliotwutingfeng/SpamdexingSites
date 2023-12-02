@@ -1106,6 +1106,7 @@
 *://*.ewesan.pl/*
 *://*.ewoudtraast.nl/*
 *://*.exaltak.fr/*
+*://*.excelsia.nl/*
 *://*.executivelearning.fr/*
 *://*.exelens.pl/*
 *://*.exform.pl/*
@@ -1204,6 +1205,7 @@
 *://*.flo-rider.de/*
 *://*.floradecoration.pl/*
 *://*.florenzacalzados.es/*
+*://*.florigold.de/*
 *://*.florissant-wonen.nl/*
 *://*.flortel.pl/*
 *://*.flottefeile-nagelstudio.de/*
@@ -1692,6 +1694,7 @@
 *://*.katiacirrincione.it/*
 *://*.kavoia.de/*
 *://*.kawaorganiczna.pl/*
+*://*.kazakhbonus.eu/*
 *://*.kdweiss-immobilien.de/*
 *://*.keepcalmandbebeautiful.pl/*
 *://*.keepmoment.pl/*
@@ -2535,6 +2538,7 @@
 *://*.progettoh22.it/*
 *://*.prognostizierbar.de/*
 *://*.progressiveturfequip.eu/*
+*://*.projekt-brandenburg-bilder.de/*
 *://*.projetactivity.fr/*
 *://*.prolococapacciopaestum.it/*
 *://*.prolocofrazionimondovi.it/*
