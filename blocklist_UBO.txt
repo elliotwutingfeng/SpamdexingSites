@@ -1291,6 +1291,7 @@
 ||gardenmal.pl^$all
 ||garmazodukrainek.pl^$all
 ||garnekdoryzu.pl^$all
+||gartenbau-blomberg.de^$all
 ||gartentherapeuten-nord.de^$all
 ||gassmannshop.de^$all
 ||gbsurface.eu^$all
@@ -1585,6 +1586,7 @@
 ||institutbeaute-les-orchidees.fr^$all
 ||institutlucile.fr^$all
 ||institutmanoa.fr^$all
+||integrix.nl^$all
 ||intemporemed.pl^$all
 ||intensoaromadicaffe.it^$all
 ||interbolex.pl^$all
@@ -3283,6 +3285,7 @@
 ||vipergear.eu^$all
 ||virego.eu^$all
 ||virnetcom.fr^$all
+||virtuhunt.nl^$all
 ||vita-shop.it^$all
 ||vita-zen.fr^$all
 ||vivanatura.pl^$all
