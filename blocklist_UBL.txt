@@ -2686,6 +2686,7 @@
 *://*.rmz-itzauen.de/*
 *://*.roadrb.pl/*
 *://*.robert-janke-immobilien.de/*
+*://*.rockapella-fanclub.de/*
 *://*.rockycreekdesigns.eu/*
 *://*.rodolfocastellana.it/*
 *://*.roesrather-kolumbienen.de/*
@@ -2795,6 +2796,7 @@
 *://*.schwurverband.de/*
 *://*.scoppitoservizi.it/*
 *://*.scopusrevista.es/*
+*://*.scotbugey.fr/*
 *://*.scriptologic.pl/*
 *://*.scuolainfanziaselva.it/*
 *://*.scuolaperlapatente.it/*
@@ -2964,6 +2966,7 @@
 *://*.stellafashion.eu/*
 *://*.stephan-semrau.de/*
 *://*.stewartoverland.de/*
+*://*.stichting-bvbb.nl/*
 *://*.stichtinggetontrack.nl/*
 *://*.stichtingont-moet.nl/*
 *://*.stockinator.de/*
@@ -3268,6 +3271,7 @@
 *://*.venturearchitects.pl/*
 *://*.verliesaanzet.nl/*
 *://*.versicherungsmakler-koeln24.de/*
+*://*.vervex.nl/*
 *://*.veryyoufashion.pl/*
 *://*.vgan.it/*
 *://*.vgr-pdl.de/*

@@ -2686,6 +2686,7 @@
 ||rmz-itzauen.de^$all
 ||roadrb.pl^$all
 ||robert-janke-immobilien.de^$all
+||rockapella-fanclub.de^$all
 ||rockycreekdesigns.eu^$all
 ||rodolfocastellana.it^$all
 ||roesrather-kolumbienen.de^$all
@@ -2795,6 +2796,7 @@
 ||schwurverband.de^$all
 ||scoppitoservizi.it^$all
 ||scopusrevista.es^$all
+||scotbugey.fr^$all
 ||scriptologic.pl^$all
 ||scuolainfanziaselva.it^$all
 ||scuolaperlapatente.it^$all
@@ -2964,6 +2966,7 @@
 ||stellafashion.eu^$all
 ||stephan-semrau.de^$all
 ||stewartoverland.de^$all
+||stichting-bvbb.nl^$all
 ||stichtinggetontrack.nl^$all
 ||stichtingont-moet.nl^$all
 ||stockinator.de^$all
@@ -3268,6 +3271,7 @@
 ||venturearchitects.pl^$all
 ||verliesaanzet.nl^$all
 ||versicherungsmakler-koeln24.de^$all
+||vervex.nl^$all
 ||veryyoufashion.pl^$all
 ||vgan.it^$all
 ||vgr-pdl.de^$all
