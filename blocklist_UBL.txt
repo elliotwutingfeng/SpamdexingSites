@@ -1197,6 +1197,7 @@
 *://*.fizjoblaz.pl/*
 *://*.fizjoterapeutkanarurze.pl/*
 *://*.flanagans.it/*
+*://*.flashfury.nl/*
 *://*.flaviamodista.es/*
 *://*.flechtplatz.de/*
 *://*.flexmaxthea.eu/*
@@ -1514,6 +1515,7 @@
 *://*.icitrans.eu/*
 *://*.icr365.com/*
 *://*.ideafiorecesena.it/*
+*://*.ideamaz.nl/*
 *://*.idee-sparidee.de/*
 *://*.ideocasa.it/*
 *://*.idogo-praxis.de/*
@@ -1896,6 +1898,7 @@
 *://*.limited.shop/*
 *://*.limpiezasarjona.es/*
 *://*.lingtime.pl/*
+*://*.linktekz.nl/*
 *://*.lippoldt-metz-kunz.de/*
 *://*.liscamanent.it/*
 *://*.lisura.pl/*
@@ -2247,6 +2250,7 @@
 *://*.newlifeenergy.fr/*
 *://*.newstrusted.de/*
 *://*.newtube.pl/*
+*://*.nexonixz.nl/*
 *://*.ngitaly.it/*
 *://*.nice-soutien-scolaire.fr/*
 *://*.nicolasmaups.nl/*
@@ -2574,6 +2578,7 @@
 *://*.ptstudiodonna.it/*
 *://*.pulitibrillanti.it/*
 *://*.pulsandog.it/*
+*://*.pulsarb.nl/*
 *://*.puntoexpress.es/*
 *://*.puppenstube-bamberg.de/*
 *://*.purokawa.pl/*
@@ -2587,6 +2592,7 @@
 *://*.qi-gong.it/*
 *://*.qinnbase-portfolio.pl/*
 *://*.qsslotyxoba.de/*
+*://*.quantumnl.nl/*
 *://*.quartudestinazionesostenibile.it/*
 *://*.quarzwerke-kw.de/*
 *://*.quattroenovantanove.it/*
@@ -2922,6 +2928,7 @@
 *://*.spaciosaiz.es/*
 *://*.spambientepaesaggio.it/*
 *://*.spankwirecams.es/*
+*://*.sparkix.nl/*
 *://*.sparkrestaurant-lezennes.fr/*
 *://*.spartanblasting.com/*
 *://*.spaziof1.it/*
@@ -3023,6 +3030,7 @@
 *://*.svibitobrzo.eu/*
 *://*.swiftfin.nl/*
 *://*.sylvainmultiservices.fr/*
+*://*.synapsebiza.nl/*
 *://*.synodwkonarzewie.pl/*
 *://*.sypialniany.pl/*
 *://*.sytapszczola.pl/*
@@ -3396,6 +3404,7 @@
 *://*.wysypiskogrodzisk.pl/*
 *://*.x3mediastudio.it/*
 *://*.xbinary.it/*
+*://*.xellia.nl/*
 *://*.xfiles.es/*
 *://*.xiaogirls.com/*
 *://*.xinvoice.biz/*

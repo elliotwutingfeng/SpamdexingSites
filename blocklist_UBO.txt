@@ -1197,6 +1197,7 @@
 ||fizjoblaz.pl^$all
 ||fizjoterapeutkanarurze.pl^$all
 ||flanagans.it^$all
+||flashfury.nl^$all
 ||flaviamodista.es^$all
 ||flechtplatz.de^$all
 ||flexmaxthea.eu^$all
@@ -1514,6 +1515,7 @@
 ||icitrans.eu^$all
 ||icr365.com^$all
 ||ideafiorecesena.it^$all
+||ideamaz.nl^$all
 ||idee-sparidee.de^$all
 ||ideocasa.it^$all
 ||idogo-praxis.de^$all
@@ -1896,6 +1898,7 @@
 ||limited.shop^$all
 ||limpiezasarjona.es^$all
 ||lingtime.pl^$all
+||linktekz.nl^$all
 ||lippoldt-metz-kunz.de^$all
 ||liscamanent.it^$all
 ||lisura.pl^$all
@@ -2247,6 +2250,7 @@
 ||newlifeenergy.fr^$all
 ||newstrusted.de^$all
 ||newtube.pl^$all
+||nexonixz.nl^$all
 ||ngitaly.it^$all
 ||nice-soutien-scolaire.fr^$all
 ||nicolasmaups.nl^$all
@@ -2574,6 +2578,7 @@
 ||ptstudiodonna.it^$all
 ||pulitibrillanti.it^$all
 ||pulsandog.it^$all
+||pulsarb.nl^$all
 ||puntoexpress.es^$all
 ||puppenstube-bamberg.de^$all
 ||purokawa.pl^$all
@@ -2587,6 +2592,7 @@
 ||qi-gong.it^$all
 ||qinnbase-portfolio.pl^$all
 ||qsslotyxoba.de^$all
+||quantumnl.nl^$all
 ||quartudestinazionesostenibile.it^$all
 ||quarzwerke-kw.de^$all
 ||quattroenovantanove.it^$all
@@ -2922,6 +2928,7 @@
 ||spaciosaiz.es^$all
 ||spambientepaesaggio.it^$all
 ||spankwirecams.es^$all
+||sparkix.nl^$all
 ||sparkrestaurant-lezennes.fr^$all
 ||spartanblasting.com^$all
 ||spaziof1.it^$all
@@ -3023,6 +3030,7 @@
 ||svibitobrzo.eu^$all
 ||swiftfin.nl^$all
 ||sylvainmultiservices.fr^$all
+||synapsebiza.nl^$all
 ||synodwkonarzewie.pl^$all
 ||sypialniany.pl^$all
 ||sytapszczola.pl^$all
@@ -3396,6 +3404,7 @@
 ||wysypiskogrodzisk.pl^$all
 ||x3mediastudio.it^$all
 ||xbinary.it^$all
+||xellia.nl^$all
 ||xfiles.es^$all
 ||xiaogirls.com^$all
 ||xinvoice.biz^$all
