@@ -872,6 +872,7 @@
 *://*.digitalauszeit.de/*
 *://*.digitale-notrufzentrale.eu/*
 *://*.digitalgest.it/*
+*://*.digitrix.nl/*
 *://*.dimorarossa.it/*
 *://*.dinamovenezia.it/*
 *://*.dipendenzeaddio.it/*
@@ -2989,6 +2990,7 @@
 *://*.streetshots-weddingfilms.de/*
 *://*.strefauvc.pl/*
 *://*.stressbewaeltigung-mbsr.de/*
+*://*.strivon.nl/*
 *://*.strohschein-it.de/*
 *://*.stronylaskowski.pl/*
 *://*.stronytwoichmarzen.pl/*
@@ -3220,6 +3222,7 @@
 *://*.ulis-berlin-tour.de/*
 *://*.ulrike-wrobel.de/*
 *://*.ultra8keuropa.es/*
+*://*.ultraix.nl/*
 *://*.ulvismueller.de/*
 *://*.umarysiwogrodzie.pl/*
 *://*.umorganisieren.de/*
@@ -3452,6 +3455,7 @@
 *://*.zenithwave.nl/*
 *://*.zenskiparfemi.com/*
 *://*.zephirin.eu/*
+*://*.zephyrtechc.nl/*
 *://*.zetakos.fr/*
 *://*.zhouweilang.com/*
 *://*.ziel4u.de/*
