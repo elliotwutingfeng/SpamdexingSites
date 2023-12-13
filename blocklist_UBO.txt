@@ -1579,6 +1579,7 @@
 ||innovatehub.nl^$all
 ||innovation-entwicklung.de^$all
 ||innovaxa.nl^$all
+||innoviaz.nl^$all
 ||innovme.nl^$all
 ||inpraiseofchina.com^$all
 ||insel-poel-landhaus-am-meer.de^$all
@@ -3408,6 +3409,7 @@
 ||x3mediastudio.it^$all
 ||xbinary.it^$all
 ||xellia.nl^$all
+||xelliz.nl^$all
 ||xfiles.es^$all
 ||xiaogirls.com^$all
 ||xinvoice.biz^$all
