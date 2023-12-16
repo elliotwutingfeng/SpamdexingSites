@@ -82,6 +82,7 @@
 ||agora-albatros.pl^$all
 ||agora-journal.fr^$all
 ||agronomie-services.fr^$all
+||agrotrebol.es^$all
 ||ahtownetrze.pl^$all
 ||ai-technology.it^$all
 ||airsies.pl^$all
@@ -517,6 +518,7 @@
 ||business-meeting-kassel.de^$all
 ||business4coffee.eu^$all
 ||businesscenter-vodafone.de^$all
+||buzztron.nl^$all
 ||byanya.pl^$all
 ||byblondmerkstein.de^$all
 ||bzdetowo.pl^$all
@@ -941,6 +943,8 @@
 ||dvirtex.eu^$all
 ||dwabratanki.eu^$all
 ||dworek-mieszczanski.pl^$all
+||dynamorphq.nl^$all
+||dynaway.nl^$all
 ||dyskretnykontakt.pl^$all
 ||dywany-miks.pl^$all
 ||dzaviech.fr^$all
@@ -1381,6 +1385,7 @@
 ||gruniverpal.fr^$all
 ||gruparenovatio.pl^$all
 ||grupisenda.es^$all
+||grupolimpio.es^$all
 ||gruppoautoclass.it^$all
 ||gruppodimichele.it^$all
 ||gruppoverderoma.it^$all
@@ -2554,6 +2559,7 @@
 ||promobologna.it^$all
 ||promoloco.it^$all
 ||promoteur-lemistral.fr^$all
+||prosilvestre.es^$all
 ||protectus.es^$all
 ||protezioneciviletriggiano-ba.it^$all
 ||provanto.pl^$all
@@ -2802,6 +2808,7 @@
 ||schwarzbauer-online.de^$all
 ||schwestern-kaufhaus.de^$all
 ||schwurverband.de^$all
+||scopeio.nl^$all
 ||scoppitoservizi.it^$all
 ||scopusrevista.es^$all
 ||scotbugey.fr^$all
@@ -2914,6 +2921,7 @@
 ||sokoll-computers.de^$all
 ||solenita.pl^$all
 ||solis-online.de^$all
+||solucionsreals.es^$all
 ||solutions-entreprise.fr^$all
 ||sonnenblick-wildenfels.de^$all
 ||sopchy.de^$all
@@ -3073,6 +3081,7 @@
 ||techify.it^$all
 ||technic-carrosserie-rivat.fr^$all
 ||technikigrzewcze-widera.pl^$all
+||technixo.nl^$all
 ||technotronik-konin.pl^$all
 ||teddys-reifenmarkt.de^$all
 ||teentalent.es^$all
