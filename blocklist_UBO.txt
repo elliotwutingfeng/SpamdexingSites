@@ -450,6 +450,7 @@
 ||blackthornian.eu^$all
 ||blaich-sportpartner.de^$all
 ||blancolaguia.es^$all
+||blitzify.nl^$all
 ||blog-terreimaginaire.fr^$all
 ||blogaudilex.es^$all
 ||blogesblog.es^$all
@@ -458,6 +459,7 @@
 ||blogsg.de^$all
 ||blogspot.de^$all
 ||blogspot.fr^$all
+||blogspot.it^$all
 ||blossomcoleccion.es^$all
 ||blumarksystems.pl^$all
 ||blumenkisterl.de^$all
@@ -577,6 +579,7 @@
 ||casevacanzesiracusa.it^$all
 ||cassefortisicure.it^$all
 ||castello-liepelt.de^$all
+||castillpielnoviasyceremonia.es^$all
 ||castles-hotels.com^$all
 ||catalog-sg.it^$all
 ||catedrasemergenugr.es^$all
@@ -631,6 +634,7 @@
 ||chance-krise-unternehmenskultur.de^$all
 ||chantolivette.fr^$all
 ||chaos-leben.de^$all
+||chapeau-bc.de^$all
 ||charlotte-wilking.de^$all
 ||chatanakoncuswiata.pl^$all
 ||checkmijnbtw.nl^$all
@@ -2516,6 +2520,7 @@
 ||portaprosciutto.it^$all
 ||posclan.pl^$all
 ||poshlashes-zuidholland.nl^$all
+||postaw-namiot.pl^$all
 ||postime.pl^$all
 ||potagezvous.fr^$all
 ||pozytywnaportal.pl^$all
@@ -3467,6 +3472,7 @@
 ||zenskiparfemi.com^$all
 ||zephirin.eu^$all
 ||zephyrtechc.nl^$all
+||zestria.nl^$all
 ||zetakos.fr^$all
 ||zhouweilang.com^$all
 ||ziel4u.de^$all
