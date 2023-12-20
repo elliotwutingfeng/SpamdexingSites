@@ -457,9 +457,6 @@
 ||bloggerrella.de^
 ||blogmercaderribo.es^
 ||blogsg.de^
-||blogspot.de^
-||blogspot.fr^
-||blogspot.it^
 ||blossomcoleccion.es^
 ||blumarksystems.pl^
 ||blumenkisterl.de^
@@ -941,6 +938,7 @@
 ||duet-z-goretta.pl^
 ||dufeu2022.fr^
 ||dunboutalautre.eu^
+||dupont-electricite.fr^
 ||durchblog.de^
 ||duzone-birkenhaus.de^
 ||dvert.org^
@@ -1022,6 +1020,7 @@
 ||elisabeth-schoch.ch^
 ||elisaclementelli.it^
 ||elisastella.it^
+||elodiecoachetpsychanalyste.fr^
 ||elpsystem.pl^
 ||elsonfm.es^
 ||eltallerdesilvia.es^
@@ -1660,6 +1659,7 @@
 ||jksun.de^
 ||jl-assistance-qualite.fr^
 ||jm-assistant-administratif.fr^
+||jm-epave.fr^
 ||jmservera.com^
 ||joecapista.eu^
 ||josevicenteabogado.es^
@@ -3057,6 +3057,7 @@
 ||szy-ha.pl^
 ||szybkietesty.pl^
 ||szybkisposob.pl^
+||szybkizapieks.pl^
 ||taffixprotect.es^
 ||tageseltern-vp.de^
 ||taichiverbindet.de^

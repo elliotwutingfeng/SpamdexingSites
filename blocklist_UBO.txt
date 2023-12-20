@@ -457,9 +457,6 @@
 ||bloggerrella.de^$all
 ||blogmercaderribo.es^$all
 ||blogsg.de^$all
-||blogspot.de^$all
-||blogspot.fr^$all
-||blogspot.it^$all
 ||blossomcoleccion.es^$all
 ||blumarksystems.pl^$all
 ||blumenkisterl.de^$all
@@ -941,6 +938,7 @@
 ||duet-z-goretta.pl^$all
 ||dufeu2022.fr^$all
 ||dunboutalautre.eu^$all
+||dupont-electricite.fr^$all
 ||durchblog.de^$all
 ||duzone-birkenhaus.de^$all
 ||dvert.org^$all
@@ -1022,6 +1020,7 @@
 ||elisabeth-schoch.ch^$all
 ||elisaclementelli.it^$all
 ||elisastella.it^$all
+||elodiecoachetpsychanalyste.fr^$all
 ||elpsystem.pl^$all
 ||elsonfm.es^$all
 ||eltallerdesilvia.es^$all
@@ -1660,6 +1659,7 @@
 ||jksun.de^$all
 ||jl-assistance-qualite.fr^$all
 ||jm-assistant-administratif.fr^$all
+||jm-epave.fr^$all
 ||jmservera.com^$all
 ||joecapista.eu^$all
 ||josevicenteabogado.es^$all
@@ -3057,6 +3057,7 @@
 ||szy-ha.pl^$all
 ||szybkietesty.pl^$all
 ||szybkisposob.pl^$all
+||szybkizapieks.pl^$all
 ||taffixprotect.es^$all
 ||tageseltern-vp.de^$all
 ||taichiverbindet.de^$all
