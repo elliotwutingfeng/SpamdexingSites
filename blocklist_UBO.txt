@@ -76,6 +76,7 @@
 ||afslankpillen2017nl.eu^$all
 ||agakor.pl^$all
 ||agcled.es^$all
+||agencesileo.fr^$all
 ||aggiustasiti.it^$all
 ||agnieszkasielewicz.pl^$all
 ||agnieszkaszostakfotografia.pl^$all
@@ -998,6 +999,7 @@
 ||efeunoconocho.es^$all
 ||egeria-gmbh.de^$all
 ||eglestore.it^$all
+||eic2022.de^$all
 ||einigkeit-tettenweis.de^$all
 ||einkaufsbahnhof-bewegt.de^$all
 ||eis-for-kids.de^$all
@@ -1264,11 +1266,13 @@
 ||frauen-aus-rio.eu^$all
 ||frauen-union-ov-nu.de^$all
 ||fre-style.de^$all
+||fredi-unverpackt.de^$all
 ||freeauto.pl^$all
 ||frischergegenwind.de^$all
 ||friseur-in-hagen.de^$all
 ||froschinsel-grossenister.de^$all
 ||ftprivacy.cloud^$all
+||ftvlab.es^$all
 ||fuchsimwald.de^$all
 ||fuhrmann-hochzeitsfotografie.de^$all
 ||fumisteriaonline.it^$all
@@ -1688,6 +1692,7 @@
 ||kajakurczuk.pl^$all
 ||kalmardarlowko.pl^$all
 ||kalteneck-araber.de^$all
+||kameralnysggw.pl^$all
 ||kamilkozybski.pl^$all
 ||kamilrytel.pl^$all
 ||kanep.es^$all
@@ -1707,6 +1712,7 @@
 ||katarzynagarbas.pl^$all
 ||katharinaschreibt.de^$all
 ||katiacirrincione.it^$all
+||kavali.de^$all
 ||kavoia.de^$all
 ||kawaorganiczna.pl^$all
 ||kazakhbonus.eu^$all
@@ -2239,6 +2245,7 @@
 ||naturaeshop.fr^$all
 ||naturalflavour.it^$all
 ||naturallymade.fr^$all
+||naturaloze.pl^$all
 ||naturalser.es^$all
 ||naturbaustoffe-onlineshop.de^$all
 ||nature-experience.de^$all
@@ -2391,6 +2398,7 @@
 ||pacon.it^$all
 ||padagoginhande.de^$all
 ||padelindooralbalat.es^$all
+||padovanews.it^$all
 ||paestumaltocilentocultura2024.it^$all
 ||pagarteralis.com^$all
 ||palletkoning.nl^$all
@@ -2545,6 +2553,7 @@
 ||prestige-nails.fr^$all
 ||prestitoinpdapdipendentipubblici.it^$all
 ||prestitotuo.it^$all
+||priveefest.es^$all
 ||prlbikes.pl^$all
 ||produitpourtoi.fr^$all
 ||profeoweb.pl^$all
@@ -2642,6 +2651,7 @@
 ||rechtsanwaltanhalt.de^$all
 ||recoctopus.eu^$all
 ||recre73.fr^$all
+||recruitya.de^$all
 ||rectificadoscorega.es^$all
 ||recuperesudinero.es^$all
 ||recursodron.es^$all
@@ -3135,6 +3145,7 @@
 ||thg-wolfsburg.eu^$all
 ||thiosixregister.nl^$all
 ||thorntonanddavies.eu^$all
+||thp-stoll.de^$all
 ||thuismetspelen.nl^$all
 ||ti-mi-fit.de^$all
 ||tiagocardoso.eu^$all
@@ -3251,6 +3262,7 @@
 ||unimulticampus.it^$all
 ||unoseiuno.it^$all
 ||unpuntomacrobiotico.it^$all
+||unsere-region-hilft.de^$all
 ||unsertraumvomhof.de^$all
 ||unsicvarese.it^$all
 ||unternehmen-business-fotografie-berlin-brandenburg.de^$all
@@ -3348,6 +3360,7 @@
 ||walter-fliesen-gmbh.de^$all
 ||wandbilderlounge.de^$all
 ||wapak.biz^$all
+||waraald.fr^$all
 ||warszawa345lat.pl^$all
 ||wasserlehrpfad-pegnitz.de^$all
 ||water-bird.eu^$all
