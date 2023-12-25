@@ -531,6 +531,7 @@
 ||call-center-w-chmurze.pl^$all
 ||callthefuture.fr^$all
 ||calpeapartments.es^$all
+||calzadosisarus.es^$all
 ||caminolusco.es^$all
 ||camp-koszykarski.pl^$all
 ||campanamedicalcenter.it^$all
@@ -571,6 +572,7 @@
 ||casainnatura.eu^$all
 ||casaledeilauri.it^$all
 ||casanieske.it^$all
+||casanuova-renovierungen.de^$all
 ||casarebirongo.es^$all
 ||casaruralpradena.es^$all
 ||cascinarapus.it^$all
@@ -991,6 +993,7 @@
 ||educationdoctoral.eu^$all
 ||edukacjadwujezyczna.edu.pl^$all
 ||edulogmed.pl^$all
+||edycalzaticlaus.es^$all
 ||eep-arturosoria.es^$all
 ||eerlijkovermobiel.nl^$all
 ||efektfilm.pl^$all
@@ -1088,6 +1091,7 @@
 ||estetycznymokiem.pl^$all
 ||estherprotection.es^$all
 ||esthetiqueferrer.fr^$all
+||estrader-patrimoine.fr^$all
 ||estylshop.pl^$all
 ||etevia.eu^$all
 ||ethnasia.it^$all
@@ -1130,6 +1134,7 @@
 ||fabul.de^$all
 ||facebookshop.pl^$all
 ||fachowiecslask.pl^$all
+||factusol-woocommerce.es^$all
 ||fad-tosca.it^$all
 ||fadashop.it^$all
 ||fadotrans.de^$all
@@ -1833,6 +1838,7 @@
 ||lasuite-depotvente.fr^$all
 ||lasuitesapartments.it^$all
 ||latelierdejeannette.fr^$all
+||latelierdufildore.fr^$all
 ||lathelier.fr^$all
 ||latinflair.it^$all
 ||latitudesud.eu^$all
@@ -2198,6 +2204,7 @@
 ||mr-borna-mde.de^$all
 ||mrtool.pl^$all
 ||mrx-emploi-ouest.fr^$all
+||ms3d-shop.fr^$all
 ||msca2017.eu^$all
 ||mtb-geroda.de^$all
 ||mtbsavigno.it^$all
@@ -2318,6 +2325,7 @@
 ||obiadwsloiku.pl^$all
 ||objectifdesign.eu^$all
 ||obserwatoriumrw.pl^$all
+||obunu.es^$all
 ||occhioallospot.it^$all
 ||odchudzanie-marinero.pl^$all
 ||odrazuu.pl^$all
@@ -2921,6 +2929,7 @@
 ||smashdots.nl^$all
 ||smok-stefano.pl^$all
 ||smp40.fr^$all
+||smsabogados.es^$all
 ||smslove.biz^$all
 ||smtvloerverwarming.nl^$all
 ||sneakerguard.de^$all
@@ -3141,6 +3150,7 @@
 ||thermoklima.pl^$all
 ||thesecretgardenagropoli.it^$all
 ||thestain.es^$all
+||thevenet-charpente.fr^$all
 ||thewoodhouse.es^$all
 ||thg-wolfsburg.eu^$all
 ||thiosixregister.nl^$all
