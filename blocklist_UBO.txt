@@ -11,6 +11,7 @@
 ||240hz-monitor.de^$all
 ||24volt-ecu.nl^$all
 ||27radio.eu^$all
+||2ads.fr^$all
 ||30jahreprenzlkomm.de^$all
 ||314winecafe.fr^$all
 ||360gradiworkout.it^$all
@@ -386,6 +387,7 @@
 ||belvederepozzuolo.it^$all
 ||benafigosetfils.fr^$all
 ||benbnummertje15.nl^$all
+||benedikt-strokin.fr^$all
 ||benesoft.es^$all
 ||bengaldeimunda.it^$all
 ||bengaluru.it^$all
@@ -531,6 +533,7 @@
 ||call-center-w-chmurze.pl^$all
 ||callthefuture.fr^$all
 ||calpeapartments.es^$all
+||calprisa.es^$all
 ||calzadosisarus.es^$all
 ||caminolusco.es^$all
 ||camp-koszykarski.pl^$all
@@ -707,6 +710,7 @@
 ||comtoneroki.es^$all
 ||comunitamindful.it^$all
 ||conceptvaning.fr^$all
+||congo-paint.fr^$all
 ||connektyou.fr^$all
 ||conquistailtuofuturo.it^$all
 ||consorzioastro.it^$all
@@ -1502,6 +1506,7 @@
 ||hsg-elternbeirat.de^$all
 ||hubertus-ziemianski.pl^$all
 ||hugo-live-band.de^$all
+||hugomoreno.fr^$all
 ||huilders.es^$all
 ||humanrights70.eu^$all
 ||hunde-vet.de^$all
@@ -1876,6 +1881,7 @@
 ||leif-broennle.de^$all
 ||leistungsseminar.de^$all
 ||lektorat-theissen.de^$all
+||lemasquefacial.fr^$all
 ||lemoinebistro.de^$all
 ||lemondechange.fr^$all
 ||lemondeoled.fr^$all
@@ -1983,6 +1989,7 @@
 ||lynnssalon.nl^$all
 ||lyonwangchao.fr^$all
 ||lzmddqfw.com^$all
+||lzrmlv.fr^$all
 ||mac-info.pl^$all
 ||macadamya.it^$all
 ||maciejpanek.eu^$all
@@ -2435,6 +2442,7 @@
 ||passalacqualuzon.it^$all
 ||passionfiveservices.de^$all
 ||passivhausmeister.de^$all
+||pastelowemisie.pl^$all
 ||pasticceriasurgelataetortebari.it^$all
 ||pasticcinodoro.it^$all
 ||paulundruscher.de^$all
@@ -2470,7 +2478,10 @@
 ||pg3bp.pl^$all
 ||pgsiedliska.pl^$all
 ||phantasm-c.nl^$all
+||pharmaciecentrale-courrieres.fr^$all
+||pharmaciedesflamands-tourlaville.fr^$all
 ||pharmaciedumidi-solliespont.fr^$all
+||pharmaciegourgue.fr^$all
 ||pharmaciewaisman.fr^$all
 ||philcoinscollector.it^$all
 ||phonesanatomy.it^$all
