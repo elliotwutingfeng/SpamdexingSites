@@ -62,6 +62,7 @@
 ||adriamoda.de^$all
 ||adrianmaciejewski.pl^$all
 ||adriano-restaurant.de^$all
+||adrientraiteur.fr^$all
 ||adsfactory.es^$all
 ||adsformation.fr^$all
 ||adultfindout.eu^$all
@@ -131,6 +132,7 @@
 ||allow-ensembles.eu^$all
 ||allparam.es^$all
 ||allroundversicherer.de^$all
+||alltagsservice-erdmann.de^$all
 ||almanaccoreggiano.it^$all
 ||alpha-computers.eu^$all
 ||alphainversores.es^$all
@@ -2911,6 +2913,7 @@
 ||simpletalent.pl^$all
 ||simsim.es^$all
 ||sino-ways.com^$all
+||sio-terfi.fr^$all
 ||sirpac.es^$all
 ||sistemarischipmi.it^$all
 ||site-aanmelden.eu^$all
