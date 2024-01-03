@@ -6,6 +6,7 @@
 ||1918justwar.pl^$all
 ||1hannover.de^$all
 ||1majeolomouc.eu^$all
+||1szj.pl^$all
 ||20-kg-goldbarren.de^$all
 ||24-rabat.pl^$all
 ||240hz-monitor.de^$all
@@ -42,6 +43,7 @@
 ||abschleppdienst-thielmann.de^$all
 ||absolventicum.de^$all
 ||absorlan.de^$all
+||abstraktoria.pl^$all
 ||abteilung7bigband.de^$all
 ||acalonline.it^$all
 ||accademiadelcinemaares.it^$all
@@ -72,6 +74,7 @@
 ||adwokatkaras.pl^$all
 ||adwords-24.pl^$all
 ||aedilegno.it^$all
+||aeroplanuav.pl^$all
 ||aferco.es^$all
 ||africanqueens.it^$all
 ||afrikakette.de^$all
@@ -290,6 +293,7 @@
 ||auf-dauer-schlank.de^$all
 ||auloupmontpellier.fr^$all
 ||aupaysdusoleilcouchant.fr^$all
+||aura-dokumedia.de^$all
 ||auroraimpiantisrl.it^$all
 ||autismos.es^$all
 ||auto-versichert.de^$all
@@ -530,6 +534,7 @@
 ||cacioepepe-muenchen.de^$all
 ||cadeauteam.nl^$all
 ||cafe-casablanca.de^$all
+||cafegrisel.es^$all
 ||caffepatavino.it^$all
 ||calcestruzzivalleverde.it^$all
 ||call-center-w-chmurze.pl^$all
@@ -647,6 +652,7 @@
 ||cheval-resk.fr^$all
 ||chiantiturismo.eu^$all
 ||chieriscout.it^$all
+||chimeneasyaccesorios.es^$all
 ||chiro-moorweide.de^$all
 ||chlapowo-spa.pl^$all
 ||choere-kontern-corona.de^$all
@@ -1449,6 +1455,7 @@
 ||haus-winkelmann.de^$all
 ||haushofgarten-teschner.de^$all
 ||hawaii-whirlpools.de^$all
+||hawesystems.de^$all
 ||hawktorebki.pl^$all
 ||hazartypav.de^$all
 ||hazels-blog.de^$all
@@ -1704,6 +1711,7 @@
 ||kajakurczuk.pl^$all
 ||kalmardarlowko.pl^$all
 ||kalteneck-araber.de^$all
+||kama-trauerbegleitung.de^$all
 ||kameralnysggw.pl^$all
 ||kamilkozybski.pl^$all
 ||kamilrytel.pl^$all
@@ -2487,6 +2495,7 @@
 ||pharmaciewaisman.fr^$all
 ||philcoinscollector.it^$all
 ||phonesanatomy.it^$all
+||phygitowka.pl^$all
 ||physio-elippmann.de^$all
 ||piano-barbary.fr^$all
 ||piantesucculente.it^$all
@@ -2658,6 +2667,7 @@
 ||rainbowwarszawa.pl^$all
 ||rainer-hagge.de^$all
 ||rajapizzeria-moers.de^$all
+||ralf-schwarzer.de^$all
 ||ramacities.biz^$all
 ||ramosprocuradores.es^$all
 ||rapid-services04.fr^$all
@@ -2926,6 +2936,7 @@
 ||skladbelzyce.pl^$all
 ||sklep4baby.pl^$all
 ||skoellis-beutefang.de^$all
+||skontowaldowo.pl^$all
 ||skotiilash.pl^$all
 ||skrobiszmeble.pl^$all
 ||skullsladytattooandgallery.es^$all
@@ -3344,6 +3355,7 @@
 ||vickiandgeirstravelblogg.es^$all
 ||vicoregio.it^$all
 ||villa-almira.eu^$all
+||villadubassin.fr^$all
 ||villaverdi-8.de^$all
 ||villaverganti.it^$all
 ||vilpia3d.es^$all
