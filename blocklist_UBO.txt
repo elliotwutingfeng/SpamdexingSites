@@ -182,6 +182,7 @@
 ||annabonfriscopress.it^$all
 ||annalisadesiata.it^$all
 ||annawasij.pl^$all
+||anneschmitz.fr^$all
 ||anningafotografie.nl^$all
 ||annkristin-blome.de^$all
 ||anremopatowek.pl^$all
@@ -739,6 +740,7 @@
 ||corse-environnement.fr^$all
 ||cortedellenobili.it^$all
 ||corvoaction.it^$all
+||cosmosomos.es^$all
 ||cotedazur-villarental.eu^$all
 ||covatoviaggi.it^$all
 ||covid19goods.nl^$all
@@ -864,6 +866,7 @@
 ||der-maier-reutlingen-mde.de^$all
 ||derhundlingluebeck.de^$all
 ||derkrittler.de^$all
+||deroom.pl^$all
 ||derrickmedia.com^$all
 ||dersteynhauer.de^$all
 ||desatascoscampeoncordoba.es^$all
@@ -872,6 +875,7 @@
 ||dessins-de-pinatel.fr^$all
 ||destockaisne.fr^$all
 ||deutsche-osteopathen.de^$all
+||devnowicki.pl^$all
 ||devopsy.pl^$all
 ||dewocjonalia-wadowice.pl^$all
 ||diabetesgel.nl^$all
@@ -1601,6 +1605,7 @@
 ||infopd-berlin.de^$all
 ||inforia.es^$all
 ||infosyncro.nl^$all
+||ingenio-patrimoine.fr^$all
 ||ingeschuffelen.nl^$all
 ||iniaviaggi.it^$all
 ||injecteur-tech.fr^$all
@@ -1975,6 +1980,7 @@
 ||love4home.eu^$all
 ||loveyourimage.es^$all
 ||lowacademy.nl^$all
+||lpterredesophro.fr^$all
 ||lrg-tp.fr^$all
 ||lt-global.eu^$all
 ||lubelskie-ogloszenia24.pl^$all
