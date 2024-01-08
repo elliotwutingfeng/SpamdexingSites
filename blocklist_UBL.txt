@@ -331,6 +331,7 @@
 *://*.bacibijoux.fr/*
 *://*.backstage-nice-metropole.fr/*
 *://*.badam-sluch.pl/*
+*://*.baden-gebaeudereinigung.de/*
 *://*.baeckerei-kaltenbach.de/*
 *://*.bagheriatech.it/*
 *://*.bakalorz-sportshop.de/*
@@ -1435,6 +1436,7 @@
 *://*.gutscheinscout.eu/*
 *://*.gwarectwomysliwych.pl/*
 *://*.gyorsan.eu/*
+*://*.gzspzawady.pl/*
 *://*.h-and-g.de/*
 *://*.h41r.pl/*
 *://*.hagepolska.pl/*
@@ -1672,6 +1674,7 @@
 *://*.jbbb.fr/*
 *://*.jbfilm.pl/*
 *://*.jdelivery.it/*
+*://*.jdverins.fr/*
 *://*.jelena-grjasnowa.de/*
 *://*.jemerecycle.fr/*
 *://*.jennyundbenny.de/*
@@ -2098,6 +2101,7 @@
 *://*.mazury-nocleg.pl/*
 *://*.mbcotton.pl/*
 *://*.mbe-oldenburg.de/*
+*://*.mbgomezlawyers.es/*
 *://*.mboards.eu/*
 *://*.mcarre.eu/*
 *://*.mcekipa.pl/*
@@ -2902,6 +2906,7 @@
 *://*.sgrcompeticiontallerdecoches.es/*
 *://*.shadowdivers.pl/*
 *://*.shafistillz.fr/*
+*://*.sharkoders.fr/*
 *://*.sharonbrunelli.it/*
 *://*.sheetkladde.de/*
 *://*.shell-drischberger.de/*
@@ -3398,6 +3403,7 @@
 *://*.waade-geraeteverleih.de/*
 *://*.waldemarrobak.pl/*
 *://*.waldseeclub.de/*
+*://*.walfriedtuschl.de/*
 *://*.walkindogs.it/*
 *://*.walter-fliesen-gmbh.de/*
 *://*.wandbilderlounge.de/*
