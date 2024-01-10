@@ -45,6 +45,7 @@
 ||absorlan.de^
 ||abstraktoria.pl^
 ||abteilung7bigband.de^
+||academievoorcontinuverbeteren.nl^
 ||acalonline.it^
 ||accademiadelcinemaares.it^
 ||aceconseileval.fr^
@@ -1258,6 +1259,7 @@
 ||forensoptics.de^
 ||forlovely.pl^
 ||formacion-maritima-profesional.es^
+||formacionyfuturo-online.es^
 ||formasdeproyectar.es^
 ||formationafest.fr^
 ||formazionemodatoscana.it^
@@ -2556,6 +2558,7 @@
 ||polomagnagrecia.it^
 ||poloniazamosc.pl^
 ||polskastomatologia.pl^
+||polskiprogrambadawczy.pl^
 ||polverpark.nl^
 ||poly3der.de^
 ||pomich.pl^
@@ -2730,6 +2733,7 @@
 ||restaurantecaspagesibiza.es^
 ||restaurantecastellon.es^
 ||restaurantlecardinal92.fr^
+||restraconsultancy.nl^
 ||retoburgeralicante.es^
 ||retro-meca.fr^
 ||retrogustobraceria.it^
