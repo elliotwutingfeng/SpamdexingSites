@@ -441,6 +441,7 @@
 ||bimosyn.eu^$all
 ||binas-bs.de^$all
 ||bineeditoregroup.it^$all
+||bingo-lot.nl^$all
 ||bio-cleaner.fr^$all
 ||bionexenergy.pl^$all
 ||biorak.pl^$all
