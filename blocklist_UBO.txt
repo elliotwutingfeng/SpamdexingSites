@@ -3104,6 +3104,7 @@
 ||sutherlandfelt.nl^$all
 ||sved-masszazs.eu^$all
 ||svibitobrzo.eu^$all
+||swietlicarozwoju.pl^$all
 ||swiftfin.nl^$all
 ||sylvainmultiservices.fr^$all
 ||synapsebiza.nl^$all
