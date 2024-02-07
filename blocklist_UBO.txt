@@ -993,6 +993,7 @@
 ||easeandsee.eu^$all
 ||easy-voucher.de^$all
 ||easyrenti.pl^$all
+||ebiznes24.pl^$all
 ||ecarsdm.pl^$all
 ||eclubpolito.it^$all
 ||ecm-uniecampus.it^$all
