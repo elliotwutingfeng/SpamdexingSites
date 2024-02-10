@@ -1820,6 +1820,7 @@
 *://*.kunstszene-leipzig.de/*
 *://*.kunz-modeundmehr.de/*
 *://*.kursyhiszpanskiegowhiszpanii-zador.pl/*
+*://*.kursyoutube.pl/*
 *://*.kwiaciarniastaszowska.pl/*
 *://*.kwiatynagranacie.pl/*
 *://*.kyboe.es/*
@@ -2233,6 +2234,7 @@
 *://*.mp3playershopping.de/*
 *://*.mpu-freising.de/*
 *://*.mr-borna-mde.de/*
+*://*.mrcls.pl/*
 *://*.mrtool.pl/*
 *://*.mrx-emploi-ouest.fr/*
 *://*.ms3d-shop.fr/*
