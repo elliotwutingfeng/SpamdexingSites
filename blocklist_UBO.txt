@@ -1800,6 +1800,7 @@
 ||konkursbocian.pl^$all
 ||koorlavendel.nl^$all
 ||kordonnier.fr^$all
+||kostkirubikacena.pl^$all
 ||kozbi.eu^$all
 ||kpb-consulting.fr^$all
 ||kpmg-gamechanger.it^$all
