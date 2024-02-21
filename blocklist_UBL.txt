@@ -2232,6 +2232,7 @@
 *://*.motoshine.pl/*
 *://*.movilink.es/*
 *://*.movkitchen.fr/*
+*://*.movylo.it/*
 *://*.mp3playershopping.de/*
 *://*.mpu-freising.de/*
 *://*.mr-borna-mde.de/*
