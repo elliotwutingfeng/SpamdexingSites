@@ -1667,6 +1667,7 @@
 ||ituoiocchiali.it^$all
 ||iugis.eu^$all
 ||jacapolska.pl^$all
+||jaffaarchitekci.pl^$all
 ||jagally34.pl^$all
 ||jakdziecko.pl^$all
 ||jamniki-szczytno.pl^$all
