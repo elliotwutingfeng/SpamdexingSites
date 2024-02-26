@@ -505,6 +505,7 @@
 ||boydhuigsloot.nl^$all
 ||bpvdekanaalstreek.nl^$all
 ||brasseriepompadour.fr^$all
+||breezeblooms.pl^$all
 ||brescianiline.it^$all
 ||breuer-zelte.de^$all
 ||brexitamsterdam.nl^$all
