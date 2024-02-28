@@ -94,6 +94,7 @@
 ||ai-technology.it^$all
 ||airsies.pl^$all
 ||aitnapartments.it^$all
+||aixplosive-tcg.de^$all
 ||aiyara.fr^$all
 ||ajrimmobilier.fr^$all
 ||akademie-westend.de^$all
