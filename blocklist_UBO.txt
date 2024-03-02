@@ -237,6 +237,7 @@
 ||armandofonzone.it^$all
 ||arnhem-open.nl^$all
 ||arquitectotecnicomadridsur.es^$all
+||arredamentiaroma.it^$all
 ||arresto-momentum.de^$all
 ||ars-passau.de^$all
 ||art-life-24.de^$all
@@ -661,6 +662,7 @@
 ||chimeneasyaccesorios.es^$all
 ||chiro-moorweide.de^$all
 ||chlapowo-spa.pl^$all
+||chlorophylle-environnement.fr^$all
 ||choere-kontern-corona.de^$all
 ||chriativzimmer.de^$all
 ||chrifon.nl^$all
@@ -1637,6 +1639,7 @@
 ||integrix.nl^$all
 ||intemporemed.pl^$all
 ||intensoaromadicaffe.it^$all
+||interact-europe.de^$all
 ||interbolex.pl^$all
 ||internationalkungfu.eu^$all
 ||interregrat.eu^$all
