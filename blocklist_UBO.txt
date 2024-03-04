@@ -1382,6 +1382,7 @@
 ||glamclinic.pl^$all
 ||glamours.fr^$all
 ||glaser.pl^$all
+||glaserei-pongratz.de^$all
 ||globalculture.es^$all
 ||glupglup.es^$all
 ||glutinamente.es^$all
@@ -2618,6 +2619,7 @@
 ||profluss.eu^$all
 ||progettogiovanicornedo.it^$all
 ||progettoh22.it^$all
+||progettomia.it^$all
 ||prognostizierbar.de^$all
 ||progressiveturfequip.eu^$all
 ||projekt-brandenburg-bilder.de^$all
@@ -3310,6 +3312,7 @@
 ||ukdgb1.de^$all
 ||ukiyo-studio.fr^$all
 ||ukrainawzlotowie.pl^$all
+||ul.to^$all
 ||ulis-berlin-tour.de^$all
 ||ulrike-wrobel.de^$all
 ||ultra8keuropa.es^$all
@@ -3330,6 +3333,7 @@
 ||unsertraumvomhof.de^$all
 ||unsicvarese.it^$all
 ||unternehmen-business-fotografie-berlin-brandenburg.de^$all
+||uploaded.to^$all
 ||urbanhedonist.pl^$all
 ||urbanworkoutroma.it^$all
 ||urbisvigilanza.it^$all
