@@ -2121,6 +2121,7 @@
 ||mcformations.fr^$all
 ||mcsautron.fr^$all
 ||md-viko.de^$all
+||mdparkiet.pl^$all
 ||mdtclinic.pl^$all
 ||meblemetalowesklep.pl^$all
 ||meblepedrak.pl^$all
@@ -2275,6 +2276,7 @@
 ||mygoya.pl^$all
 ||myilibrary.org^$all
 ||mysleeplab.de^$all
+||mystificus.pl^$all
 ||mystische-wesen.de^$all
 ||mysurepass.biz^$all
 ||mzakatek.pl^$all
@@ -2677,6 +2679,7 @@
 ||quattroenovantanove.it^$all
 ||queserepita.com^$all
 ||quiins-kings-fitness.de^$all
+||quilivorno.it^$all
 ||quilotrovo.it^$all
 ||rabattaltuzarra.de^$all
 ||rabattbalmain.de^$all
