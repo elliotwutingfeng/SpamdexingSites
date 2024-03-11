@@ -546,6 +546,7 @@
 ||calcestruzzivalleverde.it^$all
 ||call-center-w-chmurze.pl^$all
 ||callthefuture.fr^$all
+||callunamedica.pl^$all
 ||calpeapartments.es^$all
 ||calprisa.es^$all
 ||calzadosisarus.es^$all
@@ -1823,6 +1824,7 @@
 ||ksiegowosc-olsztyn.pl^$all
 ||ktforce.eu^$all
 ||kuchniadiego.pl^$all
+||kueken-fakten.de^$all
 ||kulturtur.eu^$all
 ||kunstpostkartengraf.de^$all
 ||kunstszene-leipzig.de^$all
@@ -2164,6 +2166,7 @@
 ||meubelflex.nl^$all
 ||meyer-bausanierung.de^$all
 ||mginterieur.nl^$all
+||mgmeblelublin.pl^$all
 ||michael-lai.com^$all
 ||michaelsemle.de^$all
 ||michelaeangelo.it^$all
