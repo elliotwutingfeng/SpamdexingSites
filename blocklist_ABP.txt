@@ -1325,6 +1325,7 @@
 ||gakker.eu^
 ||galabau-trautmann.de^
 ||galanteriafutrzana.pl^
+||galerialimes.pl^
 ||gallipolinvacanza.it^
 ||galloway-emmeram.de^
 ||gapbet.nl^
@@ -1510,6 +1511,7 @@
 ||hobos.pl^
 ||hochzeit-remsmurr.de^
 ||hochzeitcaronorman.de^
+||hodowlezkwp.pl^
 ||hoerverlag-berlin.de^
 ||hofalbrecht.nl^
 ||holazak.it^
@@ -1531,6 +1533,7 @@
 ||hsg-dhfk-boxen.de^
 ||hsg-elternbeirat.de^
 ||hubertus-ziemianski.pl^
+||hufeisen-werkstatt.de^
 ||hugo-live-band.de^
 ||hugomoreno.fr^
 ||huilders.es^
@@ -2465,6 +2468,7 @@
 ||pamelavolpi.it^
 ||pan.dev^
 ||panabas.es^
+||panmirek.pl^
 ||papalote.pl^
 ||papertrading.pl^
 ||papybio.fr^
@@ -2868,6 +2872,7 @@
 ||scenadumok.eu^
 ||scenografieflorealilarosarossa.it^
 ||scheherasade.eu^
+||schematron.org^
 ||scherershaeusla.de^
 ||schildersbedrijfvanmullem.nl^
 ||schildervanhetnoorden.nl^
@@ -3086,6 +3091,7 @@
 ||streetshots-weddingfilms.de^
 ||strefauvc.pl^
 ||stressbewaeltigung-mbsr.de^
+||strivingo.de^
 ||strivon.nl^
 ||strohschein-it.de^
 ||stronylaskowski.pl^

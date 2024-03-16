@@ -1325,6 +1325,7 @@
 ||gakker.eu^$all
 ||galabau-trautmann.de^$all
 ||galanteriafutrzana.pl^$all
+||galerialimes.pl^$all
 ||gallipolinvacanza.it^$all
 ||galloway-emmeram.de^$all
 ||gapbet.nl^$all
@@ -1510,6 +1511,7 @@
 ||hobos.pl^$all
 ||hochzeit-remsmurr.de^$all
 ||hochzeitcaronorman.de^$all
+||hodowlezkwp.pl^$all
 ||hoerverlag-berlin.de^$all
 ||hofalbrecht.nl^$all
 ||holazak.it^$all
@@ -1531,6 +1533,7 @@
 ||hsg-dhfk-boxen.de^$all
 ||hsg-elternbeirat.de^$all
 ||hubertus-ziemianski.pl^$all
+||hufeisen-werkstatt.de^$all
 ||hugo-live-band.de^$all
 ||hugomoreno.fr^$all
 ||huilders.es^$all
@@ -2465,6 +2468,7 @@
 ||pamelavolpi.it^$all
 ||pan.dev^$all
 ||panabas.es^$all
+||panmirek.pl^$all
 ||papalote.pl^$all
 ||papertrading.pl^$all
 ||papybio.fr^$all
@@ -2868,6 +2872,7 @@
 ||scenadumok.eu^$all
 ||scenografieflorealilarosarossa.it^$all
 ||scheherasade.eu^$all
+||schematron.org^$all
 ||scherershaeusla.de^$all
 ||schildersbedrijfvanmullem.nl^$all
 ||schildervanhetnoorden.nl^$all
@@ -3086,6 +3091,7 @@
 ||streetshots-weddingfilms.de^$all
 ||strefauvc.pl^$all
 ||stressbewaeltigung-mbsr.de^$all
+||strivingo.de^$all
 ||strivon.nl^$all
 ||strohschein-it.de^$all
 ||stronylaskowski.pl^$all
