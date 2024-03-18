@@ -2047,6 +2047,7 @@
 ||magmatstudio.pl^$all
 ||magmel.pl^$all
 ||magngym.de^$all
+||maharajaroth.de^$all
 ||mahnu.fr^$all
 ||mainradweg-service.de^$all
 ||maisondescopeaux.fr^$all
@@ -2219,6 +2220,7 @@
 ||mobiles-impfen-niedersachsen.de^$all
 ||mobiliarioofficedeco.es^$all
 ||mobilundaktiv.de^$all
+||mochauerland.de^$all
 ||moda-icone-woods.fr^$all
 ||modelcrop.org^$all
 ||modellbahnksm.de^$all
@@ -2517,6 +2519,7 @@
 ||pervestigo.de^$all
 ||peter-bergmann.de^$all
 ||peter-schmode.de^$all
+||petitdutt.de^$all
 ||petluditos.es^$all
 ||petra-siemens.de^$all
 ||petras-fruehstuecksstube.de^$all
@@ -2787,6 +2790,7 @@
 ||rmz-itzauen.de^$all
 ||roadrb.pl^$all
 ||robert-janke-immobilien.de^$all
+||roboter-freunde.de^$all
 ||rockapella-fanclub.de^$all
 ||rockycreekdesigns.eu^$all
 ||rodolfocastellana.it^$all
