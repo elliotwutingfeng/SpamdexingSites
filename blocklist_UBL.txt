@@ -2958,6 +2958,7 @@
 *://*.shopware-commerce.de/*
 *://*.shovondesign.com/*
 *://*.sidly-care.de/*
+*://*.sidodetailing.pl/*
 *://*.sidrerialajoguera.es/*
 *://*.sidroswimwear.pl/*
 *://*.siejek.pl/*

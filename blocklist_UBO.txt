@@ -2958,6 +2958,7 @@
 ||shopware-commerce.de^$all
 ||shovondesign.com^$all
 ||sidly-care.de^$all
+||sidodetailing.pl^$all
 ||sidrerialajoguera.es^$all
 ||sidroswimwear.pl^$all
 ||siejek.pl^$all
