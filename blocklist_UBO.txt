@@ -663,6 +663,7 @@
 ||chimeneasyaccesorios.es^$all
 ||chiro-moorweide.de^$all
 ||chlapowo-spa.pl^$all
+||chloethletic.fr^$all
 ||chlorophylle-environnement.fr^$all
 ||choere-kontern-corona.de^$all
 ||chriativzimmer.de^$all
@@ -855,6 +856,7 @@
 ||deichnaht.de^$all
 ||deinearztwebseite.de^$all
 ||deittitreffit.eu^$all
+||dekorelectrique.fr^$all
 ||delaherayrabadan.es^$all
 ||delfinet.pl^$all
 ||deli-deko.de^$all
@@ -1213,6 +1215,7 @@
 ||ffw-sparr.de^$all
 ||fibretesting.eu^$all
 ||fidelis-immo-lpa.fr^$all
+||fijewska-zdanowska.pl^$all
 ||filmstreamingweb.it^$all
 ||filmypozboju.pl^$all
 ||filtr-big-blue.pl^$all
@@ -1318,6 +1321,7 @@
 ||futbolmaniac.pl^$all
 ||fw-muensing.de^$all
 ||g-wood.pl^$all
+||g2rsolutionsetservices.fr^$all
 ||gabbianello.it^$all
 ||gabrielzorgenrouw.nl^$all
 ||gaertnerei-rech.de^$all
@@ -1772,6 +1776,7 @@
 ||kendy-fotografie.de^$all
 ||keshop.pl^$all
 ||kfz-landtechnik-behr.de^$all
+||kidssi.pl^$all
 ||kijkkoffie.nl^$all
 ||kikigarage.pl^$all
 ||kinderinfrasdorf.de^$all
@@ -2458,6 +2463,7 @@
 ||ovoshop.it^$all
 ||owiprod.fr^$all
 ||oztur-adatur.de^$all
+||pa-ma-meble.pl^$all
 ||pacon.it^$all
 ||padagoginhande.de^$all
 ||padelindooralbalat.es^$all
@@ -3137,6 +3143,7 @@
 ||sutherlandfelt.nl^$all
 ||sved-masszazs.eu^$all
 ||svibitobrzo.eu^$all
+||swiatdzieckakomis.pl^$all
 ||swietlicarozwoju.pl^$all
 ||swiftfin.nl^$all
 ||sylvainmultiservices.fr^$all
@@ -3383,6 +3390,7 @@
 ||vanityestetic.es^$all
 ||vapeandcig.de^$all
 ||vase-zahrada.eu^$all
+||vcbvire.fr^$all
 ||vdbbb.de^$all
 ||veelaanbiedingen.nl^$all
 ||vefaselection.fr^$all

@@ -663,6 +663,7 @@
 *://*.chimeneasyaccesorios.es/*
 *://*.chiro-moorweide.de/*
 *://*.chlapowo-spa.pl/*
+*://*.chloethletic.fr/*
 *://*.chlorophylle-environnement.fr/*
 *://*.choere-kontern-corona.de/*
 *://*.chriativzimmer.de/*
@@ -855,6 +856,7 @@
 *://*.deichnaht.de/*
 *://*.deinearztwebseite.de/*
 *://*.deittitreffit.eu/*
+*://*.dekorelectrique.fr/*
 *://*.delaherayrabadan.es/*
 *://*.delfinet.pl/*
 *://*.deli-deko.de/*
@@ -1213,6 +1215,7 @@
 *://*.ffw-sparr.de/*
 *://*.fibretesting.eu/*
 *://*.fidelis-immo-lpa.fr/*
+*://*.fijewska-zdanowska.pl/*
 *://*.filmstreamingweb.it/*
 *://*.filmypozboju.pl/*
 *://*.filtr-big-blue.pl/*
@@ -1318,6 +1321,7 @@
 *://*.futbolmaniac.pl/*
 *://*.fw-muensing.de/*
 *://*.g-wood.pl/*
+*://*.g2rsolutionsetservices.fr/*
 *://*.gabbianello.it/*
 *://*.gabrielzorgenrouw.nl/*
 *://*.gaertnerei-rech.de/*
@@ -1772,6 +1776,7 @@
 *://*.kendy-fotografie.de/*
 *://*.keshop.pl/*
 *://*.kfz-landtechnik-behr.de/*
+*://*.kidssi.pl/*
 *://*.kijkkoffie.nl/*
 *://*.kikigarage.pl/*
 *://*.kinderinfrasdorf.de/*
@@ -2458,6 +2463,7 @@
 *://*.ovoshop.it/*
 *://*.owiprod.fr/*
 *://*.oztur-adatur.de/*
+*://*.pa-ma-meble.pl/*
 *://*.pacon.it/*
 *://*.padagoginhande.de/*
 *://*.padelindooralbalat.es/*
@@ -3137,6 +3143,7 @@
 *://*.sutherlandfelt.nl/*
 *://*.sved-masszazs.eu/*
 *://*.svibitobrzo.eu/*
+*://*.swiatdzieckakomis.pl/*
 *://*.swietlicarozwoju.pl/*
 *://*.swiftfin.nl/*
 *://*.sylvainmultiservices.fr/*
@@ -3383,6 +3390,7 @@
 *://*.vanityestetic.es/*
 *://*.vapeandcig.de/*
 *://*.vase-zahrada.eu/*
+*://*.vcbvire.fr/*
 *://*.vdbbb.de/*
 *://*.veelaanbiedingen.nl/*
 *://*.vefaselection.fr/*
