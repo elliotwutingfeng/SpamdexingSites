@@ -1223,6 +1223,7 @@
 *://*.finalwars.eu/*
 *://*.financeconsult.pl/*
 *://*.finansowylis.pl/*
+*://*.finanzberater-schaaf.de/*
 *://*.finbase.it/*
 *://*.fincaelpardito.es/*
 *://*.findmdlaw.com/*
