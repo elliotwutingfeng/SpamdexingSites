@@ -163,6 +163,7 @@
 ||amsherzo.eu^$all
 ||amtech.es^$all
 ||amuzlodz-eog.pl^$all
+||an-decoris.pl^$all
 ||analizainternetowa.pl^$all
 ||andep.es^$all
 ||andragogikastosowana.pl^$all
@@ -425,6 +426,7 @@
 ||bezpiecznainwestycja.pl^$all
 ||bezpieczny-bytom.pl^$all
 ||bhabhapersianbistro.com^$all
+||bi-odenthal-erberich.de^$all
 ||bibliotecapanvini.it^$all
 ||biebertalonline.de^$all
 ||bielefelder-av.de^$all
@@ -606,6 +608,7 @@
 ||catswag.ch^$all
 ||cavi-sus.de^$all
 ||cavour48.it^$all
+||cbd-pure.eu^$all
 ||cbdmonblog.fr^$all
 ||ccgm.it^$all
 ||ccll-eu.eu^$all
