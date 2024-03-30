@@ -328,6 +328,7 @@
 ||azartyozo.de^$all
 ||azzurrimania.it^$all
 ||babole.es^$all
+||babskicatering.pl^$all
 ||baby-bear.pl^$all
 ||babydomainnamen.de^$all
 ||babykurse-mit-birgit.de^$all
@@ -1291,6 +1292,7 @@
 ||fotografie-rahmen.de^$all
 ||fotoimagegenova.it^$all
 ||fotomedytacje.pl^$all
+||fotosycha.pl^$all
 ||foulo.fr^$all
 ||fp7tornado.eu^$all
 ||francescolangella.it^$all
@@ -1665,6 +1667,7 @@
 ||invoper.es^$all
 ||inwestujwbrand.pl^$all
 ||iot-visitthefuture.eu^$all
+||iotsolution.eu^$all
 ||ipec-project.eu^$all
 ||ipodcases.biz^$all
 ||ipp-lernplattform.de^$all
@@ -2380,6 +2383,7 @@
 ||nuber.pl^$all
 ||nueva-energia.eu^$all
 ||number1store.pl^$all
+||numero-eori.fr^$all
 ||nupensierdagiu.it^$all
 ||nuriacarnsiaus.es^$all
 ||nutres.es^$all
@@ -3596,6 +3600,7 @@
 ||zielonosc.pl^$all
 ||zjghysjx.com^$all
 ||zmagazzini.it^$all
+||zmastart.nl^$all
 ||zoltobialozolta.pl^$all
 ||zomerschoolutrecht.nl^$all
 ||zonclubamstelveen.nl^$all
