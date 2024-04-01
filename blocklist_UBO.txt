@@ -185,6 +185,7 @@
 ||annabonfriscopress.it^$all
 ||annalisadesiata.it^$all
 ||annawasij.pl^$all
+||annazakrzewskaart.pl^$all
 ||anneschmitz.fr^$all
 ||anningafotografie.nl^$all
 ||annkristin-blome.de^$all
@@ -834,6 +835,7 @@
 ||damianpostek.pl^$all
 ||danas-perfect-nails.de^$all
 ||dance4fun.es^$all
+||dani-naeht.de^$all
 ||daniquevantilburg.nl^$all
 ||danke-fuer-nichts.de^$all
 ||darbau-service.de^$all
@@ -3500,6 +3502,7 @@
 ||wholesalereloads.eu^$all
 ||wiaradzwigniegory.pl^$all
 ||wicher-pomocdrogowa.pl^$all
+||wiebkes-seifenkiste.de^$all
 ||wielkopolska-nieruchomosci.pl^$all
 ||wiemjak.eu^$all
 ||wierzcholowskipremium.pl^$all
