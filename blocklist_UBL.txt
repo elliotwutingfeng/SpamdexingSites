@@ -2505,6 +2505,7 @@
 *://*.pascalservera.eu/*
 *://*.pasionfunkopop.es/*
 *://*.passalacqualuzon.it/*
+*://*.passionart-by-kamil.pl/*
 *://*.passionfiveservices.de/*
 *://*.passivhausmeister.de/*
 *://*.pastelowemisie.pl/*
