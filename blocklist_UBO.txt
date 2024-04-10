@@ -942,6 +942,7 @@
 ||dommorena.pl^$all
 ||dompodwroclawiem.pl^$all
 ||donutspaws.pl^$all
+||dopuzzlowani.pl^$all
 ||dor-reception.fr^$all
 ||dorf-benz.de^$all
 ||dorpshuisdepaol.nl^$all
@@ -2997,6 +2998,7 @@
 ||sixcasting.biz^$all
 ||sixsensesdestinationspaphuket.de^$all
 ||sk-web.eu^$all
+||ske.org.pl^$all
 ||skipper-klaus-vogel.de^$all
 ||skladbelzyce.pl^$all
 ||sklep4baby.pl^$all
@@ -3313,6 +3315,7 @@
 ||treptow-logopaedie.de^$all
 ||tresjoliedenise.it^$all
 ||treudata-service.de^$all
+||triathlonwzimnejwodzie.pl^$all
 ||tributabu.fr^$all
 ||trimsalondaapata.eu^$all
 ||trippyshoes.es^$all
