@@ -261,6 +261,7 @@
 *://*.arturceronski.pl/*
 *://*.artysciprzeciwnienawisci.pl/*
 *://*.aryabarberfranchising.it/*
+*://*.arztdata-club.de/*
 *://*.asbp.it/*
 *://*.asdbresciasportpiu.it/*
 *://*.asesoresbaza.es/*
@@ -803,6 +804,7 @@
 *://*.cvlostendales.es/*
 *://*.cvpi.es/*
 *://*.cwyk.fr/*
+*://*.cyber-sec.net.pl/*
 *://*.cyclespascalmichael.fr/*
 *://*.cynamonowyslon.pl/*
 *://*.cyprusbiodiversity.eu/*

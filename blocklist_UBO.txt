@@ -261,6 +261,7 @@
 ||arturceronski.pl^$all
 ||artysciprzeciwnienawisci.pl^$all
 ||aryabarberfranchising.it^$all
+||arztdata-club.de^$all
 ||asbp.it^$all
 ||asdbresciasportpiu.it^$all
 ||asesoresbaza.es^$all
@@ -803,6 +804,7 @@
 ||cvlostendales.es^$all
 ||cvpi.es^$all
 ||cwyk.fr^$all
+||cyber-sec.net.pl^$all
 ||cyclespascalmichael.fr^$all
 ||cynamonowyslon.pl^$all
 ||cyprusbiodiversity.eu^$all
