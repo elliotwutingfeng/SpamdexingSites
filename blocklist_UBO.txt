@@ -1011,6 +1011,7 @@
 ||easyrenti.pl^$all
 ||ebiznes24.pl^$all
 ||ecarsdm.pl^$all
+||ecc-belgium.eu^$all
 ||eclubpolito.it^$all
 ||ecm-uniecampus.it^$all
 ||eco-ricicli-filiere.it^$all
@@ -3533,6 +3534,7 @@
 ||wojartrans.pl^$all
 ||wollewelt-online.de^$all
 ||wollzauber-dortmund.de^$all
+||wolverineschuhes.de^$all
 ||womanslife.nl^$all
 ||womenlookingharmonydating.eu^$all
 ||woordenvanliefde.nl^$all
