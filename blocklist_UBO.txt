@@ -138,6 +138,7 @@
 ||allparam.es^$all
 ||allroundversicherer.de^$all
 ||alltagsservice-erdmann.de^$all
+||allure2000.fr^$all
 ||almanaccoreggiano.it^$all
 ||alpha-computers.eu^$all
 ||alphainversores.es^$all
