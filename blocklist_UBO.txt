@@ -329,6 +329,7 @@
 ||azahardeestepona.es^$all
 ||azartyduqu.de^$all
 ||azartyozo.de^$all
+||azerbaijanibonus.eu^$all
 ||azzurrimania.it^$all
 ||babole.es^$all
 ||babskicatering.pl^$all
@@ -1630,6 +1631,7 @@
 ||indecomazury.pl^$all
 ||indenboschuit.nl^$all
 ||indianadriana.pl^$all
+||inecper.pl^$all
 ||inesterron.es^$all
 ||infanziaedintorni.it^$all
 ||infiniboost.nl^$all
