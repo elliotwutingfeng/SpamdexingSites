@@ -3023,6 +3023,7 @@
 ||slawno-noclegi.pl^$all
 ||sld-duesseldorf.de^$all
 ||slest2-0.eu^$all
+||slubnewezwanie.pl^$all
 ||smarek.pl^$all
 ||smartestore.it^$all
 ||smartintienda.es^$all
