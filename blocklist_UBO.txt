@@ -3301,6 +3301,7 @@
 ||torsten-hochmuth.de^$all
 ||tourismtrends.eu^$all
 ||tousavecalex.fr^$all
+||toystars.pl^$all
 ||tpesolutions.fr^$all
 ||tpve.fr^$all
 ||trabocchifeltrinoeuropa.it^$all
