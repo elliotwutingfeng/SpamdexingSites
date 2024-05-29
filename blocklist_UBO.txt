@@ -1865,6 +1865,7 @@
 ||la-margot.it^$all
 ||la-roulette.it^$all
 ||la-vitrine.eu^$all
+||laboiteacoccs.fr^$all
 ||laboratrieste.it^$all
 ||laboutiquedepaul.fr^$all
 ||labuenavida40.fr^$all
@@ -2073,6 +2074,7 @@
 ||mahnu.fr^$all
 ||mainradweg-service.de^$all
 ||maisondescopeaux.fr^$all
+||majao.pl^$all
 ||makeitup.es^$all
 ||malagawellness.es^$all
 ||malenews.nl^$all
@@ -2370,6 +2372,7 @@
 ||nlpwetenschap.nl^$all
 ||noahboats.de^$all
 ||nochefcookin.nl^$all
+||noclegi-jeziora-lasy.pl^$all
 ||nokostudio.pl^$all
 ||nonsolorologi.eu^$all
 ||noorderflow.nl^$all
