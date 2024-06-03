@@ -2747,6 +2747,7 @@
 ||rauscher-elektro.de^$all
 ||rbtechnology.it^$all
 ||rc-store.biz^$all
+||realistyczny.pl^$all
 ||realityslovacko.eu^$all
 ||reasonsforeurope.eu^$all
 ||rechnen-visuell-lernen.de^$all
