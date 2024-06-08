@@ -2630,6 +2630,7 @@
 ||postaw-namiot.pl^$all
 ||postime.pl^$all
 ||potagezvous.fr^$all
+||potesdhopale.fr^$all
 ||pozytywnaportal.pl^$all
 ||pparchem.pl^$all
 ||ppkarton.pl^$all
