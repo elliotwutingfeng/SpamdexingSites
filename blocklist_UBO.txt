@@ -2320,6 +2320,7 @@
 ||nadziejazwyciestwo.pl^$all
 ||nagareeventos.es^$all
 ||naimaservices.it^$all
+||najtanszadrogeria.pl^$all
 ||nakshaat.eu^$all
 ||naprawylaptopa.pl^$all
 ||naszalaliga.pl^$all
