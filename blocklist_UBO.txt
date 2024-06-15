@@ -472,6 +472,7 @@
 ||blackthornian.eu^$all
 ||blaich-sportpartner.de^$all
 ||blancolaguia.es^$all
+||blastrasgas.es^$all
 ||blitzify.nl^$all
 ||blog-terreimaginaire.fr^$all
 ||blogaudilex.es^$all
@@ -1927,6 +1928,7 @@
 ||leaveliveleaf.eu^$all
 ||lebeaumarchais.fr^$all
 ||leben-ohne-essstoerung.de^$all
+||lebijouxvert.es^$all
 ||leboisdeco.fr^$all
 ||lecentredoccasion.fr^$all
 ||leclosdeshuypres.fr^$all
@@ -2136,6 +2138,7 @@
 ||matrioscafarmacia.it^$all
 ||matteotricarico.it^$all
 ||matthias-krueckl.de^$all
+||mawartoto.pl^$all
 ||max-raddatz.de^$all
 ||max-titan-gel-gold.eu^$all
 ||max-xtrazex.eu^$all
@@ -3200,6 +3203,7 @@
 ||talleresjesusgil.es^$all
 ||talleresniza.es^$all
 ||tallermidasgines.es^$all
+||tamgdzienogiponiosa.pl^$all
 ||tanieszparowanie.pl^$all
 ||tanja-pohl.de^$all
 ||tappezzeriadatres.it^$all
