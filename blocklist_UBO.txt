@@ -32,6 +32,7 @@
 ||a2minutidallospedale.it^$all
 ||aaronrodriguez.es^$all
 ||abc-d-kist.de^$all
+||abcfoliababelkowa.pl^$all
 ||abemedical.pl^$all
 ||abitarevivia.it^$all
 ||abnehmen-aktiv.de^$all
@@ -1848,6 +1849,7 @@
 ||kraamzorgwijs.nl^$all
 ||krakoinapartments.pl^$all
 ||kreditnot.de^$all
+||kredytydlafirm-elblag.pl^$all
 ||krolestwocynamonu.pl^$all
 ||krolow.pl^$all
 ||krosnofotowoltaika.pl^$all
@@ -2226,6 +2228,7 @@
 ||mimko.pl^$all
 ||mindhala.es^$all
 ||minimashop.eu^$all
+||mining-anbieter.de^$all
 ||minisoccerbal.pl^$all
 ||minkybaby.pl^$all
 ||miramarecarini.it^$all
@@ -2654,6 +2657,7 @@
 ||praxis-katscher-knauer.de^$all
 ||premiobrassens.it^$all
 ||premiumshisha.nl^$all
+||premiumsklep.pl^$all
 ||prenatalia.pl^$all
 ||prepperstash.pl^$all
 ||presentory.de^$all
@@ -3063,6 +3067,7 @@
 ||sokoll-computers.de^$all
 ||solenita.pl^$all
 ||solis-online.de^$all
+||solletico.pl^$all
 ||solucionsreals.es^$all
 ||solutions-entreprise.fr^$all
 ||sonnenblick-wildenfels.de^$all
@@ -3370,6 +3375,7 @@
 ||tutinutricion.es^$all
 ||tweedehandsfietsenmarkt.nl^$all
 ||twoj-maluch.pl^$all
+||twojodkurzacz.pl^$all
 ||tyamarigliano.it^$all
 ||tynkimaszynowekrakow.pl^$all
 ||typ-coach.de^$all
@@ -3435,6 +3441,7 @@
 ||vanitybaby.es^$all
 ||vanityestetic.es^$all
 ||vapeandcig.de^$all
+||vapepage.pl^$all
 ||vase-zahrada.eu^$all
 ||vcbvire.fr^$all
 ||vdbbb.de^$all
