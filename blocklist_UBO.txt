@@ -1474,6 +1474,7 @@
 ||gyorsan.eu^$all
 ||gzspzawady.pl^$all
 ||h-and-g.de^$all
+||h-jw.com.pl^$all
 ||h41r.pl^$all
 ||hagepolska.pl^$all
 ||hakima-hassine.fr^$all
@@ -1741,6 +1742,7 @@
 ||joecapista.eu^$all
 ||josevicenteabogado.es^$all
 ||jouerautennis.fr^$all
+||jousei.pl^$all
 ||jozwiakrafal.pl^$all
 ||ju-schwalbach.de^$all
 ||jubilee-ace-info.de^$all
@@ -2335,6 +2337,7 @@
 ||najtanszadrogeria.pl^$all
 ||nakshaat.eu^$all
 ||naprawylaptopa.pl^$all
+||narzeczonanarkomana.pl^$all
 ||naszalaliga.pl^$all
 ||natalialuczak.pl^$all
 ||natas-berlin.de^$all
@@ -2402,6 +2405,7 @@
 ||novaspirit.es^$all
 ||novum-nowaslupia.pl^$all
 ||nowaanvraag.nl^$all
+||nowoczesneszkolenia.pl^$all
 ||nowybuklak.pl^$all
 ||nsl-skateparks.de^$all
 ||nuagecaramelise.fr^$all
@@ -2719,6 +2723,7 @@
 ||pulsarb.nl^$all
 ||puntoexpress.es^$all
 ||puppenstube-bamberg.de^$all
+||puppywear.pl^$all
 ||purokawa.pl^$all
 ||pygmalion-effect.fr^$all
 ||pzhgp-gostyn.pl^$all
@@ -3145,6 +3150,7 @@
 ||stranoamilano.it^$all
 ||strategycraft.nl^$all
 ||straz.it^$all
+||streamoflight.pl^$all
 ||streetarteverywhere.fr^$all
 ||streetshots-weddingfilms.de^$all
 ||strefauvc.pl^$all
