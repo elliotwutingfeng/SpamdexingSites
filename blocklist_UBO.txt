@@ -741,6 +741,7 @@
 ||comunitamindful.it^$all
 ||conceptvaning.fr^$all
 ||congo-paint.fr^$all
+||congresoenesa2023.es^$all
 ||connektyou.fr^$all
 ||conquistailtuofuturo.it^$all
 ||consorzioastro.it^$all
