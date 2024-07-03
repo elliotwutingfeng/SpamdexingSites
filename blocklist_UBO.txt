@@ -1573,6 +1573,7 @@
 ||hundesalon-el-roi.de^$all
 ||hundesalon-pino.de^$all
 ||hundundpfote.de^$all
+||hungrydays.fr^$all
 ||huracanpadel.it^$all
 ||hurdsgra.pl^$all
 ||hurry-cut.de^$all
@@ -2275,6 +2276,7 @@
 ||monika-maratova.eu^$all
 ||montepaoneviaggi.it^$all
 ||montevidoncombatte.eu^$all
+||monval.es^$all
 ||moresearch.pl^$all
 ||morindainfantil.es^$all
 ||mosa22.pl^$all
