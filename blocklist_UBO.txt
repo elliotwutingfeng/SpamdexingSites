@@ -534,6 +534,7 @@
 ||buchhaltungbayern.de^$all
 ||bughy.it^$all
 ||bukowski-remonty.pl^$all
+||bularmoric.fr^$all
 ||bulimie.eu^$all
 ||bullesetvous.fr^$all
 ||bundeswehr-ingolstadt.de^$all
