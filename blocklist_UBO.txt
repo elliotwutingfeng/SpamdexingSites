@@ -2055,6 +2055,7 @@
 ||luisafassino.it^$all
 ||lumiere-lab.pl^$all
 ||lunarastore.pl^$all
+||lunetlautrephotographes.fr^$all
 ||lupka24.pl^$all
 ||lustambild.de^$all
 ||luther-trifft-franziskus.de^$all
