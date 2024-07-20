@@ -397,6 +397,7 @@
 ||behindthebox.de^$all
 ||bejessa.de^$all
 ||bekonscot.eu^$all
+||belarusianbonus.eu^$all
 ||belerf.de^$all
 ||believeshoponline.it^$all
 ||belkasart.de^$all
@@ -1026,6 +1027,7 @@
 ||ecm-uniecampus.it^$all
 ||eco-plus-habitat.fr^$all
 ||eco-ricicli-filiere.it^$all
+||ecoclip-project.eu^$all
 ||ecodnova.pl^$all
 ||ecomise.eu^$all
 ||economischdoorleren.nl^$all
