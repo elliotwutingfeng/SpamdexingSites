@@ -1145,6 +1145,7 @@
 ||estylshop.pl^$all
 ||etevia.eu^$all
 ||ethnasia.it^$all
+||etudespragmatiques.fr^$all
 ||eufloodcommand.eu^$all
 ||eukorea-fire.eu^$all
 ||euro-autoo.pl^$all
@@ -2494,6 +2495,7 @@
 ||osrodekdompodlasem.pl^$all
 ||osswald-wandert.de^$all
 ||osteopathie-poing.de^$all
+||osteriaeraora.it^$all
 ||ostojacamp.pl^$all
 ||ostseeurlaub-2019.de^$all
 ||ostseevelosophen.de^$all
