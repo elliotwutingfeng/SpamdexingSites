@@ -472,6 +472,7 @@
 ||biznesdaddy.pl^$all
 ||bizplatform.pl^$all
 ||bizuterniczka.pl^$all
+||blackclover-mobile.fr^$all
 ||blackfridayakcja.pl^$all
 ||blacktaste.pl^$all
 ||blackthornian.eu^$all
@@ -1376,6 +1377,7 @@
 ||gdyyqcyp.com^$all
 ||gebessert.de^$all
 ||gebufft.de^$all
+||geltopitaly.it^$all
 ||gemaelde-boerse.de^$all
 ||genadvice.es^$all
 ||genitoriproscuola.it^$all
