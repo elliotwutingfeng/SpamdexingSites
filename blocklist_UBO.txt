@@ -1517,6 +1517,7 @@
 ||healinglightviseum.eu^$all
 ||healthyshit.nl^$all
 ||heatpipepisa.it^$all
+||hebrewbonus.eu^$all
 ||hedder.pl^$all
 ||heidrunjochims.de^$all
 ||heilende-energie.eu^$all
