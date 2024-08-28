@@ -1471,6 +1471,7 @@
 ||gtctrading.pl^$all
 ||gti-windykacja.pl^$all
 ||gtymmo.fr^$all
+||guanabay.fr^$all
 ||guengoer-tga.de^$all
 ||guidatwitter.it^$all
 ||guidogezellelaan102.nl^$all
