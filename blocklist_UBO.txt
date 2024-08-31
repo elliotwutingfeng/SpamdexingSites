@@ -365,6 +365,7 @@
 ||barbarabijoux.it^$all
 ||barberone.fr^$all
 ||bardepintxosdonostia.es^$all
+||barfoodporn.pl^$all
 ||bargelateriaarcobaleno.it^$all
 ||barrows-insurance.eu^$all
 ||barworkacademy.pl^$all
