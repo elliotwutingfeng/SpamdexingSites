@@ -1305,6 +1305,7 @@
 ||forstbetrieb-baumann.de^$all
 ||fortepianino.pl^$all
 ||forum-minerva.de^$all
+||fosolympiqueclub.fr^$all
 ||foto-agent.pl^$all
 ||fotoart-canarias.es^$all
 ||fotobenevento.it^$all
